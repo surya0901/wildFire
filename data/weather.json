@@ -1,0 +1,7002 @@
+{
+  "85000": {
+    "city": "Tampa",
+    "temperature_F": 107,
+    "humidity_percent": 14,
+    "heat_index_F": 111,
+    "uv_index": 12
+  },
+  "85001": {
+    "city": "Minneapolis",
+    "temperature_F": 104,
+    "humidity_percent": 45,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85002": {
+    "city": "Philadelphia",
+    "temperature_F": 96,
+    "humidity_percent": 88,
+    "heat_index_F": 122,
+    "uv_index": 6
+  },
+  "85003": {
+    "city": "Philadelphia",
+    "temperature_F": 98,
+    "humidity_percent": 32,
+    "heat_index_F": 107,
+    "uv_index": 8
+  },
+  "85004": {
+    "city": "Las Vegas",
+    "temperature_F": 115,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85005": {
+    "city": "Houston",
+    "temperature_F": 86,
+    "humidity_percent": 85,
+    "heat_index_F": 111,
+    "uv_index": 10
+  },
+  "85006": {
+    "city": "St. Louis",
+    "temperature_F": 101,
+    "humidity_percent": 84,
+    "heat_index_F": 126,
+    "uv_index": 5
+  },
+  "85007": {
+    "city": "Denver",
+    "temperature_F": 85,
+    "humidity_percent": 38,
+    "heat_index_F": 96,
+    "uv_index": 7
+  },
+  "85008": {
+    "city": "Miami",
+    "temperature_F": 112,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85009": {
+    "city": "San Antonio",
+    "temperature_F": 114,
+    "humidity_percent": 41,
+    "heat_index_F": 126,
+    "uv_index": 7
+  },
+  "85010": {
+    "city": "Philadelphia",
+    "temperature_F": 109,
+    "humidity_percent": 87,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85011": {
+    "city": "San Antonio",
+    "temperature_F": 111,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85012": {
+    "city": "Phoenix",
+    "temperature_F": 105,
+    "humidity_percent": 63,
+    "heat_index_F": 123,
+    "uv_index": 11
+  },
+  "85013": {
+    "city": "Phoenix",
+    "temperature_F": 92,
+    "humidity_percent": 28,
+    "heat_index_F": 100,
+    "uv_index": 12
+  },
+  "85014": {
+    "city": "Orlando",
+    "temperature_F": 103,
+    "humidity_percent": 73,
+    "heat_index_F": 124,
+    "uv_index": 12
+  },
+  "85015": {
+    "city": "New York",
+    "temperature_F": 93,
+    "humidity_percent": 73,
+    "heat_index_F": 114,
+    "uv_index": 10
+  },
+  "85016": {
+    "city": "Houston",
+    "temperature_F": 92,
+    "humidity_percent": 19,
+    "heat_index_F": 97,
+    "uv_index": 8
+  },
+  "85017": {
+    "city": "Denver",
+    "temperature_F": 98,
+    "humidity_percent": 51,
+    "heat_index_F": 113,
+    "uv_index": 5
+  },
+  "85018": {
+    "city": "Boston",
+    "temperature_F": 97,
+    "humidity_percent": 22,
+    "heat_index_F": 103,
+    "uv_index": 8
+  },
+  "85019": {
+    "city": "Boston",
+    "temperature_F": 109,
+    "humidity_percent": 27,
+    "heat_index_F": 117,
+    "uv_index": 8
+  },
+  "85020": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 24,
+    "heat_index_F": 101,
+    "uv_index": 7
+  },
+  "85021": {
+    "city": "Phoenix",
+    "temperature_F": 97,
+    "humidity_percent": 18,
+    "heat_index_F": 102,
+    "uv_index": 9
+  },
+  "85022": {
+    "city": "Dallas",
+    "temperature_F": 120,
+    "humidity_percent": 16,
+    "heat_index_F": 124,
+    "uv_index": 6
+  },
+  "85023": {
+    "city": "Orlando",
+    "temperature_F": 117,
+    "humidity_percent": 52,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85024": {
+    "city": "Philadelphia",
+    "temperature_F": 90,
+    "humidity_percent": 38,
+    "heat_index_F": 101,
+    "uv_index": 7
+  },
+  "85025": {
+    "city": "St. Louis",
+    "temperature_F": 90,
+    "humidity_percent": 65,
+    "heat_index_F": 109,
+    "uv_index": 12
+  },
+  "85026": {
+    "city": "Detroit",
+    "temperature_F": 98,
+    "humidity_percent": 43,
+    "heat_index_F": 110,
+    "uv_index": 6
+  },
+  "85027": {
+    "city": "Minneapolis",
+    "temperature_F": 101,
+    "humidity_percent": 81,
+    "heat_index_F": 125,
+    "uv_index": 6
+  },
+  "85028": {
+    "city": "Seattle",
+    "temperature_F": 115,
+    "humidity_percent": 18,
+    "heat_index_F": 120,
+    "uv_index": 9
+  },
+  "85029": {
+    "city": "Boston",
+    "temperature_F": 97,
+    "humidity_percent": 54,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85030": {
+    "city": "Phoenix",
+    "temperature_F": 88,
+    "humidity_percent": 86,
+    "heat_index_F": 113,
+    "uv_index": 10
+  },
+  "85031": {
+    "city": "Philadelphia",
+    "temperature_F": 114,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85032": {
+    "city": "Cleveland",
+    "temperature_F": 103,
+    "humidity_percent": 13,
+    "heat_index_F": 106,
+    "uv_index": 8
+  },
+  "85033": {
+    "city": "Detroit",
+    "temperature_F": 101,
+    "humidity_percent": 65,
+    "heat_index_F": 120,
+    "uv_index": 6
+  },
+  "85034": {
+    "city": "Detroit",
+    "temperature_F": 115,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85035": {
+    "city": "St. Louis",
+    "temperature_F": 92,
+    "humidity_percent": 79,
+    "heat_index_F": 115,
+    "uv_index": 9
+  },
+  "85036": {
+    "city": "Las Vegas",
+    "temperature_F": 112,
+    "humidity_percent": 20,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85037": {
+    "city": "Dallas",
+    "temperature_F": 117,
+    "humidity_percent": 53,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85038": {
+    "city": "New York",
+    "temperature_F": 120,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85039": {
+    "city": "Miami",
+    "temperature_F": 116,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85040": {
+    "city": "Las Vegas",
+    "temperature_F": 85,
+    "humidity_percent": 41,
+    "heat_index_F": 97,
+    "uv_index": 9
+  },
+  "85041": {
+    "city": "Chicago",
+    "temperature_F": 119,
+    "humidity_percent": 82,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85042": {
+    "city": "Orlando",
+    "temperature_F": 89,
+    "humidity_percent": 73,
+    "heat_index_F": 110,
+    "uv_index": 10
+  },
+  "85043": {
+    "city": "Dallas",
+    "temperature_F": 120,
+    "humidity_percent": 73,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85044": {
+    "city": "Philadelphia",
+    "temperature_F": 99,
+    "humidity_percent": 28,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85045": {
+    "city": "Dallas",
+    "temperature_F": 93,
+    "humidity_percent": 54,
+    "heat_index_F": 109,
+    "uv_index": 8
+  },
+  "85046": {
+    "city": "Los Angeles",
+    "temperature_F": 94,
+    "humidity_percent": 68,
+    "heat_index_F": 114,
+    "uv_index": 10
+  },
+  "85047": {
+    "city": "Cleveland",
+    "temperature_F": 86,
+    "humidity_percent": 33,
+    "heat_index_F": 95,
+    "uv_index": 5
+  },
+  "85048": {
+    "city": "St. Louis",
+    "temperature_F": 95,
+    "humidity_percent": 64,
+    "heat_index_F": 114,
+    "uv_index": 8
+  },
+  "85049": {
+    "city": "St. Louis",
+    "temperature_F": 112,
+    "humidity_percent": 16,
+    "heat_index_F": 116,
+    "uv_index": 12
+  },
+  "85050": {
+    "city": "Cleveland",
+    "temperature_F": 101,
+    "humidity_percent": 54,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85051": {
+    "city": "Denver",
+    "temperature_F": 88,
+    "humidity_percent": 12,
+    "heat_index_F": 91,
+    "uv_index": 12
+  },
+  "85052": {
+    "city": "Cleveland",
+    "temperature_F": 117,
+    "humidity_percent": 89,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85053": {
+    "city": "Tampa",
+    "temperature_F": 109,
+    "humidity_percent": 31,
+    "heat_index_F": 118,
+    "uv_index": 8
+  },
+  "85054": {
+    "city": "Cleveland",
+    "temperature_F": 88,
+    "humidity_percent": 54,
+    "heat_index_F": 104,
+    "uv_index": 9
+  },
+  "85055": {
+    "city": "Denver",
+    "temperature_F": 87,
+    "humidity_percent": 50,
+    "heat_index_F": 102,
+    "uv_index": 6
+  },
+  "85056": {
+    "city": "Atlanta",
+    "temperature_F": 101,
+    "humidity_percent": 87,
+    "heat_index_F": 127,
+    "uv_index": 8
+  },
+  "85057": {
+    "city": "New York",
+    "temperature_F": 111,
+    "humidity_percent": 46,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85058": {
+    "city": "Philadelphia",
+    "temperature_F": 91,
+    "humidity_percent": 22,
+    "heat_index_F": 97,
+    "uv_index": 10
+  },
+  "85059": {
+    "city": "Boston",
+    "temperature_F": 112,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85060": {
+    "city": "Cleveland",
+    "temperature_F": 101,
+    "humidity_percent": 11,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85061": {
+    "city": "Seattle",
+    "temperature_F": 102,
+    "humidity_percent": 38,
+    "heat_index_F": 113,
+    "uv_index": 12
+  },
+  "85062": {
+    "city": "Houston",
+    "temperature_F": 98,
+    "humidity_percent": 33,
+    "heat_index_F": 107,
+    "uv_index": 5
+  },
+  "85063": {
+    "city": "Seattle",
+    "temperature_F": 103,
+    "humidity_percent": 73,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85064": {
+    "city": "Seattle",
+    "temperature_F": 115,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85065": {
+    "city": "Phoenix",
+    "temperature_F": 111,
+    "humidity_percent": 71,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85066": {
+    "city": "Detroit",
+    "temperature_F": 119,
+    "humidity_percent": 23,
+    "heat_index_F": 125,
+    "uv_index": 5
+  },
+  "85067": {
+    "city": "Detroit",
+    "temperature_F": 93,
+    "humidity_percent": 21,
+    "heat_index_F": 99,
+    "uv_index": 10
+  },
+  "85068": {
+    "city": "New York",
+    "temperature_F": 101,
+    "humidity_percent": 30,
+    "heat_index_F": 110,
+    "uv_index": 9
+  },
+  "85069": {
+    "city": "Seattle",
+    "temperature_F": 106,
+    "humidity_percent": 79,
+    "heat_index_F": 129,
+    "uv_index": 7
+  },
+  "85070": {
+    "city": "Los Angeles",
+    "temperature_F": 102,
+    "humidity_percent": 12,
+    "heat_index_F": 105,
+    "uv_index": 12
+  },
+  "85071": {
+    "city": "Seattle",
+    "temperature_F": 102,
+    "humidity_percent": 57,
+    "heat_index_F": 119,
+    "uv_index": 7
+  },
+  "85072": {
+    "city": "Chicago",
+    "temperature_F": 106,
+    "humidity_percent": 63,
+    "heat_index_F": 124,
+    "uv_index": 12
+  },
+  "85073": {
+    "city": "Boston",
+    "temperature_F": 99,
+    "humidity_percent": 83,
+    "heat_index_F": 123,
+    "uv_index": 12
+  },
+  "85074": {
+    "city": "Boston",
+    "temperature_F": 115,
+    "humidity_percent": 61,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85075": {
+    "city": "Dallas",
+    "temperature_F": 89,
+    "humidity_percent": 20,
+    "heat_index_F": 95,
+    "uv_index": 10
+  },
+  "85076": {
+    "city": "Atlanta",
+    "temperature_F": 85,
+    "humidity_percent": 66,
+    "heat_index_F": 104,
+    "uv_index": 12
+  },
+  "85077": {
+    "city": "Orlando",
+    "temperature_F": 98,
+    "humidity_percent": 54,
+    "heat_index_F": 114,
+    "uv_index": 9
+  },
+  "85078": {
+    "city": "Los Angeles",
+    "temperature_F": 94,
+    "humidity_percent": 17,
+    "heat_index_F": 99,
+    "uv_index": 7
+  },
+  "85079": {
+    "city": "Tampa",
+    "temperature_F": 97,
+    "humidity_percent": 54,
+    "heat_index_F": 113,
+    "uv_index": 11
+  },
+  "85080": {
+    "city": "Tampa",
+    "temperature_F": 96,
+    "humidity_percent": 30,
+    "heat_index_F": 105,
+    "uv_index": 8
+  },
+  "85081": {
+    "city": "San Antonio",
+    "temperature_F": 93,
+    "humidity_percent": 61,
+    "heat_index_F": 111,
+    "uv_index": 7
+  },
+  "85082": {
+    "city": "New York",
+    "temperature_F": 110,
+    "humidity_percent": 26,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85083": {
+    "city": "Dallas",
+    "temperature_F": 96,
+    "humidity_percent": 37,
+    "heat_index_F": 107,
+    "uv_index": 6
+  },
+  "85084": {
+    "city": "Houston",
+    "temperature_F": 117,
+    "humidity_percent": 15,
+    "heat_index_F": 121,
+    "uv_index": 7
+  },
+  "85085": {
+    "city": "San Antonio",
+    "temperature_F": 113,
+    "humidity_percent": 36,
+    "heat_index_F": 123,
+    "uv_index": 6
+  },
+  "85086": {
+    "city": "Boston",
+    "temperature_F": 110,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85087": {
+    "city": "Seattle",
+    "temperature_F": 89,
+    "humidity_percent": 27,
+    "heat_index_F": 97,
+    "uv_index": 11
+  },
+  "85088": {
+    "city": "Detroit",
+    "temperature_F": 87,
+    "humidity_percent": 29,
+    "heat_index_F": 95,
+    "uv_index": 7
+  },
+  "85089": {
+    "city": "Minneapolis",
+    "temperature_F": 112,
+    "humidity_percent": 29,
+    "heat_index_F": 120,
+    "uv_index": 11
+  },
+  "85090": {
+    "city": "Detroit",
+    "temperature_F": 105,
+    "humidity_percent": 45,
+    "heat_index_F": 118,
+    "uv_index": 8
+  },
+  "85091": {
+    "city": "Las Vegas",
+    "temperature_F": 100,
+    "humidity_percent": 43,
+    "heat_index_F": 112,
+    "uv_index": 10
+  },
+  "85092": {
+    "city": "St. Louis",
+    "temperature_F": 86,
+    "humidity_percent": 63,
+    "heat_index_F": 104,
+    "uv_index": 9
+  },
+  "85093": {
+    "city": "Denver",
+    "temperature_F": 107,
+    "humidity_percent": 81,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85094": {
+    "city": "Minneapolis",
+    "temperature_F": 116,
+    "humidity_percent": 64,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85095": {
+    "city": "Tampa",
+    "temperature_F": 115,
+    "humidity_percent": 24,
+    "heat_index_F": 122,
+    "uv_index": 7
+  },
+  "85096": {
+    "city": "Phoenix",
+    "temperature_F": 108,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85097": {
+    "city": "San Antonio",
+    "temperature_F": 115,
+    "humidity_percent": 51,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85098": {
+    "city": "Denver",
+    "temperature_F": 108,
+    "humidity_percent": 65,
+    "heat_index_F": 127,
+    "uv_index": 7
+  },
+  "85099": {
+    "city": "Atlanta",
+    "temperature_F": 96,
+    "humidity_percent": 61,
+    "heat_index_F": 114,
+    "uv_index": 11
+  },
+  "85100": {
+    "city": "Miami",
+    "temperature_F": 89,
+    "humidity_percent": 18,
+    "heat_index_F": 94,
+    "uv_index": 6
+  },
+  "85101": {
+    "city": "Minneapolis",
+    "temperature_F": 94,
+    "humidity_percent": 14,
+    "heat_index_F": 98,
+    "uv_index": 9
+  },
+  "85102": {
+    "city": "Dallas",
+    "temperature_F": 101,
+    "humidity_percent": 26,
+    "heat_index_F": 108,
+    "uv_index": 10
+  },
+  "85103": {
+    "city": "Miami",
+    "temperature_F": 104,
+    "humidity_percent": 84,
+    "heat_index_F": 129,
+    "uv_index": 5
+  },
+  "85104": {
+    "city": "Detroit",
+    "temperature_F": 91,
+    "humidity_percent": 32,
+    "heat_index_F": 100,
+    "uv_index": 12
+  },
+  "85105": {
+    "city": "Boston",
+    "temperature_F": 86,
+    "humidity_percent": 48,
+    "heat_index_F": 100,
+    "uv_index": 11
+  },
+  "85106": {
+    "city": "Miami",
+    "temperature_F": 112,
+    "humidity_percent": 34,
+    "heat_index_F": 122,
+    "uv_index": 6
+  },
+  "85107": {
+    "city": "Atlanta",
+    "temperature_F": 96,
+    "humidity_percent": 84,
+    "heat_index_F": 121,
+    "uv_index": 12
+  },
+  "85108": {
+    "city": "Minneapolis",
+    "temperature_F": 117,
+    "humidity_percent": 33,
+    "heat_index_F": 126,
+    "uv_index": 12
+  },
+  "85109": {
+    "city": "Los Angeles",
+    "temperature_F": 87,
+    "humidity_percent": 40,
+    "heat_index_F": 99,
+    "uv_index": 12
+  },
+  "85110": {
+    "city": "San Antonio",
+    "temperature_F": 102,
+    "humidity_percent": 82,
+    "heat_index_F": 126,
+    "uv_index": 9
+  },
+  "85111": {
+    "city": "Las Vegas",
+    "temperature_F": 88,
+    "humidity_percent": 44,
+    "heat_index_F": 101,
+    "uv_index": 10
+  },
+  "85112": {
+    "city": "Houston",
+    "temperature_F": 100,
+    "humidity_percent": 40,
+    "heat_index_F": 112,
+    "uv_index": 11
+  },
+  "85113": {
+    "city": "Houston",
+    "temperature_F": 120,
+    "humidity_percent": 40,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85114": {
+    "city": "Seattle",
+    "temperature_F": 114,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85115": {
+    "city": "Los Angeles",
+    "temperature_F": 88,
+    "humidity_percent": 87,
+    "heat_index_F": 114,
+    "uv_index": 10
+  },
+  "85116": {
+    "city": "Boston",
+    "temperature_F": 98,
+    "humidity_percent": 61,
+    "heat_index_F": 116,
+    "uv_index": 10
+  },
+  "85117": {
+    "city": "Seattle",
+    "temperature_F": 104,
+    "humidity_percent": 37,
+    "heat_index_F": 115,
+    "uv_index": 8
+  },
+  "85118": {
+    "city": "Chicago",
+    "temperature_F": 90,
+    "humidity_percent": 26,
+    "heat_index_F": 97,
+    "uv_index": 6
+  },
+  "85119": {
+    "city": "Dallas",
+    "temperature_F": 113,
+    "humidity_percent": 63,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85120": {
+    "city": "Chicago",
+    "temperature_F": 108,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85121": {
+    "city": "Detroit",
+    "temperature_F": 110,
+    "humidity_percent": 11,
+    "heat_index_F": 113,
+    "uv_index": 6
+  },
+  "85122": {
+    "city": "Tampa",
+    "temperature_F": 113,
+    "humidity_percent": 52,
+    "heat_index_F": 128,
+    "uv_index": 5
+  },
+  "85123": {
+    "city": "Detroit",
+    "temperature_F": 112,
+    "humidity_percent": 90,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85124": {
+    "city": "Boston",
+    "temperature_F": 102,
+    "humidity_percent": 50,
+    "heat_index_F": 117,
+    "uv_index": 7
+  },
+  "85125": {
+    "city": "Denver",
+    "temperature_F": 97,
+    "humidity_percent": 23,
+    "heat_index_F": 103,
+    "uv_index": 8
+  },
+  "85126": {
+    "city": "Miami",
+    "temperature_F": 95,
+    "humidity_percent": 10,
+    "heat_index_F": 98,
+    "uv_index": 6
+  },
+  "85127": {
+    "city": "Chicago",
+    "temperature_F": 103,
+    "humidity_percent": 82,
+    "heat_index_F": 127,
+    "uv_index": 5
+  },
+  "85128": {
+    "city": "Seattle",
+    "temperature_F": 98,
+    "humidity_percent": 70,
+    "heat_index_F": 119,
+    "uv_index": 12
+  },
+  "85129": {
+    "city": "Miami",
+    "temperature_F": 110,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85130": {
+    "city": "Detroit",
+    "temperature_F": 88,
+    "humidity_percent": 65,
+    "heat_index_F": 107,
+    "uv_index": 9
+  },
+  "85131": {
+    "city": "Tampa",
+    "temperature_F": 116,
+    "humidity_percent": 67,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85132": {
+    "city": "Seattle",
+    "temperature_F": 95,
+    "humidity_percent": 85,
+    "heat_index_F": 120,
+    "uv_index": 6
+  },
+  "85133": {
+    "city": "New York",
+    "temperature_F": 90,
+    "humidity_percent": 78,
+    "heat_index_F": 113,
+    "uv_index": 7
+  },
+  "85134": {
+    "city": "New York",
+    "temperature_F": 106,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85135": {
+    "city": "New York",
+    "temperature_F": 110,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85136": {
+    "city": "New York",
+    "temperature_F": 115,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85137": {
+    "city": "Detroit",
+    "temperature_F": 113,
+    "humidity_percent": 32,
+    "heat_index_F": 122,
+    "uv_index": 5
+  },
+  "85138": {
+    "city": "Boston",
+    "temperature_F": 100,
+    "humidity_percent": 30,
+    "heat_index_F": 109,
+    "uv_index": 9
+  },
+  "85139": {
+    "city": "Boston",
+    "temperature_F": 101,
+    "humidity_percent": 50,
+    "heat_index_F": 116,
+    "uv_index": 5
+  },
+  "85140": {
+    "city": "Chicago",
+    "temperature_F": 89,
+    "humidity_percent": 53,
+    "heat_index_F": 104,
+    "uv_index": 8
+  },
+  "85141": {
+    "city": "Boston",
+    "temperature_F": 110,
+    "humidity_percent": 43,
+    "heat_index_F": 122,
+    "uv_index": 9
+  },
+  "85142": {
+    "city": "Los Angeles",
+    "temperature_F": 105,
+    "humidity_percent": 23,
+    "heat_index_F": 111,
+    "uv_index": 11
+  },
+  "85143": {
+    "city": "Minneapolis",
+    "temperature_F": 113,
+    "humidity_percent": 38,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85144": {
+    "city": "Seattle",
+    "temperature_F": 111,
+    "humidity_percent": 59,
+    "heat_index_F": 128,
+    "uv_index": 8
+  },
+  "85145": {
+    "city": "Boston",
+    "temperature_F": 92,
+    "humidity_percent": 33,
+    "heat_index_F": 101,
+    "uv_index": 10
+  },
+  "85146": {
+    "city": "Boston",
+    "temperature_F": 102,
+    "humidity_percent": 81,
+    "heat_index_F": 126,
+    "uv_index": 5
+  },
+  "85147": {
+    "city": "Chicago",
+    "temperature_F": 96,
+    "humidity_percent": 24,
+    "heat_index_F": 103,
+    "uv_index": 11
+  },
+  "85148": {
+    "city": "Atlanta",
+    "temperature_F": 87,
+    "humidity_percent": 50,
+    "heat_index_F": 102,
+    "uv_index": 11
+  },
+  "85149": {
+    "city": "Los Angeles",
+    "temperature_F": 98,
+    "humidity_percent": 54,
+    "heat_index_F": 114,
+    "uv_index": 8
+  },
+  "85150": {
+    "city": "Las Vegas",
+    "temperature_F": 110,
+    "humidity_percent": 41,
+    "heat_index_F": 122,
+    "uv_index": 10
+  },
+  "85151": {
+    "city": "Seattle",
+    "temperature_F": 98,
+    "humidity_percent": 49,
+    "heat_index_F": 112,
+    "uv_index": 10
+  },
+  "85152": {
+    "city": "Boston",
+    "temperature_F": 99,
+    "humidity_percent": 28,
+    "heat_index_F": 107,
+    "uv_index": 8
+  },
+  "85153": {
+    "city": "Detroit",
+    "temperature_F": 93,
+    "humidity_percent": 49,
+    "heat_index_F": 107,
+    "uv_index": 7
+  },
+  "85154": {
+    "city": "Los Angeles",
+    "temperature_F": 120,
+    "humidity_percent": 10,
+    "heat_index_F": 123,
+    "uv_index": 9
+  },
+  "85155": {
+    "city": "Detroit",
+    "temperature_F": 111,
+    "humidity_percent": 51,
+    "heat_index_F": 126,
+    "uv_index": 11
+  },
+  "85156": {
+    "city": "St. Louis",
+    "temperature_F": 87,
+    "humidity_percent": 88,
+    "heat_index_F": 113,
+    "uv_index": 10
+  },
+  "85157": {
+    "city": "St. Louis",
+    "temperature_F": 120,
+    "humidity_percent": 48,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85158": {
+    "city": "Atlanta",
+    "temperature_F": 94,
+    "humidity_percent": 21,
+    "heat_index_F": 100,
+    "uv_index": 8
+  },
+  "85159": {
+    "city": "Dallas",
+    "temperature_F": 90,
+    "humidity_percent": 23,
+    "heat_index_F": 96,
+    "uv_index": 7
+  },
+  "85160": {
+    "city": "Los Angeles",
+    "temperature_F": 111,
+    "humidity_percent": 45,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85161": {
+    "city": "Orlando",
+    "temperature_F": 88,
+    "humidity_percent": 12,
+    "heat_index_F": 91,
+    "uv_index": 5
+  },
+  "85162": {
+    "city": "Houston",
+    "temperature_F": 101,
+    "humidity_percent": 61,
+    "heat_index_F": 119,
+    "uv_index": 8
+  },
+  "85163": {
+    "city": "St. Louis",
+    "temperature_F": 113,
+    "humidity_percent": 13,
+    "heat_index_F": 116,
+    "uv_index": 6
+  },
+  "85164": {
+    "city": "Philadelphia",
+    "temperature_F": 113,
+    "humidity_percent": 46,
+    "heat_index_F": 126,
+    "uv_index": 6
+  },
+  "85165": {
+    "city": "Minneapolis",
+    "temperature_F": 87,
+    "humidity_percent": 28,
+    "heat_index_F": 95,
+    "uv_index": 9
+  },
+  "85166": {
+    "city": "Orlando",
+    "temperature_F": 103,
+    "humidity_percent": 75,
+    "heat_index_F": 125,
+    "uv_index": 12
+  },
+  "85167": {
+    "city": "San Antonio",
+    "temperature_F": 93,
+    "humidity_percent": 65,
+    "heat_index_F": 112,
+    "uv_index": 5
+  },
+  "85168": {
+    "city": "New York",
+    "temperature_F": 116,
+    "humidity_percent": 53,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85169": {
+    "city": "Boston",
+    "temperature_F": 108,
+    "humidity_percent": 33,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85170": {
+    "city": "Miami",
+    "temperature_F": 94,
+    "humidity_percent": 25,
+    "heat_index_F": 101,
+    "uv_index": 7
+  },
+  "85171": {
+    "city": "Miami",
+    "temperature_F": 88,
+    "humidity_percent": 59,
+    "heat_index_F": 105,
+    "uv_index": 7
+  },
+  "85172": {
+    "city": "Atlanta",
+    "temperature_F": 112,
+    "humidity_percent": 69,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85173": {
+    "city": "Philadelphia",
+    "temperature_F": 116,
+    "humidity_percent": 48,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85174": {
+    "city": "Denver",
+    "temperature_F": 108,
+    "humidity_percent": 71,
+    "heat_index_F": 129,
+    "uv_index": 8
+  },
+  "85175": {
+    "city": "Phoenix",
+    "temperature_F": 85,
+    "humidity_percent": 77,
+    "heat_index_F": 108,
+    "uv_index": 9
+  },
+  "85176": {
+    "city": "Boston",
+    "temperature_F": 91,
+    "humidity_percent": 65,
+    "heat_index_F": 110,
+    "uv_index": 10
+  },
+  "85177": {
+    "city": "Boston",
+    "temperature_F": 94,
+    "humidity_percent": 64,
+    "heat_index_F": 113,
+    "uv_index": 11
+  },
+  "85178": {
+    "city": "Boston",
+    "temperature_F": 101,
+    "humidity_percent": 54,
+    "heat_index_F": 117,
+    "uv_index": 7
+  },
+  "85179": {
+    "city": "New York",
+    "temperature_F": 102,
+    "humidity_percent": 25,
+    "heat_index_F": 109,
+    "uv_index": 12
+  },
+  "85180": {
+    "city": "Las Vegas",
+    "temperature_F": 95,
+    "humidity_percent": 72,
+    "heat_index_F": 116,
+    "uv_index": 7
+  },
+  "85181": {
+    "city": "Miami",
+    "temperature_F": 109,
+    "humidity_percent": 29,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85182": {
+    "city": "Chicago",
+    "temperature_F": 113,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85183": {
+    "city": "Denver",
+    "temperature_F": 94,
+    "humidity_percent": 73,
+    "heat_index_F": 115,
+    "uv_index": 12
+  },
+  "85184": {
+    "city": "Boston",
+    "temperature_F": 101,
+    "humidity_percent": 90,
+    "heat_index_F": 128,
+    "uv_index": 11
+  },
+  "85185": {
+    "city": "Minneapolis",
+    "temperature_F": 85,
+    "humidity_percent": 53,
+    "heat_index_F": 100,
+    "uv_index": 9
+  },
+  "85186": {
+    "city": "Las Vegas",
+    "temperature_F": 97,
+    "humidity_percent": 23,
+    "heat_index_F": 103,
+    "uv_index": 11
+  },
+  "85187": {
+    "city": "Houston",
+    "temperature_F": 89,
+    "humidity_percent": 64,
+    "heat_index_F": 108,
+    "uv_index": 6
+  },
+  "85188": {
+    "city": "San Antonio",
+    "temperature_F": 105,
+    "humidity_percent": 37,
+    "heat_index_F": 116,
+    "uv_index": 8
+  },
+  "85189": {
+    "city": "Boston",
+    "temperature_F": 120,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85190": {
+    "city": "Detroit",
+    "temperature_F": 99,
+    "humidity_percent": 20,
+    "heat_index_F": 105,
+    "uv_index": 10
+  },
+  "85191": {
+    "city": "Houston",
+    "temperature_F": 93,
+    "humidity_percent": 17,
+    "heat_index_F": 98,
+    "uv_index": 6
+  },
+  "85192": {
+    "city": "Los Angeles",
+    "temperature_F": 118,
+    "humidity_percent": 54,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85193": {
+    "city": "Detroit",
+    "temperature_F": 94,
+    "humidity_percent": 70,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85194": {
+    "city": "Boston",
+    "temperature_F": 88,
+    "humidity_percent": 15,
+    "heat_index_F": 92,
+    "uv_index": 12
+  },
+  "85195": {
+    "city": "Denver",
+    "temperature_F": 90,
+    "humidity_percent": 21,
+    "heat_index_F": 96,
+    "uv_index": 10
+  },
+  "85196": {
+    "city": "St. Louis",
+    "temperature_F": 113,
+    "humidity_percent": 12,
+    "heat_index_F": 116,
+    "uv_index": 9
+  },
+  "85197": {
+    "city": "Denver",
+    "temperature_F": 114,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85198": {
+    "city": "Chicago",
+    "temperature_F": 97,
+    "humidity_percent": 58,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85199": {
+    "city": "St. Louis",
+    "temperature_F": 86,
+    "humidity_percent": 28,
+    "heat_index_F": 94,
+    "uv_index": 12
+  },
+  "85200": {
+    "city": "New York",
+    "temperature_F": 96,
+    "humidity_percent": 63,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85201": {
+    "city": "Seattle",
+    "temperature_F": 111,
+    "humidity_percent": 69,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85202": {
+    "city": "Orlando",
+    "temperature_F": 111,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85203": {
+    "city": "Las Vegas",
+    "temperature_F": 88,
+    "humidity_percent": 66,
+    "heat_index_F": 107,
+    "uv_index": 8
+  },
+  "85204": {
+    "city": "Dallas",
+    "temperature_F": 100,
+    "humidity_percent": 73,
+    "heat_index_F": 121,
+    "uv_index": 8
+  },
+  "85205": {
+    "city": "Cleveland",
+    "temperature_F": 103,
+    "humidity_percent": 74,
+    "heat_index_F": 125,
+    "uv_index": 8
+  },
+  "85206": {
+    "city": "Minneapolis",
+    "temperature_F": 106,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85207": {
+    "city": "Denver",
+    "temperature_F": 90,
+    "humidity_percent": 81,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85208": {
+    "city": "Tampa",
+    "temperature_F": 114,
+    "humidity_percent": 22,
+    "heat_index_F": 120,
+    "uv_index": 10
+  },
+  "85209": {
+    "city": "Denver",
+    "temperature_F": 101,
+    "humidity_percent": 54,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85210": {
+    "city": "Denver",
+    "temperature_F": 97,
+    "humidity_percent": 37,
+    "heat_index_F": 108,
+    "uv_index": 8
+  },
+  "85211": {
+    "city": "St. Louis",
+    "temperature_F": 105,
+    "humidity_percent": 17,
+    "heat_index_F": 110,
+    "uv_index": 12
+  },
+  "85212": {
+    "city": "Cleveland",
+    "temperature_F": 99,
+    "humidity_percent": 14,
+    "heat_index_F": 103,
+    "uv_index": 9
+  },
+  "85213": {
+    "city": "Phoenix",
+    "temperature_F": 116,
+    "humidity_percent": 13,
+    "heat_index_F": 119,
+    "uv_index": 12
+  },
+  "85214": {
+    "city": "St. Louis",
+    "temperature_F": 117,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85215": {
+    "city": "New York",
+    "temperature_F": 119,
+    "humidity_percent": 71,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85216": {
+    "city": "Atlanta",
+    "temperature_F": 94,
+    "humidity_percent": 55,
+    "heat_index_F": 110,
+    "uv_index": 9
+  },
+  "85217": {
+    "city": "Dallas",
+    "temperature_F": 107,
+    "humidity_percent": 15,
+    "heat_index_F": 111,
+    "uv_index": 8
+  },
+  "85218": {
+    "city": "Denver",
+    "temperature_F": 97,
+    "humidity_percent": 25,
+    "heat_index_F": 104,
+    "uv_index": 5
+  },
+  "85219": {
+    "city": "Los Angeles",
+    "temperature_F": 107,
+    "humidity_percent": 62,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85220": {
+    "city": "Las Vegas",
+    "temperature_F": 90,
+    "humidity_percent": 14,
+    "heat_index_F": 94,
+    "uv_index": 5
+  },
+  "85221": {
+    "city": "Houston",
+    "temperature_F": 117,
+    "humidity_percent": 46,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85222": {
+    "city": "San Antonio",
+    "temperature_F": 108,
+    "humidity_percent": 81,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85223": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 43,
+    "heat_index_F": 106,
+    "uv_index": 8
+  },
+  "85224": {
+    "city": "Minneapolis",
+    "temperature_F": 114,
+    "humidity_percent": 33,
+    "heat_index_F": 123,
+    "uv_index": 12
+  },
+  "85225": {
+    "city": "Dallas",
+    "temperature_F": 117,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85226": {
+    "city": "Cleveland",
+    "temperature_F": 105,
+    "humidity_percent": 30,
+    "heat_index_F": 114,
+    "uv_index": 5
+  },
+  "85227": {
+    "city": "Cleveland",
+    "temperature_F": 102,
+    "humidity_percent": 30,
+    "heat_index_F": 111,
+    "uv_index": 7
+  },
+  "85228": {
+    "city": "Dallas",
+    "temperature_F": 112,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85229": {
+    "city": "San Antonio",
+    "temperature_F": 89,
+    "humidity_percent": 10,
+    "heat_index_F": 92,
+    "uv_index": 11
+  },
+  "85230": {
+    "city": "Dallas",
+    "temperature_F": 86,
+    "humidity_percent": 44,
+    "heat_index_F": 99,
+    "uv_index": 11
+  },
+  "85231": {
+    "city": "Houston",
+    "temperature_F": 96,
+    "humidity_percent": 30,
+    "heat_index_F": 105,
+    "uv_index": 11
+  },
+  "85232": {
+    "city": "Cleveland",
+    "temperature_F": 111,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85233": {
+    "city": "Denver",
+    "temperature_F": 111,
+    "humidity_percent": 10,
+    "heat_index_F": 114,
+    "uv_index": 9
+  },
+  "85234": {
+    "city": "Minneapolis",
+    "temperature_F": 89,
+    "humidity_percent": 60,
+    "heat_index_F": 107,
+    "uv_index": 6
+  },
+  "85235": {
+    "city": "Tampa",
+    "temperature_F": 91,
+    "humidity_percent": 22,
+    "heat_index_F": 97,
+    "uv_index": 7
+  },
+  "85236": {
+    "city": "Orlando",
+    "temperature_F": 100,
+    "humidity_percent": 70,
+    "heat_index_F": 121,
+    "uv_index": 7
+  },
+  "85237": {
+    "city": "Orlando",
+    "temperature_F": 105,
+    "humidity_percent": 75,
+    "heat_index_F": 127,
+    "uv_index": 10
+  },
+  "85238": {
+    "city": "Detroit",
+    "temperature_F": 87,
+    "humidity_percent": 17,
+    "heat_index_F": 92,
+    "uv_index": 10
+  },
+  "85239": {
+    "city": "Dallas",
+    "temperature_F": 99,
+    "humidity_percent": 89,
+    "heat_index_F": 125,
+    "uv_index": 5
+  },
+  "85240": {
+    "city": "Detroit",
+    "temperature_F": 111,
+    "humidity_percent": 66,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85241": {
+    "city": "Los Angeles",
+    "temperature_F": 112,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85242": {
+    "city": "Chicago",
+    "temperature_F": 88,
+    "humidity_percent": 38,
+    "heat_index_F": 99,
+    "uv_index": 5
+  },
+  "85243": {
+    "city": "St. Louis",
+    "temperature_F": 110,
+    "humidity_percent": 51,
+    "heat_index_F": 125,
+    "uv_index": 11
+  },
+  "85244": {
+    "city": "Minneapolis",
+    "temperature_F": 89,
+    "humidity_percent": 23,
+    "heat_index_F": 95,
+    "uv_index": 5
+  },
+  "85245": {
+    "city": "Los Angeles",
+    "temperature_F": 105,
+    "humidity_percent": 42,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85246": {
+    "city": "Philadelphia",
+    "temperature_F": 88,
+    "humidity_percent": 66,
+    "heat_index_F": 107,
+    "uv_index": 6
+  },
+  "85247": {
+    "city": "Tampa",
+    "temperature_F": 111,
+    "humidity_percent": 10,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85248": {
+    "city": "Phoenix",
+    "temperature_F": 107,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85249": {
+    "city": "Orlando",
+    "temperature_F": 106,
+    "humidity_percent": 24,
+    "heat_index_F": 113,
+    "uv_index": 8
+  },
+  "85250": {
+    "city": "Orlando",
+    "temperature_F": 100,
+    "humidity_percent": 45,
+    "heat_index_F": 113,
+    "uv_index": 12
+  },
+  "85251": {
+    "city": "Phoenix",
+    "temperature_F": 110,
+    "humidity_percent": 81,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85252": {
+    "city": "St. Louis",
+    "temperature_F": 111,
+    "humidity_percent": 46,
+    "heat_index_F": 124,
+    "uv_index": 5
+  },
+  "85253": {
+    "city": "Atlanta",
+    "temperature_F": 119,
+    "humidity_percent": 28,
+    "heat_index_F": 127,
+    "uv_index": 6
+  },
+  "85254": {
+    "city": "Las Vegas",
+    "temperature_F": 111,
+    "humidity_percent": 56,
+    "heat_index_F": 127,
+    "uv_index": 7
+  },
+  "85255": {
+    "city": "Tampa",
+    "temperature_F": 87,
+    "humidity_percent": 46,
+    "heat_index_F": 100,
+    "uv_index": 8
+  },
+  "85256": {
+    "city": "Detroit",
+    "temperature_F": 96,
+    "humidity_percent": 69,
+    "heat_index_F": 116,
+    "uv_index": 12
+  },
+  "85257": {
+    "city": "Denver",
+    "temperature_F": 118,
+    "humidity_percent": 74,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85258": {
+    "city": "Miami",
+    "temperature_F": 97,
+    "humidity_percent": 69,
+    "heat_index_F": 117,
+    "uv_index": 8
+  },
+  "85259": {
+    "city": "Los Angeles",
+    "temperature_F": 102,
+    "humidity_percent": 48,
+    "heat_index_F": 116,
+    "uv_index": 5
+  },
+  "85260": {
+    "city": "Orlando",
+    "temperature_F": 119,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85261": {
+    "city": "Dallas",
+    "temperature_F": 88,
+    "humidity_percent": 22,
+    "heat_index_F": 94,
+    "uv_index": 11
+  },
+  "85262": {
+    "city": "New York",
+    "temperature_F": 89,
+    "humidity_percent": 30,
+    "heat_index_F": 98,
+    "uv_index": 12
+  },
+  "85263": {
+    "city": "Dallas",
+    "temperature_F": 111,
+    "humidity_percent": 33,
+    "heat_index_F": 120,
+    "uv_index": 5
+  },
+  "85264": {
+    "city": "Houston",
+    "temperature_F": 111,
+    "humidity_percent": 66,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85265": {
+    "city": "New York",
+    "temperature_F": 98,
+    "humidity_percent": 10,
+    "heat_index_F": 101,
+    "uv_index": 10
+  },
+  "85266": {
+    "city": "Minneapolis",
+    "temperature_F": 117,
+    "humidity_percent": 20,
+    "heat_index_F": 123,
+    "uv_index": 6
+  },
+  "85267": {
+    "city": "Chicago",
+    "temperature_F": 96,
+    "humidity_percent": 30,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85268": {
+    "city": "Los Angeles",
+    "temperature_F": 92,
+    "humidity_percent": 18,
+    "heat_index_F": 97,
+    "uv_index": 6
+  },
+  "85269": {
+    "city": "St. Louis",
+    "temperature_F": 107,
+    "humidity_percent": 82,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85270": {
+    "city": "Houston",
+    "temperature_F": 92,
+    "humidity_percent": 20,
+    "heat_index_F": 98,
+    "uv_index": 11
+  },
+  "85271": {
+    "city": "Chicago",
+    "temperature_F": 110,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85272": {
+    "city": "Orlando",
+    "temperature_F": 98,
+    "humidity_percent": 45,
+    "heat_index_F": 111,
+    "uv_index": 11
+  },
+  "85273": {
+    "city": "Minneapolis",
+    "temperature_F": 95,
+    "humidity_percent": 21,
+    "heat_index_F": 101,
+    "uv_index": 5
+  },
+  "85274": {
+    "city": "Las Vegas",
+    "temperature_F": 101,
+    "humidity_percent": 30,
+    "heat_index_F": 110,
+    "uv_index": 7
+  },
+  "85275": {
+    "city": "Cleveland",
+    "temperature_F": 102,
+    "humidity_percent": 24,
+    "heat_index_F": 109,
+    "uv_index": 10
+  },
+  "85276": {
+    "city": "Orlando",
+    "temperature_F": 113,
+    "humidity_percent": 36,
+    "heat_index_F": 123,
+    "uv_index": 10
+  },
+  "85277": {
+    "city": "Denver",
+    "temperature_F": 118,
+    "humidity_percent": 59,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85278": {
+    "city": "Minneapolis",
+    "temperature_F": 105,
+    "humidity_percent": 24,
+    "heat_index_F": 112,
+    "uv_index": 8
+  },
+  "85279": {
+    "city": "Miami",
+    "temperature_F": 109,
+    "humidity_percent": 19,
+    "heat_index_F": 114,
+    "uv_index": 7
+  },
+  "85280": {
+    "city": "Denver",
+    "temperature_F": 93,
+    "humidity_percent": 78,
+    "heat_index_F": 116,
+    "uv_index": 9
+  },
+  "85281": {
+    "city": "Los Angeles",
+    "temperature_F": 109,
+    "humidity_percent": 54,
+    "heat_index_F": 125,
+    "uv_index": 5
+  },
+  "85282": {
+    "city": "New York",
+    "temperature_F": 90,
+    "humidity_percent": 74,
+    "heat_index_F": 112,
+    "uv_index": 8
+  },
+  "85283": {
+    "city": "Tampa",
+    "temperature_F": 120,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85284": {
+    "city": "Miami",
+    "temperature_F": 120,
+    "humidity_percent": 29,
+    "heat_index_F": 128,
+    "uv_index": 8
+  },
+  "85285": {
+    "city": "St. Louis",
+    "temperature_F": 101,
+    "humidity_percent": 51,
+    "heat_index_F": 116,
+    "uv_index": 5
+  },
+  "85286": {
+    "city": "Phoenix",
+    "temperature_F": 99,
+    "humidity_percent": 31,
+    "heat_index_F": 108,
+    "uv_index": 10
+  },
+  "85287": {
+    "city": "Cleveland",
+    "temperature_F": 108,
+    "humidity_percent": 13,
+    "heat_index_F": 111,
+    "uv_index": 7
+  },
+  "85288": {
+    "city": "Chicago",
+    "temperature_F": 88,
+    "humidity_percent": 51,
+    "heat_index_F": 103,
+    "uv_index": 6
+  },
+  "85289": {
+    "city": "Minneapolis",
+    "temperature_F": 91,
+    "humidity_percent": 75,
+    "heat_index_F": 113,
+    "uv_index": 10
+  },
+  "85290": {
+    "city": "Tampa",
+    "temperature_F": 114,
+    "humidity_percent": 15,
+    "heat_index_F": 118,
+    "uv_index": 11
+  },
+  "85291": {
+    "city": "Dallas",
+    "temperature_F": 86,
+    "humidity_percent": 41,
+    "heat_index_F": 98,
+    "uv_index": 9
+  },
+  "85292": {
+    "city": "Tampa",
+    "temperature_F": 100,
+    "humidity_percent": 18,
+    "heat_index_F": 105,
+    "uv_index": 9
+  },
+  "85293": {
+    "city": "Tampa",
+    "temperature_F": 119,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85294": {
+    "city": "Chicago",
+    "temperature_F": 116,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85295": {
+    "city": "St. Louis",
+    "temperature_F": 108,
+    "humidity_percent": 30,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85296": {
+    "city": "Cleveland",
+    "temperature_F": 90,
+    "humidity_percent": 12,
+    "heat_index_F": 93,
+    "uv_index": 9
+  },
+  "85297": {
+    "city": "Atlanta",
+    "temperature_F": 103,
+    "humidity_percent": 23,
+    "heat_index_F": 109,
+    "uv_index": 5
+  },
+  "85298": {
+    "city": "San Antonio",
+    "temperature_F": 120,
+    "humidity_percent": 39,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85299": {
+    "city": "New York",
+    "temperature_F": 111,
+    "humidity_percent": 14,
+    "heat_index_F": 115,
+    "uv_index": 6
+  },
+  "85300": {
+    "city": "Los Angeles",
+    "temperature_F": 111,
+    "humidity_percent": 69,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85301": {
+    "city": "Dallas",
+    "temperature_F": 100,
+    "humidity_percent": 34,
+    "heat_index_F": 110,
+    "uv_index": 9
+  },
+  "85302": {
+    "city": "Phoenix",
+    "temperature_F": 111,
+    "humidity_percent": 14,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85303": {
+    "city": "Orlando",
+    "temperature_F": 88,
+    "humidity_percent": 33,
+    "heat_index_F": 97,
+    "uv_index": 12
+  },
+  "85304": {
+    "city": "Dallas",
+    "temperature_F": 88,
+    "humidity_percent": 33,
+    "heat_index_F": 97,
+    "uv_index": 7
+  },
+  "85305": {
+    "city": "Atlanta",
+    "temperature_F": 104,
+    "humidity_percent": 42,
+    "heat_index_F": 116,
+    "uv_index": 9
+  },
+  "85306": {
+    "city": "Cleveland",
+    "temperature_F": 114,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85307": {
+    "city": "Boston",
+    "temperature_F": 114,
+    "humidity_percent": 53,
+    "heat_index_F": 129,
+    "uv_index": 5
+  },
+  "85308": {
+    "city": "Orlando",
+    "temperature_F": 120,
+    "humidity_percent": 73,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85309": {
+    "city": "Chicago",
+    "temperature_F": 109,
+    "humidity_percent": 39,
+    "heat_index_F": 120,
+    "uv_index": 8
+  },
+  "85310": {
+    "city": "Phoenix",
+    "temperature_F": 116,
+    "humidity_percent": 27,
+    "heat_index_F": 124,
+    "uv_index": 9
+  },
+  "85311": {
+    "city": "Detroit",
+    "temperature_F": 98,
+    "humidity_percent": 24,
+    "heat_index_F": 105,
+    "uv_index": 5
+  },
+  "85312": {
+    "city": "Las Vegas",
+    "temperature_F": 117,
+    "humidity_percent": 19,
+    "heat_index_F": 122,
+    "uv_index": 7
+  },
+  "85313": {
+    "city": "Philadelphia",
+    "temperature_F": 100,
+    "humidity_percent": 27,
+    "heat_index_F": 108,
+    "uv_index": 8
+  },
+  "85314": {
+    "city": "Seattle",
+    "temperature_F": 113,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85315": {
+    "city": "Denver",
+    "temperature_F": 88,
+    "humidity_percent": 51,
+    "heat_index_F": 103,
+    "uv_index": 7
+  },
+  "85316": {
+    "city": "Phoenix",
+    "temperature_F": 120,
+    "humidity_percent": 45,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85317": {
+    "city": "Philadelphia",
+    "temperature_F": 114,
+    "humidity_percent": 45,
+    "heat_index_F": 127,
+    "uv_index": 7
+  },
+  "85318": {
+    "city": "Houston",
+    "temperature_F": 116,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85319": {
+    "city": "Boston",
+    "temperature_F": 90,
+    "humidity_percent": 21,
+    "heat_index_F": 96,
+    "uv_index": 10
+  },
+  "85320": {
+    "city": "Detroit",
+    "temperature_F": 94,
+    "humidity_percent": 36,
+    "heat_index_F": 104,
+    "uv_index": 5
+  },
+  "85321": {
+    "city": "Phoenix",
+    "temperature_F": 92,
+    "humidity_percent": 55,
+    "heat_index_F": 108,
+    "uv_index": 7
+  },
+  "85322": {
+    "city": "Miami",
+    "temperature_F": 98,
+    "humidity_percent": 45,
+    "heat_index_F": 111,
+    "uv_index": 7
+  },
+  "85323": {
+    "city": "Denver",
+    "temperature_F": 102,
+    "humidity_percent": 68,
+    "heat_index_F": 122,
+    "uv_index": 5
+  },
+  "85324": {
+    "city": "Orlando",
+    "temperature_F": 100,
+    "humidity_percent": 19,
+    "heat_index_F": 105,
+    "uv_index": 7
+  },
+  "85325": {
+    "city": "St. Louis",
+    "temperature_F": 108,
+    "humidity_percent": 29,
+    "heat_index_F": 116,
+    "uv_index": 12
+  },
+  "85326": {
+    "city": "Dallas",
+    "temperature_F": 112,
+    "humidity_percent": 66,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85327": {
+    "city": "Cleveland",
+    "temperature_F": 91,
+    "humidity_percent": 39,
+    "heat_index_F": 102,
+    "uv_index": 5
+  },
+  "85328": {
+    "city": "New York",
+    "temperature_F": 103,
+    "humidity_percent": 21,
+    "heat_index_F": 109,
+    "uv_index": 12
+  },
+  "85329": {
+    "city": "Tampa",
+    "temperature_F": 88,
+    "humidity_percent": 68,
+    "heat_index_F": 108,
+    "uv_index": 9
+  },
+  "85330": {
+    "city": "Chicago",
+    "temperature_F": 102,
+    "humidity_percent": 47,
+    "heat_index_F": 116,
+    "uv_index": 8
+  },
+  "85331": {
+    "city": "Las Vegas",
+    "temperature_F": 88,
+    "humidity_percent": 23,
+    "heat_index_F": 94,
+    "uv_index": 9
+  },
+  "85332": {
+    "city": "Atlanta",
+    "temperature_F": 113,
+    "humidity_percent": 73,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85333": {
+    "city": "Orlando",
+    "temperature_F": 120,
+    "humidity_percent": 29,
+    "heat_index_F": 128,
+    "uv_index": 9
+  },
+  "85334": {
+    "city": "Orlando",
+    "temperature_F": 116,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85335": {
+    "city": "Las Vegas",
+    "temperature_F": 90,
+    "humidity_percent": 81,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85336": {
+    "city": "Detroit",
+    "temperature_F": 101,
+    "humidity_percent": 90,
+    "heat_index_F": 128,
+    "uv_index": 8
+  },
+  "85337": {
+    "city": "Dallas",
+    "temperature_F": 101,
+    "humidity_percent": 41,
+    "heat_index_F": 113,
+    "uv_index": 10
+  },
+  "85338": {
+    "city": "Los Angeles",
+    "temperature_F": 104,
+    "humidity_percent": 51,
+    "heat_index_F": 119,
+    "uv_index": 10
+  },
+  "85339": {
+    "city": "Phoenix",
+    "temperature_F": 106,
+    "humidity_percent": 55,
+    "heat_index_F": 122,
+    "uv_index": 7
+  },
+  "85340": {
+    "city": "Seattle",
+    "temperature_F": 118,
+    "humidity_percent": 27,
+    "heat_index_F": 126,
+    "uv_index": 12
+  },
+  "85341": {
+    "city": "Chicago",
+    "temperature_F": 99,
+    "humidity_percent": 60,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85342": {
+    "city": "Philadelphia",
+    "temperature_F": 116,
+    "humidity_percent": 10,
+    "heat_index_F": 119,
+    "uv_index": 12
+  },
+  "85343": {
+    "city": "Miami",
+    "temperature_F": 87,
+    "humidity_percent": 19,
+    "heat_index_F": 92,
+    "uv_index": 12
+  },
+  "85344": {
+    "city": "San Antonio",
+    "temperature_F": 116,
+    "humidity_percent": 26,
+    "heat_index_F": 123,
+    "uv_index": 10
+  },
+  "85345": {
+    "city": "Boston",
+    "temperature_F": 94,
+    "humidity_percent": 32,
+    "heat_index_F": 103,
+    "uv_index": 6
+  },
+  "85346": {
+    "city": "Detroit",
+    "temperature_F": 95,
+    "humidity_percent": 49,
+    "heat_index_F": 109,
+    "uv_index": 11
+  },
+  "85347": {
+    "city": "Dallas",
+    "temperature_F": 99,
+    "humidity_percent": 62,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85348": {
+    "city": "Denver",
+    "temperature_F": 120,
+    "humidity_percent": 12,
+    "heat_index_F": 123,
+    "uv_index": 7
+  },
+  "85349": {
+    "city": "Detroit",
+    "temperature_F": 108,
+    "humidity_percent": 65,
+    "heat_index_F": 127,
+    "uv_index": 9
+  },
+  "85350": {
+    "city": "Las Vegas",
+    "temperature_F": 115,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85351": {
+    "city": "Dallas",
+    "temperature_F": 87,
+    "humidity_percent": 35,
+    "heat_index_F": 97,
+    "uv_index": 9
+  },
+  "85352": {
+    "city": "Tampa",
+    "temperature_F": 89,
+    "humidity_percent": 88,
+    "heat_index_F": 115,
+    "uv_index": 7
+  },
+  "85353": {
+    "city": "Dallas",
+    "temperature_F": 120,
+    "humidity_percent": 50,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85354": {
+    "city": "Cleveland",
+    "temperature_F": 118,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85355": {
+    "city": "Cleveland",
+    "temperature_F": 94,
+    "humidity_percent": 85,
+    "heat_index_F": 119,
+    "uv_index": 6
+  },
+  "85356": {
+    "city": "San Antonio",
+    "temperature_F": 103,
+    "humidity_percent": 31,
+    "heat_index_F": 112,
+    "uv_index": 6
+  },
+  "85357": {
+    "city": "Miami",
+    "temperature_F": 97,
+    "humidity_percent": 79,
+    "heat_index_F": 120,
+    "uv_index": 6
+  },
+  "85358": {
+    "city": "Orlando",
+    "temperature_F": 98,
+    "humidity_percent": 29,
+    "heat_index_F": 106,
+    "uv_index": 11
+  },
+  "85359": {
+    "city": "Detroit",
+    "temperature_F": 103,
+    "humidity_percent": 36,
+    "heat_index_F": 113,
+    "uv_index": 5
+  },
+  "85360": {
+    "city": "Phoenix",
+    "temperature_F": 95,
+    "humidity_percent": 43,
+    "heat_index_F": 107,
+    "uv_index": 10
+  },
+  "85361": {
+    "city": "Atlanta",
+    "temperature_F": 111,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85362": {
+    "city": "Seattle",
+    "temperature_F": 92,
+    "humidity_percent": 12,
+    "heat_index_F": 95,
+    "uv_index": 11
+  },
+  "85363": {
+    "city": "St. Louis",
+    "temperature_F": 108,
+    "humidity_percent": 70,
+    "heat_index_F": 129,
+    "uv_index": 12
+  },
+  "85364": {
+    "city": "St. Louis",
+    "temperature_F": 101,
+    "humidity_percent": 14,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85365": {
+    "city": "Dallas",
+    "temperature_F": 92,
+    "humidity_percent": 30,
+    "heat_index_F": 101,
+    "uv_index": 10
+  },
+  "85366": {
+    "city": "Seattle",
+    "temperature_F": 88,
+    "humidity_percent": 66,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85367": {
+    "city": "Phoenix",
+    "temperature_F": 113,
+    "humidity_percent": 24,
+    "heat_index_F": 120,
+    "uv_index": 11
+  },
+  "85368": {
+    "city": "Atlanta",
+    "temperature_F": 101,
+    "humidity_percent": 27,
+    "heat_index_F": 109,
+    "uv_index": 7
+  },
+  "85369": {
+    "city": "Boston",
+    "temperature_F": 113,
+    "humidity_percent": 48,
+    "heat_index_F": 127,
+    "uv_index": 10
+  },
+  "85370": {
+    "city": "Dallas",
+    "temperature_F": 101,
+    "humidity_percent": 75,
+    "heat_index_F": 123,
+    "uv_index": 12
+  },
+  "85371": {
+    "city": "Seattle",
+    "temperature_F": 103,
+    "humidity_percent": 21,
+    "heat_index_F": 109,
+    "uv_index": 9
+  },
+  "85372": {
+    "city": "Denver",
+    "temperature_F": 97,
+    "humidity_percent": 33,
+    "heat_index_F": 106,
+    "uv_index": 12
+  },
+  "85373": {
+    "city": "Chicago",
+    "temperature_F": 94,
+    "humidity_percent": 57,
+    "heat_index_F": 111,
+    "uv_index": 9
+  },
+  "85374": {
+    "city": "Dallas",
+    "temperature_F": 103,
+    "humidity_percent": 24,
+    "heat_index_F": 110,
+    "uv_index": 10
+  },
+  "85375": {
+    "city": "Las Vegas",
+    "temperature_F": 110,
+    "humidity_percent": 74,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85376": {
+    "city": "Cleveland",
+    "temperature_F": 104,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85377": {
+    "city": "San Antonio",
+    "temperature_F": 104,
+    "humidity_percent": 38,
+    "heat_index_F": 115,
+    "uv_index": 11
+  },
+  "85378": {
+    "city": "Tampa",
+    "temperature_F": 87,
+    "humidity_percent": 80,
+    "heat_index_F": 111,
+    "uv_index": 12
+  },
+  "85379": {
+    "city": "Boston",
+    "temperature_F": 118,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85380": {
+    "city": "Detroit",
+    "temperature_F": 89,
+    "humidity_percent": 22,
+    "heat_index_F": 95,
+    "uv_index": 6
+  },
+  "85381": {
+    "city": "Dallas",
+    "temperature_F": 89,
+    "humidity_percent": 71,
+    "heat_index_F": 110,
+    "uv_index": 9
+  },
+  "85382": {
+    "city": "Dallas",
+    "temperature_F": 112,
+    "humidity_percent": 64,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85383": {
+    "city": "Las Vegas",
+    "temperature_F": 100,
+    "humidity_percent": 31,
+    "heat_index_F": 109,
+    "uv_index": 9
+  },
+  "85384": {
+    "city": "Chicago",
+    "temperature_F": 120,
+    "humidity_percent": 34,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85385": {
+    "city": "Chicago",
+    "temperature_F": 115,
+    "humidity_percent": 11,
+    "heat_index_F": 118,
+    "uv_index": 5
+  },
+  "85386": {
+    "city": "Houston",
+    "temperature_F": 93,
+    "humidity_percent": 39,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85387": {
+    "city": "Phoenix",
+    "temperature_F": 89,
+    "humidity_percent": 70,
+    "heat_index_F": 110,
+    "uv_index": 6
+  },
+  "85388": {
+    "city": "Minneapolis",
+    "temperature_F": 88,
+    "humidity_percent": 19,
+    "heat_index_F": 93,
+    "uv_index": 7
+  },
+  "85389": {
+    "city": "Boston",
+    "temperature_F": 94,
+    "humidity_percent": 77,
+    "heat_index_F": 117,
+    "uv_index": 8
+  },
+  "85390": {
+    "city": "Tampa",
+    "temperature_F": 120,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85391": {
+    "city": "Seattle",
+    "temperature_F": 112,
+    "humidity_percent": 46,
+    "heat_index_F": 125,
+    "uv_index": 9
+  },
+  "85392": {
+    "city": "Chicago",
+    "temperature_F": 119,
+    "humidity_percent": 76,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85393": {
+    "city": "New York",
+    "temperature_F": 95,
+    "humidity_percent": 90,
+    "heat_index_F": 122,
+    "uv_index": 10
+  },
+  "85394": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 38,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85395": {
+    "city": "Minneapolis",
+    "temperature_F": 87,
+    "humidity_percent": 24,
+    "heat_index_F": 94,
+    "uv_index": 7
+  },
+  "85396": {
+    "city": "Seattle",
+    "temperature_F": 96,
+    "humidity_percent": 67,
+    "heat_index_F": 116,
+    "uv_index": 7
+  },
+  "85397": {
+    "city": "Los Angeles",
+    "temperature_F": 114,
+    "humidity_percent": 13,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85398": {
+    "city": "Atlanta",
+    "temperature_F": 111,
+    "humidity_percent": 23,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85399": {
+    "city": "Atlanta",
+    "temperature_F": 92,
+    "humidity_percent": 59,
+    "heat_index_F": 109,
+    "uv_index": 8
+  },
+  "85400": {
+    "city": "Dallas",
+    "temperature_F": 98,
+    "humidity_percent": 88,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85401": {
+    "city": "Seattle",
+    "temperature_F": 107,
+    "humidity_percent": 41,
+    "heat_index_F": 119,
+    "uv_index": 6
+  },
+  "85402": {
+    "city": "Boston",
+    "temperature_F": 100,
+    "humidity_percent": 90,
+    "heat_index_F": 127,
+    "uv_index": 12
+  },
+  "85403": {
+    "city": "Miami",
+    "temperature_F": 118,
+    "humidity_percent": 37,
+    "heat_index_F": 129,
+    "uv_index": 6
+  },
+  "85404": {
+    "city": "Las Vegas",
+    "temperature_F": 97,
+    "humidity_percent": 73,
+    "heat_index_F": 118,
+    "uv_index": 7
+  },
+  "85405": {
+    "city": "Las Vegas",
+    "temperature_F": 100,
+    "humidity_percent": 40,
+    "heat_index_F": 112,
+    "uv_index": 7
+  },
+  "85406": {
+    "city": "Minneapolis",
+    "temperature_F": 115,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85407": {
+    "city": "Minneapolis",
+    "temperature_F": 96,
+    "humidity_percent": 72,
+    "heat_index_F": 117,
+    "uv_index": 12
+  },
+  "85408": {
+    "city": "Minneapolis",
+    "temperature_F": 119,
+    "humidity_percent": 24,
+    "heat_index_F": 126,
+    "uv_index": 7
+  },
+  "85409": {
+    "city": "Orlando",
+    "temperature_F": 118,
+    "humidity_percent": 89,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85410": {
+    "city": "Houston",
+    "temperature_F": 96,
+    "humidity_percent": 16,
+    "heat_index_F": 100,
+    "uv_index": 11
+  },
+  "85411": {
+    "city": "Tampa",
+    "temperature_F": 112,
+    "humidity_percent": 22,
+    "heat_index_F": 118,
+    "uv_index": 8
+  },
+  "85412": {
+    "city": "Dallas",
+    "temperature_F": 106,
+    "humidity_percent": 56,
+    "heat_index_F": 122,
+    "uv_index": 12
+  },
+  "85413": {
+    "city": "Los Angeles",
+    "temperature_F": 87,
+    "humidity_percent": 82,
+    "heat_index_F": 111,
+    "uv_index": 9
+  },
+  "85414": {
+    "city": "Houston",
+    "temperature_F": 107,
+    "humidity_percent": 56,
+    "heat_index_F": 123,
+    "uv_index": 10
+  },
+  "85415": {
+    "city": "Miami",
+    "temperature_F": 104,
+    "humidity_percent": 44,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85416": {
+    "city": "Miami",
+    "temperature_F": 90,
+    "humidity_percent": 68,
+    "heat_index_F": 110,
+    "uv_index": 12
+  },
+  "85417": {
+    "city": "Seattle",
+    "temperature_F": 101,
+    "humidity_percent": 33,
+    "heat_index_F": 110,
+    "uv_index": 6
+  },
+  "85418": {
+    "city": "Houston",
+    "temperature_F": 101,
+    "humidity_percent": 46,
+    "heat_index_F": 114,
+    "uv_index": 9
+  },
+  "85419": {
+    "city": "Houston",
+    "temperature_F": 95,
+    "humidity_percent": 32,
+    "heat_index_F": 104,
+    "uv_index": 5
+  },
+  "85420": {
+    "city": "Chicago",
+    "temperature_F": 101,
+    "humidity_percent": 83,
+    "heat_index_F": 125,
+    "uv_index": 9
+  },
+  "85421": {
+    "city": "Denver",
+    "temperature_F": 87,
+    "humidity_percent": 35,
+    "heat_index_F": 97,
+    "uv_index": 7
+  },
+  "85422": {
+    "city": "Seattle",
+    "temperature_F": 93,
+    "humidity_percent": 54,
+    "heat_index_F": 109,
+    "uv_index": 9
+  },
+  "85423": {
+    "city": "Minneapolis",
+    "temperature_F": 96,
+    "humidity_percent": 25,
+    "heat_index_F": 103,
+    "uv_index": 12
+  },
+  "85424": {
+    "city": "Chicago",
+    "temperature_F": 104,
+    "humidity_percent": 86,
+    "heat_index_F": 129,
+    "uv_index": 5
+  },
+  "85425": {
+    "city": "Seattle",
+    "temperature_F": 101,
+    "humidity_percent": 14,
+    "heat_index_F": 105,
+    "uv_index": 11
+  },
+  "85426": {
+    "city": "Atlanta",
+    "temperature_F": 96,
+    "humidity_percent": 85,
+    "heat_index_F": 121,
+    "uv_index": 10
+  },
+  "85427": {
+    "city": "Orlando",
+    "temperature_F": 103,
+    "humidity_percent": 50,
+    "heat_index_F": 118,
+    "uv_index": 6
+  },
+  "85428": {
+    "city": "New York",
+    "temperature_F": 95,
+    "humidity_percent": 58,
+    "heat_index_F": 112,
+    "uv_index": 10
+  },
+  "85429": {
+    "city": "Philadelphia",
+    "temperature_F": 117,
+    "humidity_percent": 37,
+    "heat_index_F": 128,
+    "uv_index": 5
+  },
+  "85430": {
+    "city": "Las Vegas",
+    "temperature_F": 100,
+    "humidity_percent": 49,
+    "heat_index_F": 114,
+    "uv_index": 12
+  },
+  "85431": {
+    "city": "Tampa",
+    "temperature_F": 88,
+    "humidity_percent": 16,
+    "heat_index_F": 92,
+    "uv_index": 7
+  },
+  "85432": {
+    "city": "Dallas",
+    "temperature_F": 85,
+    "humidity_percent": 58,
+    "heat_index_F": 102,
+    "uv_index": 9
+  },
+  "85433": {
+    "city": "Minneapolis",
+    "temperature_F": 103,
+    "humidity_percent": 77,
+    "heat_index_F": 126,
+    "uv_index": 7
+  },
+  "85434": {
+    "city": "Minneapolis",
+    "temperature_F": 108,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85435": {
+    "city": "Seattle",
+    "temperature_F": 101,
+    "humidity_percent": 89,
+    "heat_index_F": 127,
+    "uv_index": 12
+  },
+  "85436": {
+    "city": "Philadelphia",
+    "temperature_F": 95,
+    "humidity_percent": 54,
+    "heat_index_F": 111,
+    "uv_index": 5
+  },
+  "85437": {
+    "city": "Boston",
+    "temperature_F": 119,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85438": {
+    "city": "Atlanta",
+    "temperature_F": 105,
+    "humidity_percent": 89,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85439": {
+    "city": "Las Vegas",
+    "temperature_F": 113,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85440": {
+    "city": "Minneapolis",
+    "temperature_F": 108,
+    "humidity_percent": 26,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85441": {
+    "city": "San Antonio",
+    "temperature_F": 87,
+    "humidity_percent": 40,
+    "heat_index_F": 99,
+    "uv_index": 9
+  },
+  "85442": {
+    "city": "Houston",
+    "temperature_F": 91,
+    "humidity_percent": 15,
+    "heat_index_F": 95,
+    "uv_index": 5
+  },
+  "85443": {
+    "city": "Tampa",
+    "temperature_F": 92,
+    "humidity_percent": 55,
+    "heat_index_F": 108,
+    "uv_index": 9
+  },
+  "85444": {
+    "city": "Atlanta",
+    "temperature_F": 117,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85445": {
+    "city": "New York",
+    "temperature_F": 96,
+    "humidity_percent": 48,
+    "heat_index_F": 110,
+    "uv_index": 11
+  },
+  "85446": {
+    "city": "Atlanta",
+    "temperature_F": 89,
+    "humidity_percent": 47,
+    "heat_index_F": 103,
+    "uv_index": 8
+  },
+  "85447": {
+    "city": "Dallas",
+    "temperature_F": 100,
+    "humidity_percent": 53,
+    "heat_index_F": 115,
+    "uv_index": 8
+  },
+  "85448": {
+    "city": "Orlando",
+    "temperature_F": 112,
+    "humidity_percent": 43,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85449": {
+    "city": "Las Vegas",
+    "temperature_F": 97,
+    "humidity_percent": 41,
+    "heat_index_F": 109,
+    "uv_index": 8
+  },
+  "85450": {
+    "city": "Seattle",
+    "temperature_F": 87,
+    "humidity_percent": 13,
+    "heat_index_F": 90,
+    "uv_index": 8
+  },
+  "85451": {
+    "city": "Philadelphia",
+    "temperature_F": 119,
+    "humidity_percent": 26,
+    "heat_index_F": 126,
+    "uv_index": 12
+  },
+  "85452": {
+    "city": "Cleveland",
+    "temperature_F": 89,
+    "humidity_percent": 68,
+    "heat_index_F": 109,
+    "uv_index": 10
+  },
+  "85453": {
+    "city": "Boston",
+    "temperature_F": 100,
+    "humidity_percent": 50,
+    "heat_index_F": 115,
+    "uv_index": 8
+  },
+  "85454": {
+    "city": "Chicago",
+    "temperature_F": 90,
+    "humidity_percent": 90,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85455": {
+    "city": "New York",
+    "temperature_F": 86,
+    "humidity_percent": 84,
+    "heat_index_F": 111,
+    "uv_index": 11
+  },
+  "85456": {
+    "city": "Orlando",
+    "temperature_F": 92,
+    "humidity_percent": 32,
+    "heat_index_F": 101,
+    "uv_index": 6
+  },
+  "85457": {
+    "city": "Minneapolis",
+    "temperature_F": 99,
+    "humidity_percent": 19,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85458": {
+    "city": "Dallas",
+    "temperature_F": 91,
+    "humidity_percent": 13,
+    "heat_index_F": 94,
+    "uv_index": 12
+  },
+  "85459": {
+    "city": "San Antonio",
+    "temperature_F": 102,
+    "humidity_percent": 47,
+    "heat_index_F": 116,
+    "uv_index": 6
+  },
+  "85460": {
+    "city": "Atlanta",
+    "temperature_F": 101,
+    "humidity_percent": 16,
+    "heat_index_F": 105,
+    "uv_index": 7
+  },
+  "85461": {
+    "city": "Minneapolis",
+    "temperature_F": 118,
+    "humidity_percent": 22,
+    "heat_index_F": 124,
+    "uv_index": 6
+  },
+  "85462": {
+    "city": "Orlando",
+    "temperature_F": 108,
+    "humidity_percent": 27,
+    "heat_index_F": 116,
+    "uv_index": 9
+  },
+  "85463": {
+    "city": "Las Vegas",
+    "temperature_F": 111,
+    "humidity_percent": 27,
+    "heat_index_F": 119,
+    "uv_index": 7
+  },
+  "85464": {
+    "city": "Houston",
+    "temperature_F": 97,
+    "humidity_percent": 56,
+    "heat_index_F": 113,
+    "uv_index": 11
+  },
+  "85465": {
+    "city": "Las Vegas",
+    "temperature_F": 119,
+    "humidity_percent": 28,
+    "heat_index_F": 127,
+    "uv_index": 12
+  },
+  "85466": {
+    "city": "Chicago",
+    "temperature_F": 93,
+    "humidity_percent": 32,
+    "heat_index_F": 102,
+    "uv_index": 10
+  },
+  "85467": {
+    "city": "Seattle",
+    "temperature_F": 93,
+    "humidity_percent": 65,
+    "heat_index_F": 112,
+    "uv_index": 8
+  },
+  "85468": {
+    "city": "San Antonio",
+    "temperature_F": 110,
+    "humidity_percent": 22,
+    "heat_index_F": 116,
+    "uv_index": 6
+  },
+  "85469": {
+    "city": "Las Vegas",
+    "temperature_F": 95,
+    "humidity_percent": 26,
+    "heat_index_F": 102,
+    "uv_index": 9
+  },
+  "85470": {
+    "city": "Philadelphia",
+    "temperature_F": 91,
+    "humidity_percent": 12,
+    "heat_index_F": 94,
+    "uv_index": 5
+  },
+  "85471": {
+    "city": "Seattle",
+    "temperature_F": 105,
+    "humidity_percent": 18,
+    "heat_index_F": 110,
+    "uv_index": 10
+  },
+  "85472": {
+    "city": "Houston",
+    "temperature_F": 101,
+    "humidity_percent": 86,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85473": {
+    "city": "Denver",
+    "temperature_F": 98,
+    "humidity_percent": 64,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85474": {
+    "city": "San Antonio",
+    "temperature_F": 107,
+    "humidity_percent": 30,
+    "heat_index_F": 116,
+    "uv_index": 8
+  },
+  "85475": {
+    "city": "New York",
+    "temperature_F": 94,
+    "humidity_percent": 54,
+    "heat_index_F": 110,
+    "uv_index": 12
+  },
+  "85476": {
+    "city": "Los Angeles",
+    "temperature_F": 120,
+    "humidity_percent": 53,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85477": {
+    "city": "Minneapolis",
+    "temperature_F": 94,
+    "humidity_percent": 77,
+    "heat_index_F": 117,
+    "uv_index": 12
+  },
+  "85478": {
+    "city": "Minneapolis",
+    "temperature_F": 86,
+    "humidity_percent": 62,
+    "heat_index_F": 104,
+    "uv_index": 11
+  },
+  "85479": {
+    "city": "Atlanta",
+    "temperature_F": 93,
+    "humidity_percent": 38,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85480": {
+    "city": "San Antonio",
+    "temperature_F": 118,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85481": {
+    "city": "Dallas",
+    "temperature_F": 107,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85482": {
+    "city": "Phoenix",
+    "temperature_F": 90,
+    "humidity_percent": 83,
+    "heat_index_F": 114,
+    "uv_index": 5
+  },
+  "85483": {
+    "city": "New York",
+    "temperature_F": 90,
+    "humidity_percent": 51,
+    "heat_index_F": 105,
+    "uv_index": 12
+  },
+  "85484": {
+    "city": "Philadelphia",
+    "temperature_F": 91,
+    "humidity_percent": 43,
+    "heat_index_F": 103,
+    "uv_index": 9
+  },
+  "85485": {
+    "city": "Boston",
+    "temperature_F": 93,
+    "humidity_percent": 40,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85486": {
+    "city": "St. Louis",
+    "temperature_F": 103,
+    "humidity_percent": 77,
+    "heat_index_F": 126,
+    "uv_index": 10
+  },
+  "85487": {
+    "city": "Houston",
+    "temperature_F": 89,
+    "humidity_percent": 54,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85488": {
+    "city": "Tampa",
+    "temperature_F": 89,
+    "humidity_percent": 61,
+    "heat_index_F": 107,
+    "uv_index": 10
+  },
+  "85489": {
+    "city": "Seattle",
+    "temperature_F": 104,
+    "humidity_percent": 77,
+    "heat_index_F": 127,
+    "uv_index": 6
+  },
+  "85490": {
+    "city": "Cleveland",
+    "temperature_F": 118,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85491": {
+    "city": "St. Louis",
+    "temperature_F": 104,
+    "humidity_percent": 10,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85492": {
+    "city": "Detroit",
+    "temperature_F": 116,
+    "humidity_percent": 14,
+    "heat_index_F": 120,
+    "uv_index": 9
+  },
+  "85493": {
+    "city": "Miami",
+    "temperature_F": 95,
+    "humidity_percent": 35,
+    "heat_index_F": 105,
+    "uv_index": 7
+  },
+  "85494": {
+    "city": "Philadelphia",
+    "temperature_F": 109,
+    "humidity_percent": 65,
+    "heat_index_F": 128,
+    "uv_index": 10
+  },
+  "85495": {
+    "city": "Houston",
+    "temperature_F": 104,
+    "humidity_percent": 72,
+    "heat_index_F": 125,
+    "uv_index": 9
+  },
+  "85496": {
+    "city": "Atlanta",
+    "temperature_F": 118,
+    "humidity_percent": 71,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85497": {
+    "city": "Miami",
+    "temperature_F": 110,
+    "humidity_percent": 56,
+    "heat_index_F": 126,
+    "uv_index": 9
+  },
+  "85498": {
+    "city": "Detroit",
+    "temperature_F": 106,
+    "humidity_percent": 14,
+    "heat_index_F": 110,
+    "uv_index": 11
+  },
+  "85499": {
+    "city": "Phoenix",
+    "temperature_F": 105,
+    "humidity_percent": 52,
+    "heat_index_F": 120,
+    "uv_index": 5
+  },
+  "85500": {
+    "city": "Orlando",
+    "temperature_F": 86,
+    "humidity_percent": 74,
+    "heat_index_F": 108,
+    "uv_index": 12
+  },
+  "85501": {
+    "city": "Seattle",
+    "temperature_F": 105,
+    "humidity_percent": 87,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85502": {
+    "city": "Dallas",
+    "temperature_F": 88,
+    "humidity_percent": 11,
+    "heat_index_F": 91,
+    "uv_index": 12
+  },
+  "85503": {
+    "city": "Orlando",
+    "temperature_F": 99,
+    "humidity_percent": 68,
+    "heat_index_F": 119,
+    "uv_index": 8
+  },
+  "85504": {
+    "city": "Miami",
+    "temperature_F": 110,
+    "humidity_percent": 67,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85505": {
+    "city": "Las Vegas",
+    "temperature_F": 119,
+    "humidity_percent": 57,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85506": {
+    "city": "Denver",
+    "temperature_F": 110,
+    "humidity_percent": 47,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85507": {
+    "city": "Houston",
+    "temperature_F": 110,
+    "humidity_percent": 47,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85508": {
+    "city": "Denver",
+    "temperature_F": 104,
+    "humidity_percent": 38,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85509": {
+    "city": "Phoenix",
+    "temperature_F": 93,
+    "humidity_percent": 13,
+    "heat_index_F": 96,
+    "uv_index": 8
+  },
+  "85510": {
+    "city": "San Antonio",
+    "temperature_F": 109,
+    "humidity_percent": 67,
+    "heat_index_F": 129,
+    "uv_index": 11
+  },
+  "85511": {
+    "city": "New York",
+    "temperature_F": 92,
+    "humidity_percent": 88,
+    "heat_index_F": 118,
+    "uv_index": 10
+  },
+  "85512": {
+    "city": "Denver",
+    "temperature_F": 93,
+    "humidity_percent": 69,
+    "heat_index_F": 113,
+    "uv_index": 6
+  },
+  "85513": {
+    "city": "Miami",
+    "temperature_F": 100,
+    "humidity_percent": 28,
+    "heat_index_F": 108,
+    "uv_index": 9
+  },
+  "85514": {
+    "city": "Miami",
+    "temperature_F": 102,
+    "humidity_percent": 84,
+    "heat_index_F": 127,
+    "uv_index": 5
+  },
+  "85515": {
+    "city": "Las Vegas",
+    "temperature_F": 86,
+    "humidity_percent": 51,
+    "heat_index_F": 101,
+    "uv_index": 12
+  },
+  "85516": {
+    "city": "Detroit",
+    "temperature_F": 115,
+    "humidity_percent": 29,
+    "heat_index_F": 123,
+    "uv_index": 6
+  },
+  "85517": {
+    "city": "Los Angeles",
+    "temperature_F": 90,
+    "humidity_percent": 24,
+    "heat_index_F": 97,
+    "uv_index": 6
+  },
+  "85518": {
+    "city": "Phoenix",
+    "temperature_F": 96,
+    "humidity_percent": 89,
+    "heat_index_F": 122,
+    "uv_index": 10
+  },
+  "85519": {
+    "city": "Dallas",
+    "temperature_F": 111,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85520": {
+    "city": "Denver",
+    "temperature_F": 103,
+    "humidity_percent": 70,
+    "heat_index_F": 124,
+    "uv_index": 9
+  },
+  "85521": {
+    "city": "Philadelphia",
+    "temperature_F": 106,
+    "humidity_percent": 16,
+    "heat_index_F": 110,
+    "uv_index": 8
+  },
+  "85522": {
+    "city": "San Antonio",
+    "temperature_F": 99,
+    "humidity_percent": 59,
+    "heat_index_F": 116,
+    "uv_index": 11
+  },
+  "85523": {
+    "city": "Tampa",
+    "temperature_F": 86,
+    "humidity_percent": 31,
+    "heat_index_F": 95,
+    "uv_index": 11
+  },
+  "85524": {
+    "city": "Tampa",
+    "temperature_F": 113,
+    "humidity_percent": 52,
+    "heat_index_F": 128,
+    "uv_index": 7
+  },
+  "85525": {
+    "city": "Las Vegas",
+    "temperature_F": 101,
+    "humidity_percent": 39,
+    "heat_index_F": 112,
+    "uv_index": 12
+  },
+  "85526": {
+    "city": "Houston",
+    "temperature_F": 90,
+    "humidity_percent": 68,
+    "heat_index_F": 110,
+    "uv_index": 8
+  },
+  "85527": {
+    "city": "Detroit",
+    "temperature_F": 116,
+    "humidity_percent": 89,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85528": {
+    "city": "Atlanta",
+    "temperature_F": 104,
+    "humidity_percent": 87,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85529": {
+    "city": "Detroit",
+    "temperature_F": 85,
+    "humidity_percent": 27,
+    "heat_index_F": 93,
+    "uv_index": 7
+  },
+  "85530": {
+    "city": "Seattle",
+    "temperature_F": 104,
+    "humidity_percent": 39,
+    "heat_index_F": 115,
+    "uv_index": 12
+  },
+  "85531": {
+    "city": "Chicago",
+    "temperature_F": 114,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85532": {
+    "city": "Atlanta",
+    "temperature_F": 111,
+    "humidity_percent": 62,
+    "heat_index_F": 129,
+    "uv_index": 7
+  },
+  "85533": {
+    "city": "San Antonio",
+    "temperature_F": 99,
+    "humidity_percent": 89,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85534": {
+    "city": "Las Vegas",
+    "temperature_F": 112,
+    "humidity_percent": 67,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85535": {
+    "city": "Denver",
+    "temperature_F": 106,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85536": {
+    "city": "Cleveland",
+    "temperature_F": 119,
+    "humidity_percent": 34,
+    "heat_index_F": 129,
+    "uv_index": 9
+  },
+  "85537": {
+    "city": "Cleveland",
+    "temperature_F": 93,
+    "humidity_percent": 56,
+    "heat_index_F": 109,
+    "uv_index": 12
+  },
+  "85538": {
+    "city": "Dallas",
+    "temperature_F": 118,
+    "humidity_percent": 34,
+    "heat_index_F": 128,
+    "uv_index": 12
+  },
+  "85539": {
+    "city": "Atlanta",
+    "temperature_F": 90,
+    "humidity_percent": 27,
+    "heat_index_F": 98,
+    "uv_index": 8
+  },
+  "85540": {
+    "city": "Las Vegas",
+    "temperature_F": 106,
+    "humidity_percent": 57,
+    "heat_index_F": 123,
+    "uv_index": 12
+  },
+  "85541": {
+    "city": "San Antonio",
+    "temperature_F": 105,
+    "humidity_percent": 29,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85542": {
+    "city": "Seattle",
+    "temperature_F": 115,
+    "humidity_percent": 14,
+    "heat_index_F": 119,
+    "uv_index": 10
+  },
+  "85543": {
+    "city": "Houston",
+    "temperature_F": 95,
+    "humidity_percent": 77,
+    "heat_index_F": 118,
+    "uv_index": 10
+  },
+  "85544": {
+    "city": "Philadelphia",
+    "temperature_F": 111,
+    "humidity_percent": 53,
+    "heat_index_F": 126,
+    "uv_index": 9
+  },
+  "85545": {
+    "city": "New York",
+    "temperature_F": 88,
+    "humidity_percent": 27,
+    "heat_index_F": 96,
+    "uv_index": 6
+  },
+  "85546": {
+    "city": "St. Louis",
+    "temperature_F": 120,
+    "humidity_percent": 34,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85547": {
+    "city": "Los Angeles",
+    "temperature_F": 119,
+    "humidity_percent": 43,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85548": {
+    "city": "Minneapolis",
+    "temperature_F": 96,
+    "humidity_percent": 50,
+    "heat_index_F": 111,
+    "uv_index": 11
+  },
+  "85549": {
+    "city": "St. Louis",
+    "temperature_F": 118,
+    "humidity_percent": 38,
+    "heat_index_F": 129,
+    "uv_index": 9
+  },
+  "85550": {
+    "city": "Tampa",
+    "temperature_F": 106,
+    "humidity_percent": 90,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85551": {
+    "city": "Los Angeles",
+    "temperature_F": 93,
+    "humidity_percent": 16,
+    "heat_index_F": 97,
+    "uv_index": 6
+  },
+  "85552": {
+    "city": "New York",
+    "temperature_F": 96,
+    "humidity_percent": 70,
+    "heat_index_F": 117,
+    "uv_index": 7
+  },
+  "85553": {
+    "city": "Tampa",
+    "temperature_F": 109,
+    "humidity_percent": 59,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85554": {
+    "city": "New York",
+    "temperature_F": 90,
+    "humidity_percent": 30,
+    "heat_index_F": 99,
+    "uv_index": 5
+  },
+  "85555": {
+    "city": "Minneapolis",
+    "temperature_F": 117,
+    "humidity_percent": 21,
+    "heat_index_F": 123,
+    "uv_index": 8
+  },
+  "85556": {
+    "city": "Los Angeles",
+    "temperature_F": 86,
+    "humidity_percent": 70,
+    "heat_index_F": 107,
+    "uv_index": 5
+  },
+  "85557": {
+    "city": "Atlanta",
+    "temperature_F": 88,
+    "humidity_percent": 77,
+    "heat_index_F": 111,
+    "uv_index": 8
+  },
+  "85558": {
+    "city": "Miami",
+    "temperature_F": 118,
+    "humidity_percent": 81,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85559": {
+    "city": "St. Louis",
+    "temperature_F": 118,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85560": {
+    "city": "Chicago",
+    "temperature_F": 116,
+    "humidity_percent": 66,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85561": {
+    "city": "Atlanta",
+    "temperature_F": 90,
+    "humidity_percent": 48,
+    "heat_index_F": 104,
+    "uv_index": 11
+  },
+  "85562": {
+    "city": "Detroit",
+    "temperature_F": 118,
+    "humidity_percent": 69,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85563": {
+    "city": "Phoenix",
+    "temperature_F": 85,
+    "humidity_percent": 61,
+    "heat_index_F": 103,
+    "uv_index": 9
+  },
+  "85564": {
+    "city": "Phoenix",
+    "temperature_F": 117,
+    "humidity_percent": 16,
+    "heat_index_F": 121,
+    "uv_index": 12
+  },
+  "85565": {
+    "city": "Las Vegas",
+    "temperature_F": 98,
+    "humidity_percent": 18,
+    "heat_index_F": 103,
+    "uv_index": 8
+  },
+  "85566": {
+    "city": "Philadelphia",
+    "temperature_F": 98,
+    "humidity_percent": 28,
+    "heat_index_F": 106,
+    "uv_index": 9
+  },
+  "85567": {
+    "city": "Orlando",
+    "temperature_F": 118,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85568": {
+    "city": "Philadelphia",
+    "temperature_F": 103,
+    "humidity_percent": 61,
+    "heat_index_F": 121,
+    "uv_index": 12
+  },
+  "85569": {
+    "city": "Cleveland",
+    "temperature_F": 106,
+    "humidity_percent": 74,
+    "heat_index_F": 128,
+    "uv_index": 10
+  },
+  "85570": {
+    "city": "New York",
+    "temperature_F": 114,
+    "humidity_percent": 32,
+    "heat_index_F": 123,
+    "uv_index": 8
+  },
+  "85571": {
+    "city": "St. Louis",
+    "temperature_F": 113,
+    "humidity_percent": 28,
+    "heat_index_F": 121,
+    "uv_index": 6
+  },
+  "85572": {
+    "city": "Phoenix",
+    "temperature_F": 95,
+    "humidity_percent": 71,
+    "heat_index_F": 116,
+    "uv_index": 12
+  },
+  "85573": {
+    "city": "Denver",
+    "temperature_F": 107,
+    "humidity_percent": 30,
+    "heat_index_F": 116,
+    "uv_index": 7
+  },
+  "85574": {
+    "city": "St. Louis",
+    "temperature_F": 95,
+    "humidity_percent": 10,
+    "heat_index_F": 98,
+    "uv_index": 7
+  },
+  "85575": {
+    "city": "Los Angeles",
+    "temperature_F": 111,
+    "humidity_percent": 65,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85576": {
+    "city": "St. Louis",
+    "temperature_F": 104,
+    "humidity_percent": 76,
+    "heat_index_F": 126,
+    "uv_index": 5
+  },
+  "85577": {
+    "city": "Cleveland",
+    "temperature_F": 90,
+    "humidity_percent": 58,
+    "heat_index_F": 107,
+    "uv_index": 9
+  },
+  "85578": {
+    "city": "Miami",
+    "temperature_F": 99,
+    "humidity_percent": 15,
+    "heat_index_F": 103,
+    "uv_index": 12
+  },
+  "85579": {
+    "city": "Denver",
+    "temperature_F": 107,
+    "humidity_percent": 58,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85580": {
+    "city": "Cleveland",
+    "temperature_F": 93,
+    "humidity_percent": 63,
+    "heat_index_F": 111,
+    "uv_index": 12
+  },
+  "85581": {
+    "city": "New York",
+    "temperature_F": 102,
+    "humidity_percent": 67,
+    "heat_index_F": 122,
+    "uv_index": 6
+  },
+  "85582": {
+    "city": "Phoenix",
+    "temperature_F": 118,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85583": {
+    "city": "Miami",
+    "temperature_F": 92,
+    "humidity_percent": 36,
+    "heat_index_F": 102,
+    "uv_index": 10
+  },
+  "85584": {
+    "city": "Miami",
+    "temperature_F": 99,
+    "humidity_percent": 32,
+    "heat_index_F": 108,
+    "uv_index": 9
+  },
+  "85585": {
+    "city": "Dallas",
+    "temperature_F": 93,
+    "humidity_percent": 19,
+    "heat_index_F": 98,
+    "uv_index": 8
+  },
+  "85586": {
+    "city": "Boston",
+    "temperature_F": 85,
+    "humidity_percent": 70,
+    "heat_index_F": 106,
+    "uv_index": 6
+  },
+  "85587": {
+    "city": "Dallas",
+    "temperature_F": 94,
+    "humidity_percent": 29,
+    "heat_index_F": 102,
+    "uv_index": 11
+  },
+  "85588": {
+    "city": "Chicago",
+    "temperature_F": 97,
+    "humidity_percent": 20,
+    "heat_index_F": 103,
+    "uv_index": 5
+  },
+  "85589": {
+    "city": "Boston",
+    "temperature_F": 101,
+    "humidity_percent": 33,
+    "heat_index_F": 110,
+    "uv_index": 9
+  },
+  "85590": {
+    "city": "Phoenix",
+    "temperature_F": 101,
+    "humidity_percent": 73,
+    "heat_index_F": 122,
+    "uv_index": 11
+  },
+  "85591": {
+    "city": "Boston",
+    "temperature_F": 103,
+    "humidity_percent": 84,
+    "heat_index_F": 128,
+    "uv_index": 12
+  },
+  "85592": {
+    "city": "Orlando",
+    "temperature_F": 109,
+    "humidity_percent": 15,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85593": {
+    "city": "Phoenix",
+    "temperature_F": 89,
+    "humidity_percent": 16,
+    "heat_index_F": 93,
+    "uv_index": 6
+  },
+  "85594": {
+    "city": "Phoenix",
+    "temperature_F": 93,
+    "humidity_percent": 86,
+    "heat_index_F": 118,
+    "uv_index": 12
+  },
+  "85595": {
+    "city": "St. Louis",
+    "temperature_F": 107,
+    "humidity_percent": 48,
+    "heat_index_F": 121,
+    "uv_index": 11
+  },
+  "85596": {
+    "city": "Phoenix",
+    "temperature_F": 108,
+    "humidity_percent": 16,
+    "heat_index_F": 112,
+    "uv_index": 10
+  },
+  "85597": {
+    "city": "Chicago",
+    "temperature_F": 118,
+    "humidity_percent": 34,
+    "heat_index_F": 128,
+    "uv_index": 8
+  },
+  "85598": {
+    "city": "Seattle",
+    "temperature_F": 102,
+    "humidity_percent": 80,
+    "heat_index_F": 126,
+    "uv_index": 11
+  },
+  "85599": {
+    "city": "Atlanta",
+    "temperature_F": 108,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85600": {
+    "city": "Atlanta",
+    "temperature_F": 103,
+    "humidity_percent": 41,
+    "heat_index_F": 115,
+    "uv_index": 10
+  },
+  "85601": {
+    "city": "Atlanta",
+    "temperature_F": 85,
+    "humidity_percent": 38,
+    "heat_index_F": 96,
+    "uv_index": 8
+  },
+  "85602": {
+    "city": "Chicago",
+    "temperature_F": 94,
+    "humidity_percent": 20,
+    "heat_index_F": 100,
+    "uv_index": 7
+  },
+  "85603": {
+    "city": "Chicago",
+    "temperature_F": 119,
+    "humidity_percent": 82,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85604": {
+    "city": "Denver",
+    "temperature_F": 116,
+    "humidity_percent": 21,
+    "heat_index_F": 122,
+    "uv_index": 10
+  },
+  "85605": {
+    "city": "Houston",
+    "temperature_F": 119,
+    "humidity_percent": 57,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85606": {
+    "city": "Houston",
+    "temperature_F": 120,
+    "humidity_percent": 63,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85607": {
+    "city": "Cleveland",
+    "temperature_F": 120,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85608": {
+    "city": "St. Louis",
+    "temperature_F": 101,
+    "humidity_percent": 71,
+    "heat_index_F": 122,
+    "uv_index": 12
+  },
+  "85609": {
+    "city": "Phoenix",
+    "temperature_F": 86,
+    "humidity_percent": 75,
+    "heat_index_F": 108,
+    "uv_index": 7
+  },
+  "85610": {
+    "city": "Cleveland",
+    "temperature_F": 109,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85611": {
+    "city": "Houston",
+    "temperature_F": 106,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85612": {
+    "city": "Atlanta",
+    "temperature_F": 94,
+    "humidity_percent": 63,
+    "heat_index_F": 112,
+    "uv_index": 5
+  },
+  "85613": {
+    "city": "St. Louis",
+    "temperature_F": 86,
+    "humidity_percent": 67,
+    "heat_index_F": 106,
+    "uv_index": 6
+  },
+  "85614": {
+    "city": "Cleveland",
+    "temperature_F": 91,
+    "humidity_percent": 31,
+    "heat_index_F": 100,
+    "uv_index": 12
+  },
+  "85615": {
+    "city": "St. Louis",
+    "temperature_F": 108,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85616": {
+    "city": "Dallas",
+    "temperature_F": 116,
+    "humidity_percent": 86,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85617": {
+    "city": "Orlando",
+    "temperature_F": 90,
+    "humidity_percent": 48,
+    "heat_index_F": 104,
+    "uv_index": 7
+  },
+  "85618": {
+    "city": "Detroit",
+    "temperature_F": 103,
+    "humidity_percent": 21,
+    "heat_index_F": 109,
+    "uv_index": 7
+  },
+  "85619": {
+    "city": "Orlando",
+    "temperature_F": 110,
+    "humidity_percent": 49,
+    "heat_index_F": 124,
+    "uv_index": 5
+  },
+  "85620": {
+    "city": "Las Vegas",
+    "temperature_F": 102,
+    "humidity_percent": 32,
+    "heat_index_F": 111,
+    "uv_index": 10
+  },
+  "85621": {
+    "city": "Los Angeles",
+    "temperature_F": 115,
+    "humidity_percent": 26,
+    "heat_index_F": 122,
+    "uv_index": 12
+  },
+  "85622": {
+    "city": "Houston",
+    "temperature_F": 101,
+    "humidity_percent": 82,
+    "heat_index_F": 125,
+    "uv_index": 7
+  },
+  "85623": {
+    "city": "San Antonio",
+    "temperature_F": 99,
+    "humidity_percent": 82,
+    "heat_index_F": 123,
+    "uv_index": 6
+  },
+  "85624": {
+    "city": "Chicago",
+    "temperature_F": 120,
+    "humidity_percent": 30,
+    "heat_index_F": 129,
+    "uv_index": 11
+  },
+  "85625": {
+    "city": "Dallas",
+    "temperature_F": 105,
+    "humidity_percent": 36,
+    "heat_index_F": 115,
+    "uv_index": 6
+  },
+  "85626": {
+    "city": "Miami",
+    "temperature_F": 86,
+    "humidity_percent": 15,
+    "heat_index_F": 90,
+    "uv_index": 8
+  },
+  "85627": {
+    "city": "Atlanta",
+    "temperature_F": 98,
+    "humidity_percent": 45,
+    "heat_index_F": 111,
+    "uv_index": 12
+  },
+  "85628": {
+    "city": "Las Vegas",
+    "temperature_F": 115,
+    "humidity_percent": 66,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85629": {
+    "city": "Chicago",
+    "temperature_F": 114,
+    "humidity_percent": 60,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85630": {
+    "city": "Miami",
+    "temperature_F": 98,
+    "humidity_percent": 79,
+    "heat_index_F": 121,
+    "uv_index": 11
+  },
+  "85631": {
+    "city": "Tampa",
+    "temperature_F": 92,
+    "humidity_percent": 58,
+    "heat_index_F": 109,
+    "uv_index": 7
+  },
+  "85632": {
+    "city": "Miami",
+    "temperature_F": 97,
+    "humidity_percent": 71,
+    "heat_index_F": 118,
+    "uv_index": 11
+  },
+  "85633": {
+    "city": "Las Vegas",
+    "temperature_F": 113,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85634": {
+    "city": "Denver",
+    "temperature_F": 119,
+    "humidity_percent": 87,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85635": {
+    "city": "Detroit",
+    "temperature_F": 110,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85636": {
+    "city": "Orlando",
+    "temperature_F": 120,
+    "humidity_percent": 67,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85637": {
+    "city": "New York",
+    "temperature_F": 93,
+    "humidity_percent": 35,
+    "heat_index_F": 103,
+    "uv_index": 5
+  },
+  "85638": {
+    "city": "Tampa",
+    "temperature_F": 106,
+    "humidity_percent": 25,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85639": {
+    "city": "Chicago",
+    "temperature_F": 105,
+    "humidity_percent": 89,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85640": {
+    "city": "Cleveland",
+    "temperature_F": 110,
+    "humidity_percent": 30,
+    "heat_index_F": 119,
+    "uv_index": 10
+  },
+  "85641": {
+    "city": "Boston",
+    "temperature_F": 96,
+    "humidity_percent": 78,
+    "heat_index_F": 119,
+    "uv_index": 5
+  },
+  "85642": {
+    "city": "Cleveland",
+    "temperature_F": 104,
+    "humidity_percent": 39,
+    "heat_index_F": 115,
+    "uv_index": 10
+  },
+  "85643": {
+    "city": "Orlando",
+    "temperature_F": 115,
+    "humidity_percent": 63,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85644": {
+    "city": "Las Vegas",
+    "temperature_F": 92,
+    "humidity_percent": 19,
+    "heat_index_F": 97,
+    "uv_index": 12
+  },
+  "85645": {
+    "city": "Phoenix",
+    "temperature_F": 86,
+    "humidity_percent": 85,
+    "heat_index_F": 111,
+    "uv_index": 12
+  },
+  "85646": {
+    "city": "New York",
+    "temperature_F": 94,
+    "humidity_percent": 86,
+    "heat_index_F": 119,
+    "uv_index": 5
+  },
+  "85647": {
+    "city": "San Antonio",
+    "temperature_F": 95,
+    "humidity_percent": 90,
+    "heat_index_F": 122,
+    "uv_index": 6
+  },
+  "85648": {
+    "city": "Orlando",
+    "temperature_F": 101,
+    "humidity_percent": 19,
+    "heat_index_F": 106,
+    "uv_index": 8
+  },
+  "85649": {
+    "city": "Houston",
+    "temperature_F": 104,
+    "humidity_percent": 12,
+    "heat_index_F": 107,
+    "uv_index": 10
+  },
+  "85650": {
+    "city": "Atlanta",
+    "temperature_F": 88,
+    "humidity_percent": 63,
+    "heat_index_F": 106,
+    "uv_index": 9
+  },
+  "85651": {
+    "city": "Los Angeles",
+    "temperature_F": 120,
+    "humidity_percent": 65,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85652": {
+    "city": "Atlanta",
+    "temperature_F": 100,
+    "humidity_percent": 27,
+    "heat_index_F": 108,
+    "uv_index": 10
+  },
+  "85653": {
+    "city": "Orlando",
+    "temperature_F": 117,
+    "humidity_percent": 47,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85654": {
+    "city": "St. Louis",
+    "temperature_F": 115,
+    "humidity_percent": 43,
+    "heat_index_F": 127,
+    "uv_index": 7
+  },
+  "85655": {
+    "city": "Phoenix",
+    "temperature_F": 112,
+    "humidity_percent": 22,
+    "heat_index_F": 118,
+    "uv_index": 12
+  },
+  "85656": {
+    "city": "Tampa",
+    "temperature_F": 95,
+    "humidity_percent": 20,
+    "heat_index_F": 101,
+    "uv_index": 10
+  },
+  "85657": {
+    "city": "San Antonio",
+    "temperature_F": 119,
+    "humidity_percent": 71,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85658": {
+    "city": "St. Louis",
+    "temperature_F": 85,
+    "humidity_percent": 31,
+    "heat_index_F": 94,
+    "uv_index": 12
+  },
+  "85659": {
+    "city": "Tampa",
+    "temperature_F": 92,
+    "humidity_percent": 68,
+    "heat_index_F": 112,
+    "uv_index": 12
+  },
+  "85660": {
+    "city": "Detroit",
+    "temperature_F": 88,
+    "humidity_percent": 15,
+    "heat_index_F": 92,
+    "uv_index": 9
+  },
+  "85661": {
+    "city": "Detroit",
+    "temperature_F": 100,
+    "humidity_percent": 15,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85662": {
+    "city": "Philadelphia",
+    "temperature_F": 95,
+    "humidity_percent": 23,
+    "heat_index_F": 101,
+    "uv_index": 12
+  },
+  "85663": {
+    "city": "Tampa",
+    "temperature_F": 91,
+    "humidity_percent": 32,
+    "heat_index_F": 100,
+    "uv_index": 8
+  },
+  "85664": {
+    "city": "Dallas",
+    "temperature_F": 105,
+    "humidity_percent": 74,
+    "heat_index_F": 127,
+    "uv_index": 8
+  },
+  "85665": {
+    "city": "Philadelphia",
+    "temperature_F": 104,
+    "humidity_percent": 14,
+    "heat_index_F": 108,
+    "uv_index": 10
+  },
+  "85666": {
+    "city": "Atlanta",
+    "temperature_F": 116,
+    "humidity_percent": 35,
+    "heat_index_F": 126,
+    "uv_index": 5
+  },
+  "85667": {
+    "city": "Atlanta",
+    "temperature_F": 118,
+    "humidity_percent": 34,
+    "heat_index_F": 128,
+    "uv_index": 12
+  },
+  "85668": {
+    "city": "Miami",
+    "temperature_F": 114,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85669": {
+    "city": "Atlanta",
+    "temperature_F": 119,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85670": {
+    "city": "Orlando",
+    "temperature_F": 91,
+    "humidity_percent": 22,
+    "heat_index_F": 97,
+    "uv_index": 11
+  },
+  "85671": {
+    "city": "Tampa",
+    "temperature_F": 115,
+    "humidity_percent": 85,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85672": {
+    "city": "Chicago",
+    "temperature_F": 102,
+    "humidity_percent": 57,
+    "heat_index_F": 119,
+    "uv_index": 7
+  },
+  "85673": {
+    "city": "Phoenix",
+    "temperature_F": 109,
+    "humidity_percent": 52,
+    "heat_index_F": 124,
+    "uv_index": 5
+  },
+  "85674": {
+    "city": "Philadelphia",
+    "temperature_F": 95,
+    "humidity_percent": 76,
+    "heat_index_F": 117,
+    "uv_index": 8
+  },
+  "85675": {
+    "city": "Orlando",
+    "temperature_F": 99,
+    "humidity_percent": 84,
+    "heat_index_F": 124,
+    "uv_index": 9
+  },
+  "85676": {
+    "city": "Seattle",
+    "temperature_F": 111,
+    "humidity_percent": 36,
+    "heat_index_F": 121,
+    "uv_index": 9
+  },
+  "85677": {
+    "city": "Minneapolis",
+    "temperature_F": 91,
+    "humidity_percent": 63,
+    "heat_index_F": 109,
+    "uv_index": 9
+  },
+  "85678": {
+    "city": "San Antonio",
+    "temperature_F": 112,
+    "humidity_percent": 43,
+    "heat_index_F": 124,
+    "uv_index": 11
+  },
+  "85679": {
+    "city": "Detroit",
+    "temperature_F": 91,
+    "humidity_percent": 45,
+    "heat_index_F": 104,
+    "uv_index": 5
+  },
+  "85680": {
+    "city": "Houston",
+    "temperature_F": 96,
+    "humidity_percent": 76,
+    "heat_index_F": 118,
+    "uv_index": 10
+  },
+  "85681": {
+    "city": "Miami",
+    "temperature_F": 116,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85682": {
+    "city": "Philadelphia",
+    "temperature_F": 106,
+    "humidity_percent": 54,
+    "heat_index_F": 122,
+    "uv_index": 10
+  },
+  "85683": {
+    "city": "Las Vegas",
+    "temperature_F": 117,
+    "humidity_percent": 28,
+    "heat_index_F": 125,
+    "uv_index": 6
+  },
+  "85684": {
+    "city": "Seattle",
+    "temperature_F": 86,
+    "humidity_percent": 60,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85685": {
+    "city": "Phoenix",
+    "temperature_F": 117,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85686": {
+    "city": "New York",
+    "temperature_F": 108,
+    "humidity_percent": 43,
+    "heat_index_F": 120,
+    "uv_index": 9
+  },
+  "85687": {
+    "city": "Philadelphia",
+    "temperature_F": 104,
+    "humidity_percent": 30,
+    "heat_index_F": 113,
+    "uv_index": 7
+  },
+  "85688": {
+    "city": "Atlanta",
+    "temperature_F": 105,
+    "humidity_percent": 67,
+    "heat_index_F": 125,
+    "uv_index": 7
+  },
+  "85689": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 49,
+    "heat_index_F": 108,
+    "uv_index": 7
+  },
+  "85690": {
+    "city": "New York",
+    "temperature_F": 107,
+    "humidity_percent": 31,
+    "heat_index_F": 116,
+    "uv_index": 11
+  },
+  "85691": {
+    "city": "Miami",
+    "temperature_F": 102,
+    "humidity_percent": 74,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85692": {
+    "city": "St. Louis",
+    "temperature_F": 113,
+    "humidity_percent": 10,
+    "heat_index_F": 116,
+    "uv_index": 5
+  },
+  "85693": {
+    "city": "St. Louis",
+    "temperature_F": 120,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85694": {
+    "city": "Philadelphia",
+    "temperature_F": 107,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85695": {
+    "city": "Orlando",
+    "temperature_F": 99,
+    "humidity_percent": 42,
+    "heat_index_F": 111,
+    "uv_index": 9
+  },
+  "85696": {
+    "city": "Boston",
+    "temperature_F": 105,
+    "humidity_percent": 49,
+    "heat_index_F": 119,
+    "uv_index": 6
+  },
+  "85697": {
+    "city": "Chicago",
+    "temperature_F": 92,
+    "humidity_percent": 55,
+    "heat_index_F": 108,
+    "uv_index": 5
+  },
+  "85698": {
+    "city": "Seattle",
+    "temperature_F": 107,
+    "humidity_percent": 75,
+    "heat_index_F": 129,
+    "uv_index": 10
+  },
+  "85699": {
+    "city": "Seattle",
+    "temperature_F": 101,
+    "humidity_percent": 89,
+    "heat_index_F": 127,
+    "uv_index": 8
+  },
+  "85700": {
+    "city": "Orlando",
+    "temperature_F": 109,
+    "humidity_percent": 73,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85701": {
+    "city": "Detroit",
+    "temperature_F": 114,
+    "humidity_percent": 74,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85702": {
+    "city": "Detroit",
+    "temperature_F": 93,
+    "humidity_percent": 19,
+    "heat_index_F": 98,
+    "uv_index": 7
+  },
+  "85703": {
+    "city": "Philadelphia",
+    "temperature_F": 99,
+    "humidity_percent": 30,
+    "heat_index_F": 108,
+    "uv_index": 11
+  },
+  "85704": {
+    "city": "Seattle",
+    "temperature_F": 93,
+    "humidity_percent": 43,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85705": {
+    "city": "St. Louis",
+    "temperature_F": 99,
+    "humidity_percent": 27,
+    "heat_index_F": 107,
+    "uv_index": 11
+  },
+  "85706": {
+    "city": "Los Angeles",
+    "temperature_F": 112,
+    "humidity_percent": 57,
+    "heat_index_F": 129,
+    "uv_index": 11
+  },
+  "85707": {
+    "city": "Las Vegas",
+    "temperature_F": 119,
+    "humidity_percent": 55,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85708": {
+    "city": "St. Louis",
+    "temperature_F": 93,
+    "humidity_percent": 37,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85709": {
+    "city": "Houston",
+    "temperature_F": 114,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85710": {
+    "city": "Cleveland",
+    "temperature_F": 95,
+    "humidity_percent": 55,
+    "heat_index_F": 111,
+    "uv_index": 7
+  },
+  "85711": {
+    "city": "Houston",
+    "temperature_F": 105,
+    "humidity_percent": 25,
+    "heat_index_F": 112,
+    "uv_index": 5
+  },
+  "85712": {
+    "city": "Dallas",
+    "temperature_F": 112,
+    "humidity_percent": 42,
+    "heat_index_F": 124,
+    "uv_index": 11
+  },
+  "85713": {
+    "city": "Los Angeles",
+    "temperature_F": 115,
+    "humidity_percent": 34,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85714": {
+    "city": "Houston",
+    "temperature_F": 107,
+    "humidity_percent": 12,
+    "heat_index_F": 110,
+    "uv_index": 8
+  },
+  "85715": {
+    "city": "Phoenix",
+    "temperature_F": 109,
+    "humidity_percent": 36,
+    "heat_index_F": 119,
+    "uv_index": 8
+  },
+  "85716": {
+    "city": "Miami",
+    "temperature_F": 92,
+    "humidity_percent": 46,
+    "heat_index_F": 105,
+    "uv_index": 11
+  },
+  "85717": {
+    "city": "Dallas",
+    "temperature_F": 116,
+    "humidity_percent": 14,
+    "heat_index_F": 120,
+    "uv_index": 7
+  },
+  "85718": {
+    "city": "Dallas",
+    "temperature_F": 99,
+    "humidity_percent": 67,
+    "heat_index_F": 119,
+    "uv_index": 8
+  },
+  "85719": {
+    "city": "Dallas",
+    "temperature_F": 104,
+    "humidity_percent": 71,
+    "heat_index_F": 125,
+    "uv_index": 12
+  },
+  "85720": {
+    "city": "Houston",
+    "temperature_F": 98,
+    "humidity_percent": 81,
+    "heat_index_F": 122,
+    "uv_index": 9
+  },
+  "85721": {
+    "city": "Denver",
+    "temperature_F": 118,
+    "humidity_percent": 84,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85722": {
+    "city": "New York",
+    "temperature_F": 108,
+    "humidity_percent": 24,
+    "heat_index_F": 115,
+    "uv_index": 12
+  },
+  "85723": {
+    "city": "St. Louis",
+    "temperature_F": 95,
+    "humidity_percent": 67,
+    "heat_index_F": 115,
+    "uv_index": 10
+  },
+  "85724": {
+    "city": "Denver",
+    "temperature_F": 88,
+    "humidity_percent": 38,
+    "heat_index_F": 99,
+    "uv_index": 9
+  },
+  "85725": {
+    "city": "St. Louis",
+    "temperature_F": 110,
+    "humidity_percent": 24,
+    "heat_index_F": 117,
+    "uv_index": 11
+  },
+  "85726": {
+    "city": "Minneapolis",
+    "temperature_F": 94,
+    "humidity_percent": 50,
+    "heat_index_F": 109,
+    "uv_index": 10
+  },
+  "85727": {
+    "city": "Boston",
+    "temperature_F": 104,
+    "humidity_percent": 78,
+    "heat_index_F": 127,
+    "uv_index": 11
+  },
+  "85728": {
+    "city": "Tampa",
+    "temperature_F": 105,
+    "humidity_percent": 12,
+    "heat_index_F": 108,
+    "uv_index": 6
+  },
+  "85729": {
+    "city": "Miami",
+    "temperature_F": 111,
+    "humidity_percent": 31,
+    "heat_index_F": 120,
+    "uv_index": 12
+  },
+  "85730": {
+    "city": "Cleveland",
+    "temperature_F": 96,
+    "humidity_percent": 19,
+    "heat_index_F": 101,
+    "uv_index": 5
+  },
+  "85731": {
+    "city": "Dallas",
+    "temperature_F": 97,
+    "humidity_percent": 61,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85732": {
+    "city": "Denver",
+    "temperature_F": 93,
+    "humidity_percent": 78,
+    "heat_index_F": 116,
+    "uv_index": 7
+  },
+  "85733": {
+    "city": "San Antonio",
+    "temperature_F": 113,
+    "humidity_percent": 23,
+    "heat_index_F": 119,
+    "uv_index": 7
+  },
+  "85734": {
+    "city": "Minneapolis",
+    "temperature_F": 119,
+    "humidity_percent": 59,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85735": {
+    "city": "Tampa",
+    "temperature_F": 118,
+    "humidity_percent": 43,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85736": {
+    "city": "Boston",
+    "temperature_F": 115,
+    "humidity_percent": 19,
+    "heat_index_F": 120,
+    "uv_index": 11
+  },
+  "85737": {
+    "city": "Tampa",
+    "temperature_F": 92,
+    "humidity_percent": 78,
+    "heat_index_F": 115,
+    "uv_index": 8
+  },
+  "85738": {
+    "city": "Houston",
+    "temperature_F": 113,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85739": {
+    "city": "San Antonio",
+    "temperature_F": 109,
+    "humidity_percent": 12,
+    "heat_index_F": 112,
+    "uv_index": 11
+  },
+  "85740": {
+    "city": "Phoenix",
+    "temperature_F": 85,
+    "humidity_percent": 60,
+    "heat_index_F": 103,
+    "uv_index": 6
+  },
+  "85741": {
+    "city": "St. Louis",
+    "temperature_F": 88,
+    "humidity_percent": 62,
+    "heat_index_F": 106,
+    "uv_index": 6
+  },
+  "85742": {
+    "city": "Chicago",
+    "temperature_F": 101,
+    "humidity_percent": 34,
+    "heat_index_F": 111,
+    "uv_index": 10
+  },
+  "85743": {
+    "city": "Dallas",
+    "temperature_F": 93,
+    "humidity_percent": 63,
+    "heat_index_F": 111,
+    "uv_index": 11
+  },
+  "85744": {
+    "city": "San Antonio",
+    "temperature_F": 87,
+    "humidity_percent": 31,
+    "heat_index_F": 96,
+    "uv_index": 10
+  },
+  "85745": {
+    "city": "San Antonio",
+    "temperature_F": 94,
+    "humidity_percent": 21,
+    "heat_index_F": 100,
+    "uv_index": 8
+  },
+  "85746": {
+    "city": "Las Vegas",
+    "temperature_F": 90,
+    "humidity_percent": 39,
+    "heat_index_F": 101,
+    "uv_index": 7
+  },
+  "85747": {
+    "city": "Seattle",
+    "temperature_F": 103,
+    "humidity_percent": 73,
+    "heat_index_F": 124,
+    "uv_index": 11
+  },
+  "85748": {
+    "city": "Houston",
+    "temperature_F": 89,
+    "humidity_percent": 38,
+    "heat_index_F": 100,
+    "uv_index": 8
+  },
+  "85749": {
+    "city": "Seattle",
+    "temperature_F": 90,
+    "humidity_percent": 28,
+    "heat_index_F": 98,
+    "uv_index": 10
+  },
+  "85750": {
+    "city": "Dallas",
+    "temperature_F": 111,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85751": {
+    "city": "St. Louis",
+    "temperature_F": 105,
+    "humidity_percent": 82,
+    "heat_index_F": 129,
+    "uv_index": 11
+  },
+  "85752": {
+    "city": "Atlanta",
+    "temperature_F": 103,
+    "humidity_percent": 21,
+    "heat_index_F": 109,
+    "uv_index": 8
+  },
+  "85753": {
+    "city": "Boston",
+    "temperature_F": 91,
+    "humidity_percent": 53,
+    "heat_index_F": 106,
+    "uv_index": 8
+  },
+  "85754": {
+    "city": "Boston",
+    "temperature_F": 111,
+    "humidity_percent": 17,
+    "heat_index_F": 116,
+    "uv_index": 6
+  },
+  "85755": {
+    "city": "Denver",
+    "temperature_F": 112,
+    "humidity_percent": 27,
+    "heat_index_F": 120,
+    "uv_index": 5
+  },
+  "85756": {
+    "city": "Philadelphia",
+    "temperature_F": 94,
+    "humidity_percent": 87,
+    "heat_index_F": 120,
+    "uv_index": 12
+  },
+  "85757": {
+    "city": "Philadelphia",
+    "temperature_F": 110,
+    "humidity_percent": 65,
+    "heat_index_F": 129,
+    "uv_index": 11
+  },
+  "85758": {
+    "city": "Tampa",
+    "temperature_F": 90,
+    "humidity_percent": 51,
+    "heat_index_F": 105,
+    "uv_index": 12
+  },
+  "85759": {
+    "city": "Las Vegas",
+    "temperature_F": 90,
+    "humidity_percent": 35,
+    "heat_index_F": 100,
+    "uv_index": 9
+  },
+  "85760": {
+    "city": "Orlando",
+    "temperature_F": 112,
+    "humidity_percent": 18,
+    "heat_index_F": 117,
+    "uv_index": 7
+  },
+  "85761": {
+    "city": "Minneapolis",
+    "temperature_F": 114,
+    "humidity_percent": 29,
+    "heat_index_F": 122,
+    "uv_index": 11
+  },
+  "85762": {
+    "city": "Tampa",
+    "temperature_F": 102,
+    "humidity_percent": 23,
+    "heat_index_F": 108,
+    "uv_index": 11
+  },
+  "85763": {
+    "city": "Orlando",
+    "temperature_F": 109,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85764": {
+    "city": "Orlando",
+    "temperature_F": 99,
+    "humidity_percent": 30,
+    "heat_index_F": 108,
+    "uv_index": 6
+  },
+  "85765": {
+    "city": "New York",
+    "temperature_F": 112,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85766": {
+    "city": "Houston",
+    "temperature_F": 109,
+    "humidity_percent": 55,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85767": {
+    "city": "Orlando",
+    "temperature_F": 104,
+    "humidity_percent": 76,
+    "heat_index_F": 126,
+    "uv_index": 10
+  },
+  "85768": {
+    "city": "San Antonio",
+    "temperature_F": 110,
+    "humidity_percent": 65,
+    "heat_index_F": 129,
+    "uv_index": 12
+  },
+  "85769": {
+    "city": "Philadelphia",
+    "temperature_F": 113,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85770": {
+    "city": "Minneapolis",
+    "temperature_F": 120,
+    "humidity_percent": 49,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85771": {
+    "city": "San Antonio",
+    "temperature_F": 117,
+    "humidity_percent": 24,
+    "heat_index_F": 124,
+    "uv_index": 6
+  },
+  "85772": {
+    "city": "Miami",
+    "temperature_F": 86,
+    "humidity_percent": 54,
+    "heat_index_F": 102,
+    "uv_index": 8
+  },
+  "85773": {
+    "city": "Las Vegas",
+    "temperature_F": 115,
+    "humidity_percent": 55,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85774": {
+    "city": "Tampa",
+    "temperature_F": 90,
+    "humidity_percent": 77,
+    "heat_index_F": 113,
+    "uv_index": 12
+  },
+  "85775": {
+    "city": "Atlanta",
+    "temperature_F": 88,
+    "humidity_percent": 42,
+    "heat_index_F": 100,
+    "uv_index": 9
+  },
+  "85776": {
+    "city": "Phoenix",
+    "temperature_F": 105,
+    "humidity_percent": 33,
+    "heat_index_F": 114,
+    "uv_index": 6
+  },
+  "85777": {
+    "city": "Seattle",
+    "temperature_F": 95,
+    "humidity_percent": 76,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85778": {
+    "city": "Los Angeles",
+    "temperature_F": 86,
+    "humidity_percent": 83,
+    "heat_index_F": 110,
+    "uv_index": 5
+  },
+  "85779": {
+    "city": "Chicago",
+    "temperature_F": 98,
+    "humidity_percent": 47,
+    "heat_index_F": 112,
+    "uv_index": 8
+  },
+  "85780": {
+    "city": "Denver",
+    "temperature_F": 109,
+    "humidity_percent": 63,
+    "heat_index_F": 127,
+    "uv_index": 10
+  },
+  "85781": {
+    "city": "Boston",
+    "temperature_F": 115,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85782": {
+    "city": "St. Louis",
+    "temperature_F": 85,
+    "humidity_percent": 61,
+    "heat_index_F": 103,
+    "uv_index": 5
+  },
+  "85783": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 52,
+    "heat_index_F": 109,
+    "uv_index": 11
+  },
+  "85784": {
+    "city": "Dallas",
+    "temperature_F": 86,
+    "humidity_percent": 34,
+    "heat_index_F": 96,
+    "uv_index": 5
+  },
+  "85785": {
+    "city": "Seattle",
+    "temperature_F": 115,
+    "humidity_percent": 83,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85786": {
+    "city": "Las Vegas",
+    "temperature_F": 109,
+    "humidity_percent": 55,
+    "heat_index_F": 125,
+    "uv_index": 7
+  },
+  "85787": {
+    "city": "San Antonio",
+    "temperature_F": 96,
+    "humidity_percent": 69,
+    "heat_index_F": 116,
+    "uv_index": 11
+  },
+  "85788": {
+    "city": "Phoenix",
+    "temperature_F": 101,
+    "humidity_percent": 54,
+    "heat_index_F": 117,
+    "uv_index": 12
+  },
+  "85789": {
+    "city": "Los Angeles",
+    "temperature_F": 105,
+    "humidity_percent": 27,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85790": {
+    "city": "Cleveland",
+    "temperature_F": 96,
+    "humidity_percent": 47,
+    "heat_index_F": 110,
+    "uv_index": 8
+  },
+  "85791": {
+    "city": "Detroit",
+    "temperature_F": 110,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85792": {
+    "city": "Minneapolis",
+    "temperature_F": 108,
+    "humidity_percent": 49,
+    "heat_index_F": 122,
+    "uv_index": 5
+  },
+  "85793": {
+    "city": "Orlando",
+    "temperature_F": 85,
+    "humidity_percent": 26,
+    "heat_index_F": 92,
+    "uv_index": 8
+  },
+  "85794": {
+    "city": "Denver",
+    "temperature_F": 97,
+    "humidity_percent": 74,
+    "heat_index_F": 119,
+    "uv_index": 11
+  },
+  "85795": {
+    "city": "Las Vegas",
+    "temperature_F": 105,
+    "humidity_percent": 54,
+    "heat_index_F": 121,
+    "uv_index": 12
+  },
+  "85796": {
+    "city": "Cleveland",
+    "temperature_F": 119,
+    "humidity_percent": 68,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85797": {
+    "city": "Minneapolis",
+    "temperature_F": 108,
+    "humidity_percent": 67,
+    "heat_index_F": 128,
+    "uv_index": 5
+  },
+  "85798": {
+    "city": "Tampa",
+    "temperature_F": 114,
+    "humidity_percent": 53,
+    "heat_index_F": 129,
+    "uv_index": 10
+  },
+  "85799": {
+    "city": "Miami",
+    "temperature_F": 101,
+    "humidity_percent": 79,
+    "heat_index_F": 124,
+    "uv_index": 12
+  },
+  "85800": {
+    "city": "Philadelphia",
+    "temperature_F": 104,
+    "humidity_percent": 48,
+    "heat_index_F": 118,
+    "uv_index": 8
+  },
+  "85801": {
+    "city": "Atlanta",
+    "temperature_F": 109,
+    "humidity_percent": 36,
+    "heat_index_F": 119,
+    "uv_index": 12
+  },
+  "85802": {
+    "city": "Dallas",
+    "temperature_F": 101,
+    "humidity_percent": 14,
+    "heat_index_F": 105,
+    "uv_index": 10
+  },
+  "85803": {
+    "city": "Las Vegas",
+    "temperature_F": 110,
+    "humidity_percent": 30,
+    "heat_index_F": 119,
+    "uv_index": 6
+  },
+  "85804": {
+    "city": "Boston",
+    "temperature_F": 120,
+    "humidity_percent": 16,
+    "heat_index_F": 124,
+    "uv_index": 10
+  },
+  "85805": {
+    "city": "New York",
+    "temperature_F": 98,
+    "humidity_percent": 64,
+    "heat_index_F": 117,
+    "uv_index": 8
+  },
+  "85806": {
+    "city": "Minneapolis",
+    "temperature_F": 104,
+    "humidity_percent": 64,
+    "heat_index_F": 123,
+    "uv_index": 10
+  },
+  "85807": {
+    "city": "Atlanta",
+    "temperature_F": 102,
+    "humidity_percent": 79,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85808": {
+    "city": "Seattle",
+    "temperature_F": 119,
+    "humidity_percent": 33,
+    "heat_index_F": 128,
+    "uv_index": 9
+  },
+  "85809": {
+    "city": "Miami",
+    "temperature_F": 91,
+    "humidity_percent": 87,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85810": {
+    "city": "Las Vegas",
+    "temperature_F": 98,
+    "humidity_percent": 72,
+    "heat_index_F": 119,
+    "uv_index": 12
+  },
+  "85811": {
+    "city": "San Antonio",
+    "temperature_F": 118,
+    "humidity_percent": 18,
+    "heat_index_F": 123,
+    "uv_index": 12
+  },
+  "85812": {
+    "city": "Denver",
+    "temperature_F": 95,
+    "humidity_percent": 83,
+    "heat_index_F": 119,
+    "uv_index": 5
+  },
+  "85813": {
+    "city": "San Antonio",
+    "temperature_F": 98,
+    "humidity_percent": 19,
+    "heat_index_F": 103,
+    "uv_index": 9
+  },
+  "85814": {
+    "city": "Miami",
+    "temperature_F": 93,
+    "humidity_percent": 48,
+    "heat_index_F": 107,
+    "uv_index": 6
+  },
+  "85815": {
+    "city": "Cleveland",
+    "temperature_F": 87,
+    "humidity_percent": 37,
+    "heat_index_F": 98,
+    "uv_index": 6
+  },
+  "85816": {
+    "city": "New York",
+    "temperature_F": 90,
+    "humidity_percent": 90,
+    "heat_index_F": 117,
+    "uv_index": 9
+  },
+  "85817": {
+    "city": "Cleveland",
+    "temperature_F": 116,
+    "humidity_percent": 72,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85818": {
+    "city": "Dallas",
+    "temperature_F": 110,
+    "humidity_percent": 15,
+    "heat_index_F": 114,
+    "uv_index": 9
+  },
+  "85819": {
+    "city": "Seattle",
+    "temperature_F": 112,
+    "humidity_percent": 22,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85820": {
+    "city": "Detroit",
+    "temperature_F": 109,
+    "humidity_percent": 15,
+    "heat_index_F": 113,
+    "uv_index": 7
+  },
+  "85821": {
+    "city": "Orlando",
+    "temperature_F": 94,
+    "humidity_percent": 37,
+    "heat_index_F": 105,
+    "uv_index": 10
+  },
+  "85822": {
+    "city": "Los Angeles",
+    "temperature_F": 99,
+    "humidity_percent": 54,
+    "heat_index_F": 115,
+    "uv_index": 12
+  },
+  "85823": {
+    "city": "Phoenix",
+    "temperature_F": 88,
+    "humidity_percent": 50,
+    "heat_index_F": 103,
+    "uv_index": 11
+  },
+  "85824": {
+    "city": "Philadelphia",
+    "temperature_F": 95,
+    "humidity_percent": 61,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85825": {
+    "city": "Los Angeles",
+    "temperature_F": 113,
+    "humidity_percent": 53,
+    "heat_index_F": 128,
+    "uv_index": 10
+  },
+  "85826": {
+    "city": "Orlando",
+    "temperature_F": 108,
+    "humidity_percent": 51,
+    "heat_index_F": 123,
+    "uv_index": 9
+  },
+  "85827": {
+    "city": "Denver",
+    "temperature_F": 106,
+    "humidity_percent": 42,
+    "heat_index_F": 118,
+    "uv_index": 6
+  },
+  "85828": {
+    "city": "Phoenix",
+    "temperature_F": 102,
+    "humidity_percent": 46,
+    "heat_index_F": 115,
+    "uv_index": 6
+  },
+  "85829": {
+    "city": "Detroit",
+    "temperature_F": 90,
+    "humidity_percent": 35,
+    "heat_index_F": 100,
+    "uv_index": 11
+  },
+  "85830": {
+    "city": "Orlando",
+    "temperature_F": 94,
+    "humidity_percent": 47,
+    "heat_index_F": 108,
+    "uv_index": 8
+  },
+  "85831": {
+    "city": "Las Vegas",
+    "temperature_F": 104,
+    "humidity_percent": 77,
+    "heat_index_F": 127,
+    "uv_index": 6
+  },
+  "85832": {
+    "city": "Seattle",
+    "temperature_F": 86,
+    "humidity_percent": 60,
+    "heat_index_F": 104,
+    "uv_index": 11
+  },
+  "85833": {
+    "city": "Denver",
+    "temperature_F": 98,
+    "humidity_percent": 41,
+    "heat_index_F": 110,
+    "uv_index": 11
+  },
+  "85834": {
+    "city": "Minneapolis",
+    "temperature_F": 89,
+    "humidity_percent": 66,
+    "heat_index_F": 108,
+    "uv_index": 8
+  },
+  "85835": {
+    "city": "Cleveland",
+    "temperature_F": 96,
+    "humidity_percent": 14,
+    "heat_index_F": 100,
+    "uv_index": 6
+  },
+  "85836": {
+    "city": "Dallas",
+    "temperature_F": 89,
+    "humidity_percent": 49,
+    "heat_index_F": 103,
+    "uv_index": 12
+  },
+  "85837": {
+    "city": "Chicago",
+    "temperature_F": 109,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85838": {
+    "city": "Boston",
+    "temperature_F": 98,
+    "humidity_percent": 12,
+    "heat_index_F": 101,
+    "uv_index": 11
+  },
+  "85839": {
+    "city": "Chicago",
+    "temperature_F": 93,
+    "humidity_percent": 77,
+    "heat_index_F": 116,
+    "uv_index": 5
+  },
+  "85840": {
+    "city": "Philadelphia",
+    "temperature_F": 86,
+    "humidity_percent": 24,
+    "heat_index_F": 93,
+    "uv_index": 8
+  },
+  "85841": {
+    "city": "Houston",
+    "temperature_F": 94,
+    "humidity_percent": 21,
+    "heat_index_F": 100,
+    "uv_index": 11
+  },
+  "85842": {
+    "city": "Orlando",
+    "temperature_F": 111,
+    "humidity_percent": 77,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85843": {
+    "city": "New York",
+    "temperature_F": 111,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85844": {
+    "city": "Denver",
+    "temperature_F": 103,
+    "humidity_percent": 51,
+    "heat_index_F": 118,
+    "uv_index": 12
+  },
+  "85845": {
+    "city": "New York",
+    "temperature_F": 97,
+    "humidity_percent": 81,
+    "heat_index_F": 121,
+    "uv_index": 6
+  },
+  "85846": {
+    "city": "Las Vegas",
+    "temperature_F": 94,
+    "humidity_percent": 29,
+    "heat_index_F": 102,
+    "uv_index": 10
+  },
+  "85847": {
+    "city": "Los Angeles",
+    "temperature_F": 113,
+    "humidity_percent": 56,
+    "heat_index_F": 129,
+    "uv_index": 12
+  },
+  "85848": {
+    "city": "Orlando",
+    "temperature_F": 107,
+    "humidity_percent": 63,
+    "heat_index_F": 125,
+    "uv_index": 9
+  },
+  "85849": {
+    "city": "Denver",
+    "temperature_F": 93,
+    "humidity_percent": 85,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85850": {
+    "city": "Philadelphia",
+    "temperature_F": 90,
+    "humidity_percent": 84,
+    "heat_index_F": 115,
+    "uv_index": 5
+  },
+  "85851": {
+    "city": "Minneapolis",
+    "temperature_F": 89,
+    "humidity_percent": 20,
+    "heat_index_F": 95,
+    "uv_index": 7
+  },
+  "85852": {
+    "city": "Las Vegas",
+    "temperature_F": 120,
+    "humidity_percent": 56,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85853": {
+    "city": "Houston",
+    "temperature_F": 105,
+    "humidity_percent": 28,
+    "heat_index_F": 113,
+    "uv_index": 9
+  },
+  "85854": {
+    "city": "Minneapolis",
+    "temperature_F": 106,
+    "humidity_percent": 41,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85855": {
+    "city": "Dallas",
+    "temperature_F": 102,
+    "humidity_percent": 82,
+    "heat_index_F": 126,
+    "uv_index": 7
+  },
+  "85856": {
+    "city": "Boston",
+    "temperature_F": 106,
+    "humidity_percent": 66,
+    "heat_index_F": 125,
+    "uv_index": 11
+  },
+  "85857": {
+    "city": "Houston",
+    "temperature_F": 116,
+    "humidity_percent": 69,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85858": {
+    "city": "Las Vegas",
+    "temperature_F": 86,
+    "humidity_percent": 71,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85859": {
+    "city": "Miami",
+    "temperature_F": 105,
+    "humidity_percent": 66,
+    "heat_index_F": 124,
+    "uv_index": 12
+  },
+  "85860": {
+    "city": "New York",
+    "temperature_F": 93,
+    "humidity_percent": 59,
+    "heat_index_F": 110,
+    "uv_index": 6
+  },
+  "85861": {
+    "city": "Minneapolis",
+    "temperature_F": 105,
+    "humidity_percent": 21,
+    "heat_index_F": 111,
+    "uv_index": 9
+  },
+  "85862": {
+    "city": "Seattle",
+    "temperature_F": 98,
+    "humidity_percent": 32,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85863": {
+    "city": "San Antonio",
+    "temperature_F": 103,
+    "humidity_percent": 14,
+    "heat_index_F": 107,
+    "uv_index": 9
+  },
+  "85864": {
+    "city": "Dallas",
+    "temperature_F": 85,
+    "humidity_percent": 78,
+    "heat_index_F": 108,
+    "uv_index": 8
+  },
+  "85865": {
+    "city": "Houston",
+    "temperature_F": 87,
+    "humidity_percent": 35,
+    "heat_index_F": 97,
+    "uv_index": 9
+  },
+  "85866": {
+    "city": "Seattle",
+    "temperature_F": 119,
+    "humidity_percent": 61,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85867": {
+    "city": "Seattle",
+    "temperature_F": 114,
+    "humidity_percent": 48,
+    "heat_index_F": 128,
+    "uv_index": 9
+  },
+  "85868": {
+    "city": "Las Vegas",
+    "temperature_F": 95,
+    "humidity_percent": 48,
+    "heat_index_F": 109,
+    "uv_index": 8
+  },
+  "85869": {
+    "city": "Miami",
+    "temperature_F": 88,
+    "humidity_percent": 28,
+    "heat_index_F": 96,
+    "uv_index": 7
+  },
+  "85870": {
+    "city": "Philadelphia",
+    "temperature_F": 108,
+    "humidity_percent": 20,
+    "heat_index_F": 114,
+    "uv_index": 10
+  },
+  "85871": {
+    "city": "Boston",
+    "temperature_F": 94,
+    "humidity_percent": 41,
+    "heat_index_F": 106,
+    "uv_index": 9
+  },
+  "85872": {
+    "city": "Boston",
+    "temperature_F": 98,
+    "humidity_percent": 18,
+    "heat_index_F": 103,
+    "uv_index": 11
+  },
+  "85873": {
+    "city": "Miami",
+    "temperature_F": 105,
+    "humidity_percent": 83,
+    "heat_index_F": 129,
+    "uv_index": 10
+  },
+  "85874": {
+    "city": "Phoenix",
+    "temperature_F": 104,
+    "humidity_percent": 68,
+    "heat_index_F": 124,
+    "uv_index": 11
+  },
+  "85875": {
+    "city": "New York",
+    "temperature_F": 101,
+    "humidity_percent": 46,
+    "heat_index_F": 114,
+    "uv_index": 7
+  },
+  "85876": {
+    "city": "Boston",
+    "temperature_F": 118,
+    "humidity_percent": 52,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85877": {
+    "city": "Los Angeles",
+    "temperature_F": 88,
+    "humidity_percent": 88,
+    "heat_index_F": 114,
+    "uv_index": 6
+  },
+  "85878": {
+    "city": "Las Vegas",
+    "temperature_F": 104,
+    "humidity_percent": 63,
+    "heat_index_F": 122,
+    "uv_index": 8
+  },
+  "85879": {
+    "city": "New York",
+    "temperature_F": 85,
+    "humidity_percent": 41,
+    "heat_index_F": 97,
+    "uv_index": 8
+  },
+  "85880": {
+    "city": "New York",
+    "temperature_F": 114,
+    "humidity_percent": 39,
+    "heat_index_F": 125,
+    "uv_index": 11
+  },
+  "85881": {
+    "city": "Cleveland",
+    "temperature_F": 112,
+    "humidity_percent": 34,
+    "heat_index_F": 122,
+    "uv_index": 8
+  },
+  "85882": {
+    "city": "Dallas",
+    "temperature_F": 95,
+    "humidity_percent": 18,
+    "heat_index_F": 100,
+    "uv_index": 11
+  },
+  "85883": {
+    "city": "Las Vegas",
+    "temperature_F": 95,
+    "humidity_percent": 57,
+    "heat_index_F": 112,
+    "uv_index": 10
+  },
+  "85884": {
+    "city": "Miami",
+    "temperature_F": 85,
+    "humidity_percent": 55,
+    "heat_index_F": 101,
+    "uv_index": 8
+  },
+  "85885": {
+    "city": "Tampa",
+    "temperature_F": 117,
+    "humidity_percent": 37,
+    "heat_index_F": 128,
+    "uv_index": 8
+  },
+  "85886": {
+    "city": "Seattle",
+    "temperature_F": 91,
+    "humidity_percent": 16,
+    "heat_index_F": 95,
+    "uv_index": 8
+  },
+  "85887": {
+    "city": "Dallas",
+    "temperature_F": 91,
+    "humidity_percent": 13,
+    "heat_index_F": 94,
+    "uv_index": 9
+  },
+  "85888": {
+    "city": "Miami",
+    "temperature_F": 118,
+    "humidity_percent": 22,
+    "heat_index_F": 124,
+    "uv_index": 7
+  },
+  "85889": {
+    "city": "Denver",
+    "temperature_F": 106,
+    "humidity_percent": 59,
+    "heat_index_F": 123,
+    "uv_index": 9
+  },
+  "85890": {
+    "city": "Las Vegas",
+    "temperature_F": 94,
+    "humidity_percent": 27,
+    "heat_index_F": 102,
+    "uv_index": 11
+  },
+  "85891": {
+    "city": "Denver",
+    "temperature_F": 103,
+    "humidity_percent": 89,
+    "heat_index_F": 129,
+    "uv_index": 6
+  },
+  "85892": {
+    "city": "Los Angeles",
+    "temperature_F": 89,
+    "humidity_percent": 83,
+    "heat_index_F": 113,
+    "uv_index": 8
+  },
+  "85893": {
+    "city": "Dallas",
+    "temperature_F": 97,
+    "humidity_percent": 54,
+    "heat_index_F": 113,
+    "uv_index": 6
+  },
+  "85894": {
+    "city": "Dallas",
+    "temperature_F": 118,
+    "humidity_percent": 64,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85895": {
+    "city": "Tampa",
+    "temperature_F": 113,
+    "humidity_percent": 54,
+    "heat_index_F": 129,
+    "uv_index": 5
+  },
+  "85896": {
+    "city": "Dallas",
+    "temperature_F": 90,
+    "humidity_percent": 24,
+    "heat_index_F": 97,
+    "uv_index": 7
+  },
+  "85897": {
+    "city": "Chicago",
+    "temperature_F": 119,
+    "humidity_percent": 16,
+    "heat_index_F": 123,
+    "uv_index": 5
+  },
+  "85898": {
+    "city": "Phoenix",
+    "temperature_F": 91,
+    "humidity_percent": 12,
+    "heat_index_F": 94,
+    "uv_index": 11
+  },
+  "85899": {
+    "city": "Atlanta",
+    "temperature_F": 99,
+    "humidity_percent": 30,
+    "heat_index_F": 108,
+    "uv_index": 11
+  },
+  "85900": {
+    "city": "St. Louis",
+    "temperature_F": 100,
+    "humidity_percent": 56,
+    "heat_index_F": 116,
+    "uv_index": 10
+  },
+  "85901": {
+    "city": "Tampa",
+    "temperature_F": 88,
+    "humidity_percent": 48,
+    "heat_index_F": 102,
+    "uv_index": 11
+  },
+  "85902": {
+    "city": "Seattle",
+    "temperature_F": 101,
+    "humidity_percent": 52,
+    "heat_index_F": 116,
+    "uv_index": 12
+  },
+  "85903": {
+    "city": "Tampa",
+    "temperature_F": 102,
+    "humidity_percent": 76,
+    "heat_index_F": 124,
+    "uv_index": 8
+  },
+  "85904": {
+    "city": "Minneapolis",
+    "temperature_F": 116,
+    "humidity_percent": 62,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85905": {
+    "city": "Tampa",
+    "temperature_F": 120,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85906": {
+    "city": "San Antonio",
+    "temperature_F": 120,
+    "humidity_percent": 53,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85907": {
+    "city": "Houston",
+    "temperature_F": 106,
+    "humidity_percent": 68,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85908": {
+    "city": "Los Angeles",
+    "temperature_F": 96,
+    "humidity_percent": 17,
+    "heat_index_F": 101,
+    "uv_index": 6
+  },
+  "85909": {
+    "city": "Houston",
+    "temperature_F": 105,
+    "humidity_percent": 41,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85910": {
+    "city": "Philadelphia",
+    "temperature_F": 87,
+    "humidity_percent": 15,
+    "heat_index_F": 91,
+    "uv_index": 7
+  },
+  "85911": {
+    "city": "Orlando",
+    "temperature_F": 94,
+    "humidity_percent": 55,
+    "heat_index_F": 110,
+    "uv_index": 6
+  },
+  "85912": {
+    "city": "Boston",
+    "temperature_F": 109,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85913": {
+    "city": "Philadelphia",
+    "temperature_F": 113,
+    "humidity_percent": 64,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85914": {
+    "city": "Chicago",
+    "temperature_F": 107,
+    "humidity_percent": 61,
+    "heat_index_F": 125,
+    "uv_index": 9
+  },
+  "85915": {
+    "city": "Phoenix",
+    "temperature_F": 106,
+    "humidity_percent": 64,
+    "heat_index_F": 125,
+    "uv_index": 12
+  },
+  "85916": {
+    "city": "Houston",
+    "temperature_F": 86,
+    "humidity_percent": 54,
+    "heat_index_F": 102,
+    "uv_index": 10
+  },
+  "85917": {
+    "city": "Orlando",
+    "temperature_F": 112,
+    "humidity_percent": 53,
+    "heat_index_F": 127,
+    "uv_index": 11
+  },
+  "85918": {
+    "city": "Philadelphia",
+    "temperature_F": 100,
+    "humidity_percent": 25,
+    "heat_index_F": 107,
+    "uv_index": 5
+  },
+  "85919": {
+    "city": "Chicago",
+    "temperature_F": 85,
+    "humidity_percent": 70,
+    "heat_index_F": 106,
+    "uv_index": 5
+  },
+  "85920": {
+    "city": "Philadelphia",
+    "temperature_F": 112,
+    "humidity_percent": 88,
+    "heat_index_F": 130,
+    "uv_index": 7
+  },
+  "85921": {
+    "city": "Chicago",
+    "temperature_F": 90,
+    "humidity_percent": 55,
+    "heat_index_F": 106,
+    "uv_index": 8
+  },
+  "85922": {
+    "city": "Houston",
+    "temperature_F": 120,
+    "humidity_percent": 22,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85923": {
+    "city": "Denver",
+    "temperature_F": 86,
+    "humidity_percent": 26,
+    "heat_index_F": 93,
+    "uv_index": 7
+  },
+  "85924": {
+    "city": "Phoenix",
+    "temperature_F": 98,
+    "humidity_percent": 15,
+    "heat_index_F": 102,
+    "uv_index": 11
+  },
+  "85925": {
+    "city": "Seattle",
+    "temperature_F": 115,
+    "humidity_percent": 10,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85926": {
+    "city": "New York",
+    "temperature_F": 102,
+    "humidity_percent": 15,
+    "heat_index_F": 106,
+    "uv_index": 7
+  },
+  "85927": {
+    "city": "Los Angeles",
+    "temperature_F": 110,
+    "humidity_percent": 41,
+    "heat_index_F": 122,
+    "uv_index": 8
+  },
+  "85928": {
+    "city": "Phoenix",
+    "temperature_F": 110,
+    "humidity_percent": 29,
+    "heat_index_F": 118,
+    "uv_index": 10
+  },
+  "85929": {
+    "city": "New York",
+    "temperature_F": 100,
+    "humidity_percent": 70,
+    "heat_index_F": 121,
+    "uv_index": 9
+  },
+  "85930": {
+    "city": "Seattle",
+    "temperature_F": 87,
+    "humidity_percent": 67,
+    "heat_index_F": 107,
+    "uv_index": 11
+  },
+  "85931": {
+    "city": "San Antonio",
+    "temperature_F": 105,
+    "humidity_percent": 33,
+    "heat_index_F": 114,
+    "uv_index": 6
+  },
+  "85932": {
+    "city": "Minneapolis",
+    "temperature_F": 86,
+    "humidity_percent": 48,
+    "heat_index_F": 100,
+    "uv_index": 10
+  },
+  "85933": {
+    "city": "Chicago",
+    "temperature_F": 116,
+    "humidity_percent": 59,
+    "heat_index_F": 130,
+    "uv_index": 11
+  },
+  "85934": {
+    "city": "Cleveland",
+    "temperature_F": 110,
+    "humidity_percent": 17,
+    "heat_index_F": 115,
+    "uv_index": 12
+  },
+  "85935": {
+    "city": "Boston",
+    "temperature_F": 99,
+    "humidity_percent": 87,
+    "heat_index_F": 125,
+    "uv_index": 10
+  },
+  "85936": {
+    "city": "Philadelphia",
+    "temperature_F": 100,
+    "humidity_percent": 17,
+    "heat_index_F": 105,
+    "uv_index": 11
+  },
+  "85937": {
+    "city": "Philadelphia",
+    "temperature_F": 114,
+    "humidity_percent": 26,
+    "heat_index_F": 121,
+    "uv_index": 9
+  },
+  "85938": {
+    "city": "Detroit",
+    "temperature_F": 107,
+    "humidity_percent": 78,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85939": {
+    "city": "New York",
+    "temperature_F": 100,
+    "humidity_percent": 60,
+    "heat_index_F": 118,
+    "uv_index": 10
+  },
+  "85940": {
+    "city": "Minneapolis",
+    "temperature_F": 107,
+    "humidity_percent": 17,
+    "heat_index_F": 112,
+    "uv_index": 12
+  },
+  "85941": {
+    "city": "Phoenix",
+    "temperature_F": 116,
+    "humidity_percent": 74,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85942": {
+    "city": "Chicago",
+    "temperature_F": 118,
+    "humidity_percent": 63,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85943": {
+    "city": "San Antonio",
+    "temperature_F": 106,
+    "humidity_percent": 68,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85944": {
+    "city": "Houston",
+    "temperature_F": 111,
+    "humidity_percent": 30,
+    "heat_index_F": 120,
+    "uv_index": 6
+  },
+  "85945": {
+    "city": "Denver",
+    "temperature_F": 117,
+    "humidity_percent": 15,
+    "heat_index_F": 121,
+    "uv_index": 10
+  },
+  "85946": {
+    "city": "Los Angeles",
+    "temperature_F": 105,
+    "humidity_percent": 69,
+    "heat_index_F": 125,
+    "uv_index": 6
+  },
+  "85947": {
+    "city": "Miami",
+    "temperature_F": 94,
+    "humidity_percent": 59,
+    "heat_index_F": 111,
+    "uv_index": 8
+  },
+  "85948": {
+    "city": "Phoenix",
+    "temperature_F": 94,
+    "humidity_percent": 36,
+    "heat_index_F": 104,
+    "uv_index": 10
+  },
+  "85949": {
+    "city": "Dallas",
+    "temperature_F": 94,
+    "humidity_percent": 35,
+    "heat_index_F": 104,
+    "uv_index": 5
+  },
+  "85950": {
+    "city": "Houston",
+    "temperature_F": 116,
+    "humidity_percent": 36,
+    "heat_index_F": 126,
+    "uv_index": 5
+  },
+  "85951": {
+    "city": "Las Vegas",
+    "temperature_F": 100,
+    "humidity_percent": 18,
+    "heat_index_F": 105,
+    "uv_index": 12
+  },
+  "85952": {
+    "city": "Minneapolis",
+    "temperature_F": 110,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 10
+  },
+  "85953": {
+    "city": "Cleveland",
+    "temperature_F": 100,
+    "humidity_percent": 60,
+    "heat_index_F": 118,
+    "uv_index": 9
+  },
+  "85954": {
+    "city": "Denver",
+    "temperature_F": 110,
+    "humidity_percent": 30,
+    "heat_index_F": 119,
+    "uv_index": 10
+  },
+  "85955": {
+    "city": "Detroit",
+    "temperature_F": 112,
+    "humidity_percent": 79,
+    "heat_index_F": 130,
+    "uv_index": 5
+  },
+  "85956": {
+    "city": "Chicago",
+    "temperature_F": 117,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85957": {
+    "city": "Atlanta",
+    "temperature_F": 115,
+    "humidity_percent": 70,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85958": {
+    "city": "Tampa",
+    "temperature_F": 114,
+    "humidity_percent": 75,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85959": {
+    "city": "Houston",
+    "temperature_F": 94,
+    "humidity_percent": 16,
+    "heat_index_F": 98,
+    "uv_index": 8
+  },
+  "85960": {
+    "city": "Minneapolis",
+    "temperature_F": 120,
+    "humidity_percent": 67,
+    "heat_index_F": 130,
+    "uv_index": 6
+  },
+  "85961": {
+    "city": "Seattle",
+    "temperature_F": 103,
+    "humidity_percent": 67,
+    "heat_index_F": 123,
+    "uv_index": 11
+  },
+  "85962": {
+    "city": "Minneapolis",
+    "temperature_F": 102,
+    "humidity_percent": 11,
+    "heat_index_F": 105,
+    "uv_index": 7
+  },
+  "85963": {
+    "city": "Philadelphia",
+    "temperature_F": 98,
+    "humidity_percent": 67,
+    "heat_index_F": 118,
+    "uv_index": 5
+  },
+  "85964": {
+    "city": "Boston",
+    "temperature_F": 107,
+    "humidity_percent": 11,
+    "heat_index_F": 110,
+    "uv_index": 5
+  },
+  "85965": {
+    "city": "Tampa",
+    "temperature_F": 115,
+    "humidity_percent": 44,
+    "heat_index_F": 128,
+    "uv_index": 11
+  },
+  "85966": {
+    "city": "Houston",
+    "temperature_F": 95,
+    "humidity_percent": 27,
+    "heat_index_F": 103,
+    "uv_index": 7
+  },
+  "85967": {
+    "city": "Los Angeles",
+    "temperature_F": 95,
+    "humidity_percent": 43,
+    "heat_index_F": 107,
+    "uv_index": 12
+  },
+  "85968": {
+    "city": "Minneapolis",
+    "temperature_F": 91,
+    "humidity_percent": 39,
+    "heat_index_F": 102,
+    "uv_index": 8
+  },
+  "85969": {
+    "city": "Denver",
+    "temperature_F": 86,
+    "humidity_percent": 15,
+    "heat_index_F": 90,
+    "uv_index": 9
+  },
+  "85970": {
+    "city": "Chicago",
+    "temperature_F": 97,
+    "humidity_percent": 78,
+    "heat_index_F": 120,
+    "uv_index": 7
+  },
+  "85971": {
+    "city": "New York",
+    "temperature_F": 92,
+    "humidity_percent": 18,
+    "heat_index_F": 97,
+    "uv_index": 10
+  },
+  "85972": {
+    "city": "Las Vegas",
+    "temperature_F": 111,
+    "humidity_percent": 74,
+    "heat_index_F": 130,
+    "uv_index": 8
+  },
+  "85973": {
+    "city": "Orlando",
+    "temperature_F": 118,
+    "humidity_percent": 65,
+    "heat_index_F": 130,
+    "uv_index": 9
+  },
+  "85974": {
+    "city": "Detroit",
+    "temperature_F": 100,
+    "humidity_percent": 89,
+    "heat_index_F": 126,
+    "uv_index": 8
+  },
+  "85975": {
+    "city": "Detroit",
+    "temperature_F": 108,
+    "humidity_percent": 68,
+    "heat_index_F": 128,
+    "uv_index": 6
+  },
+  "85976": {
+    "city": "Seattle",
+    "temperature_F": 109,
+    "humidity_percent": 51,
+    "heat_index_F": 124,
+    "uv_index": 12
+  },
+  "85977": {
+    "city": "Philadelphia",
+    "temperature_F": 115,
+    "humidity_percent": 16,
+    "heat_index_F": 119,
+    "uv_index": 6
+  },
+  "85978": {
+    "city": "St. Louis",
+    "temperature_F": 86,
+    "humidity_percent": 54,
+    "heat_index_F": 102,
+    "uv_index": 7
+  },
+  "85979": {
+    "city": "Denver",
+    "temperature_F": 118,
+    "humidity_percent": 19,
+    "heat_index_F": 123,
+    "uv_index": 5
+  },
+  "85980": {
+    "city": "Chicago",
+    "temperature_F": 101,
+    "humidity_percent": 50,
+    "heat_index_F": 116,
+    "uv_index": 11
+  },
+  "85981": {
+    "city": "Tampa",
+    "temperature_F": 113,
+    "humidity_percent": 14,
+    "heat_index_F": 117,
+    "uv_index": 10
+  },
+  "85982": {
+    "city": "St. Louis",
+    "temperature_F": 104,
+    "humidity_percent": 25,
+    "heat_index_F": 111,
+    "uv_index": 10
+  },
+  "85983": {
+    "city": "Denver",
+    "temperature_F": 92,
+    "humidity_percent": 10,
+    "heat_index_F": 95,
+    "uv_index": 6
+  },
+  "85984": {
+    "city": "Chicago",
+    "temperature_F": 108,
+    "humidity_percent": 32,
+    "heat_index_F": 117,
+    "uv_index": 6
+  },
+  "85985": {
+    "city": "St. Louis",
+    "temperature_F": 92,
+    "humidity_percent": 75,
+    "heat_index_F": 114,
+    "uv_index": 8
+  },
+  "85986": {
+    "city": "St. Louis",
+    "temperature_F": 94,
+    "humidity_percent": 62,
+    "heat_index_F": 112,
+    "uv_index": 5
+  },
+  "85987": {
+    "city": "Miami",
+    "temperature_F": 95,
+    "humidity_percent": 61,
+    "heat_index_F": 113,
+    "uv_index": 6
+  },
+  "85988": {
+    "city": "Orlando",
+    "temperature_F": 85,
+    "humidity_percent": 37,
+    "heat_index_F": 96,
+    "uv_index": 5
+  },
+  "85989": {
+    "city": "Phoenix",
+    "temperature_F": 99,
+    "humidity_percent": 51,
+    "heat_index_F": 114,
+    "uv_index": 9
+  },
+  "85990": {
+    "city": "Cleveland",
+    "temperature_F": 86,
+    "humidity_percent": 65,
+    "heat_index_F": 105,
+    "uv_index": 6
+  },
+  "85991": {
+    "city": "New York",
+    "temperature_F": 112,
+    "humidity_percent": 80,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85992": {
+    "city": "Dallas",
+    "temperature_F": 86,
+    "humidity_percent": 38,
+    "heat_index_F": 97,
+    "uv_index": 8
+  },
+  "85993": {
+    "city": "Las Vegas",
+    "temperature_F": 102,
+    "humidity_percent": 74,
+    "heat_index_F": 124,
+    "uv_index": 6
+  },
+  "85994": {
+    "city": "Philadelphia",
+    "temperature_F": 89,
+    "humidity_percent": 16,
+    "heat_index_F": 93,
+    "uv_index": 12
+  },
+  "85995": {
+    "city": "Seattle",
+    "temperature_F": 117,
+    "humidity_percent": 60,
+    "heat_index_F": 130,
+    "uv_index": 12
+  },
+  "85996": {
+    "city": "Miami",
+    "temperature_F": 87,
+    "humidity_percent": 84,
+    "heat_index_F": 112,
+    "uv_index": 8
+  },
+  "85997": {
+    "city": "Orlando",
+    "temperature_F": 96,
+    "humidity_percent": 57,
+    "heat_index_F": 113,
+    "uv_index": 6
+  },
+  "85998": {
+    "city": "Orlando",
+    "temperature_F": 93,
+    "humidity_percent": 36,
+    "heat_index_F": 103,
+    "uv_index": 12
+  },
+  "85999": {
+    "city": "Dallas",
+    "temperature_F": 94,
+    "humidity_percent": 50,
+    "heat_index_F": 109,
+    "uv_index": 10
+  }
+}

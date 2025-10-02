@@ -1,0 +1,6002 @@
+{
+  "85000": {
+    "population": 17929,
+    "elderly_count": 3360,
+    "homeless_count": 794,
+    "low_income_households": 5462
+  },
+  "85001": {
+    "population": 11532,
+    "elderly_count": 2016,
+    "homeless_count": 418,
+    "low_income_households": 4204
+  },
+  "85002": {
+    "population": 17252,
+    "elderly_count": 2678,
+    "homeless_count": 549,
+    "low_income_households": 3510
+  },
+  "85003": {
+    "population": 18755,
+    "elderly_count": 2101,
+    "homeless_count": 370,
+    "low_income_households": 5627
+  },
+  "85004": {
+    "population": 40770,
+    "elderly_count": 9733,
+    "homeless_count": 554,
+    "low_income_households": 10152
+  },
+  "85005": {
+    "population": 23544,
+    "elderly_count": 3592,
+    "homeless_count": 285,
+    "low_income_households": 7078
+  },
+  "85006": {
+    "population": 46360,
+    "elderly_count": 9904,
+    "homeless_count": 2033,
+    "low_income_households": 9858
+  },
+  "85007": {
+    "population": 18500,
+    "elderly_count": 1939,
+    "homeless_count": 541,
+    "low_income_households": 5217
+  },
+  "85008": {
+    "population": 29184,
+    "elderly_count": 6131,
+    "homeless_count": 463,
+    "low_income_households": 6860
+  },
+  "85009": {
+    "population": 21063,
+    "elderly_count": 2921,
+    "homeless_count": 993,
+    "low_income_households": 7554
+  },
+  "85010": {
+    "population": 23882,
+    "elderly_count": 3921,
+    "homeless_count": 551,
+    "low_income_households": 8657
+  },
+  "85011": {
+    "population": 19136,
+    "elderly_count": 2857,
+    "homeless_count": 941,
+    "low_income_households": 5772
+  },
+  "85012": {
+    "population": 34417,
+    "elderly_count": 8154,
+    "homeless_count": 491,
+    "low_income_households": 13746
+  },
+  "85013": {
+    "population": 13245,
+    "elderly_count": 3237,
+    "homeless_count": 337,
+    "low_income_households": 4939
+  },
+  "85014": {
+    "population": 27561,
+    "elderly_count": 5935,
+    "homeless_count": 383,
+    "low_income_households": 9245
+  },
+  "85015": {
+    "population": 42621,
+    "elderly_count": 7831,
+    "homeless_count": 2126,
+    "low_income_households": 9947
+  },
+  "85016": {
+    "population": 29135,
+    "elderly_count": 3989,
+    "homeless_count": 1317,
+    "low_income_households": 8018
+  },
+  "85017": {
+    "population": 28464,
+    "elderly_count": 5024,
+    "homeless_count": 1240,
+    "low_income_households": 8871
+  },
+  "85018": {
+    "population": 48468,
+    "elderly_count": 7906,
+    "homeless_count": 931,
+    "low_income_households": 13404
+  },
+  "85019": {
+    "population": 30197,
+    "elderly_count": 6131,
+    "homeless_count": 1258,
+    "low_income_households": 6264
+  },
+  "85020": {
+    "population": 12620,
+    "elderly_count": 2463,
+    "homeless_count": 458,
+    "low_income_households": 3737
+  },
+  "85021": {
+    "population": 31753,
+    "elderly_count": 3608,
+    "homeless_count": 342,
+    "low_income_households": 12639
+  },
+  "85022": {
+    "population": 44713,
+    "elderly_count": 8933,
+    "homeless_count": 1195,
+    "low_income_households": 10678
+  },
+  "85023": {
+    "population": 26623,
+    "elderly_count": 6071,
+    "homeless_count": 535,
+    "low_income_households": 7923
+  },
+  "85024": {
+    "population": 21495,
+    "elderly_count": 5217,
+    "homeless_count": 971,
+    "low_income_households": 5055
+  },
+  "85025": {
+    "population": 44154,
+    "elderly_count": 10200,
+    "homeless_count": 962,
+    "low_income_households": 17490
+  },
+  "85026": {
+    "population": 28742,
+    "elderly_count": 2917,
+    "homeless_count": 409,
+    "low_income_households": 10978
+  },
+  "85027": {
+    "population": 9315,
+    "elderly_count": 2268,
+    "homeless_count": 249,
+    "low_income_households": 2422
+  },
+  "85028": {
+    "population": 44750,
+    "elderly_count": 8252,
+    "homeless_count": 2086,
+    "low_income_households": 10160
+  },
+  "85029": {
+    "population": 20766,
+    "elderly_count": 2914,
+    "homeless_count": 776,
+    "low_income_households": 7295
+  },
+  "85030": {
+    "population": 19827,
+    "elderly_count": 4135,
+    "homeless_count": 977,
+    "low_income_households": 5967
+  },
+  "85031": {
+    "population": 8269,
+    "elderly_count": 1012,
+    "homeless_count": 189,
+    "low_income_households": 2540
+  },
+  "85032": {
+    "population": 20190,
+    "elderly_count": 3999,
+    "homeless_count": 247,
+    "low_income_households": 6887
+  },
+  "85033": {
+    "population": 15216,
+    "elderly_count": 3471,
+    "homeless_count": 223,
+    "low_income_households": 4159
+  },
+  "85034": {
+    "population": 13247,
+    "elderly_count": 1459,
+    "homeless_count": 282,
+    "low_income_households": 4751
+  },
+  "85035": {
+    "population": 36271,
+    "elderly_count": 8158,
+    "homeless_count": 1804,
+    "low_income_households": 13792
+  },
+  "85036": {
+    "population": 14771,
+    "elderly_count": 2282,
+    "homeless_count": 516,
+    "low_income_households": 5614
+  },
+  "85037": {
+    "population": 13703,
+    "elderly_count": 3423,
+    "homeless_count": 491,
+    "low_income_households": 5378
+  },
+  "85038": {
+    "population": 28891,
+    "elderly_count": 5751,
+    "homeless_count": 473,
+    "low_income_households": 8756
+  },
+  "85039": {
+    "population": 23668,
+    "elderly_count": 5445,
+    "homeless_count": 556,
+    "low_income_households": 6406
+  },
+  "85040": {
+    "population": 38910,
+    "elderly_count": 6487,
+    "homeless_count": 441,
+    "low_income_households": 13052
+  },
+  "85041": {
+    "population": 28239,
+    "elderly_count": 4249,
+    "homeless_count": 909,
+    "low_income_households": 8445
+  },
+  "85042": {
+    "population": 34562,
+    "elderly_count": 6434,
+    "homeless_count": 459,
+    "low_income_households": 13697
+  },
+  "85043": {
+    "population": 30394,
+    "elderly_count": 4732,
+    "homeless_count": 1180,
+    "low_income_households": 10557
+  },
+  "85044": {
+    "population": 45689,
+    "elderly_count": 6347,
+    "homeless_count": 977,
+    "low_income_households": 14155
+  },
+  "85045": {
+    "population": 12768,
+    "elderly_count": 2960,
+    "homeless_count": 133,
+    "low_income_households": 3203
+  },
+  "85046": {
+    "population": 14750,
+    "elderly_count": 2407,
+    "homeless_count": 594,
+    "low_income_households": 4360
+  },
+  "85047": {
+    "population": 37449,
+    "elderly_count": 5585,
+    "homeless_count": 1852,
+    "low_income_households": 14880
+  },
+  "85048": {
+    "population": 13019,
+    "elderly_count": 1971,
+    "homeless_count": 195,
+    "low_income_households": 4150
+  },
+  "85049": {
+    "population": 41108,
+    "elderly_count": 8442,
+    "homeless_count": 1552,
+    "low_income_households": 10652
+  },
+  "85050": {
+    "population": 29189,
+    "elderly_count": 3695,
+    "homeless_count": 1268,
+    "low_income_households": 8932
+  },
+  "85051": {
+    "population": 9503,
+    "elderly_count": 1805,
+    "homeless_count": 292,
+    "low_income_households": 2164
+  },
+  "85052": {
+    "population": 24329,
+    "elderly_count": 3875,
+    "homeless_count": 1045,
+    "low_income_households": 8881
+  },
+  "85053": {
+    "population": 19841,
+    "elderly_count": 2218,
+    "homeless_count": 385,
+    "low_income_households": 6799
+  },
+  "85054": {
+    "population": 16884,
+    "elderly_count": 1704,
+    "homeless_count": 176,
+    "low_income_households": 3819
+  },
+  "85055": {
+    "population": 43273,
+    "elderly_count": 7649,
+    "homeless_count": 802,
+    "low_income_households": 12482
+  },
+  "85056": {
+    "population": 27149,
+    "elderly_count": 6447,
+    "homeless_count": 360,
+    "low_income_households": 7841
+  },
+  "85057": {
+    "population": 18239,
+    "elderly_count": 3179,
+    "homeless_count": 741,
+    "low_income_households": 5031
+  },
+  "85058": {
+    "population": 11981,
+    "elderly_count": 1763,
+    "homeless_count": 447,
+    "low_income_households": 2683
+  },
+  "85059": {
+    "population": 46953,
+    "elderly_count": 10851,
+    "homeless_count": 670,
+    "low_income_households": 16006
+  },
+  "85060": {
+    "population": 13585,
+    "elderly_count": 3179,
+    "homeless_count": 573,
+    "low_income_households": 2862
+  },
+  "85061": {
+    "population": 9406,
+    "elderly_count": 1477,
+    "homeless_count": 314,
+    "low_income_households": 3569
+  },
+  "85062": {
+    "population": 48168,
+    "elderly_count": 9597,
+    "homeless_count": 2291,
+    "low_income_households": 13202
+  },
+  "85063": {
+    "population": 15083,
+    "elderly_count": 2849,
+    "homeless_count": 195,
+    "low_income_households": 4218
+  },
+  "85064": {
+    "population": 25220,
+    "elderly_count": 5482,
+    "homeless_count": 869,
+    "low_income_households": 9059
+  },
+  "85065": {
+    "population": 17998,
+    "elderly_count": 2407,
+    "homeless_count": 686,
+    "low_income_households": 6074
+  },
+  "85066": {
+    "population": 25033,
+    "elderly_count": 4515,
+    "homeless_count": 873,
+    "low_income_households": 6411
+  },
+  "85067": {
+    "population": 37843,
+    "elderly_count": 4386,
+    "homeless_count": 1410,
+    "low_income_households": 8326
+  },
+  "85068": {
+    "population": 10344,
+    "elderly_count": 1729,
+    "homeless_count": 264,
+    "low_income_households": 2229
+  },
+  "85069": {
+    "population": 17749,
+    "elderly_count": 4019,
+    "homeless_count": 398,
+    "low_income_households": 3628
+  },
+  "85070": {
+    "population": 39176,
+    "elderly_count": 5995,
+    "homeless_count": 682,
+    "low_income_households": 14521
+  },
+  "85071": {
+    "population": 43883,
+    "elderly_count": 9430,
+    "homeless_count": 1966,
+    "low_income_households": 16084
+  },
+  "85072": {
+    "population": 24896,
+    "elderly_count": 3622,
+    "homeless_count": 419,
+    "low_income_households": 9388
+  },
+  "85073": {
+    "population": 34050,
+    "elderly_count": 4494,
+    "homeless_count": 511,
+    "low_income_households": 8161
+  },
+  "85074": {
+    "population": 26592,
+    "elderly_count": 4719,
+    "homeless_count": 949,
+    "low_income_households": 9007
+  },
+  "85075": {
+    "population": 27331,
+    "elderly_count": 4165,
+    "homeless_count": 1168,
+    "low_income_households": 7980
+  },
+  "85076": {
+    "population": 41701,
+    "elderly_count": 6008,
+    "homeless_count": 854,
+    "low_income_households": 13520
+  },
+  "85077": {
+    "population": 48404,
+    "elderly_count": 5897,
+    "homeless_count": 1237,
+    "low_income_households": 11957
+  },
+  "85078": {
+    "population": 46760,
+    "elderly_count": 5068,
+    "homeless_count": 1714,
+    "low_income_households": 17651
+  },
+  "85079": {
+    "population": 10396,
+    "elderly_count": 2265,
+    "homeless_count": 226,
+    "low_income_households": 3720
+  },
+  "85080": {
+    "population": 19030,
+    "elderly_count": 3347,
+    "homeless_count": 410,
+    "low_income_households": 7219
+  },
+  "85081": {
+    "population": 41449,
+    "elderly_count": 4895,
+    "homeless_count": 679,
+    "low_income_households": 11036
+  },
+  "85082": {
+    "population": 22274,
+    "elderly_count": 4996,
+    "homeless_count": 1029,
+    "low_income_households": 8772
+  },
+  "85083": {
+    "population": 10343,
+    "elderly_count": 2422,
+    "homeless_count": 263,
+    "low_income_households": 3549
+  },
+  "85084": {
+    "population": 26938,
+    "elderly_count": 6143,
+    "homeless_count": 971,
+    "low_income_households": 8166
+  },
+  "85085": {
+    "population": 36913,
+    "elderly_count": 8091,
+    "homeless_count": 673,
+    "low_income_households": 12725
+  },
+  "85086": {
+    "population": 21471,
+    "elderly_count": 4933,
+    "homeless_count": 461,
+    "low_income_households": 7810
+  },
+  "85087": {
+    "population": 21034,
+    "elderly_count": 2307,
+    "homeless_count": 684,
+    "low_income_households": 8319
+  },
+  "85088": {
+    "population": 37789,
+    "elderly_count": 4081,
+    "homeless_count": 866,
+    "low_income_households": 8257
+  },
+  "85089": {
+    "population": 19815,
+    "elderly_count": 4886,
+    "homeless_count": 394,
+    "low_income_households": 5257
+  },
+  "85090": {
+    "population": 16553,
+    "elderly_count": 2335,
+    "homeless_count": 810,
+    "low_income_households": 5905
+  },
+  "85091": {
+    "population": 36287,
+    "elderly_count": 5200,
+    "homeless_count": 828,
+    "low_income_households": 12295
+  },
+  "85092": {
+    "population": 35502,
+    "elderly_count": 3750,
+    "homeless_count": 850,
+    "low_income_households": 10738
+  },
+  "85093": {
+    "population": 17872,
+    "elderly_count": 3685,
+    "homeless_count": 796,
+    "low_income_households": 4140
+  },
+  "85094": {
+    "population": 32648,
+    "elderly_count": 6523,
+    "homeless_count": 1013,
+    "low_income_households": 9418
+  },
+  "85095": {
+    "population": 10362,
+    "elderly_count": 1298,
+    "homeless_count": 286,
+    "low_income_households": 3140
+  },
+  "85096": {
+    "population": 11594,
+    "elderly_count": 1540,
+    "homeless_count": 181,
+    "low_income_households": 4231
+  },
+  "85097": {
+    "population": 44689,
+    "elderly_count": 7950,
+    "homeless_count": 1654,
+    "low_income_households": 9226
+  },
+  "85098": {
+    "population": 14493,
+    "elderly_count": 3030,
+    "homeless_count": 283,
+    "low_income_households": 2982
+  },
+  "85099": {
+    "population": 42453,
+    "elderly_count": 6184,
+    "homeless_count": 1310,
+    "low_income_households": 13026
+  },
+  "85100": {
+    "population": 14913,
+    "elderly_count": 2933,
+    "homeless_count": 436,
+    "low_income_households": 3878
+  },
+  "85101": {
+    "population": 17918,
+    "elderly_count": 2248,
+    "homeless_count": 615,
+    "low_income_households": 3986
+  },
+  "85102": {
+    "population": 25156,
+    "elderly_count": 4110,
+    "homeless_count": 404,
+    "low_income_households": 7807
+  },
+  "85103": {
+    "population": 11832,
+    "elderly_count": 2639,
+    "homeless_count": 425,
+    "low_income_households": 3739
+  },
+  "85104": {
+    "population": 18332,
+    "elderly_count": 3521,
+    "homeless_count": 323,
+    "low_income_households": 6255
+  },
+  "85105": {
+    "population": 37493,
+    "elderly_count": 8792,
+    "homeless_count": 1646,
+    "low_income_households": 14488
+  },
+  "85106": {
+    "population": 28559,
+    "elderly_count": 6113,
+    "homeless_count": 708,
+    "low_income_households": 9913
+  },
+  "85107": {
+    "population": 49169,
+    "elderly_count": 11795,
+    "homeless_count": 1088,
+    "low_income_households": 14818
+  },
+  "85108": {
+    "population": 13509,
+    "elderly_count": 2184,
+    "homeless_count": 326,
+    "low_income_households": 3046
+  },
+  "85109": {
+    "population": 26115,
+    "elderly_count": 6346,
+    "homeless_count": 1115,
+    "low_income_households": 10061
+  },
+  "85110": {
+    "population": 48932,
+    "elderly_count": 7188,
+    "homeless_count": 1353,
+    "low_income_households": 14543
+  },
+  "85111": {
+    "population": 49927,
+    "elderly_count": 7112,
+    "homeless_count": 988,
+    "low_income_households": 12856
+  },
+  "85112": {
+    "population": 15011,
+    "elderly_count": 2135,
+    "homeless_count": 419,
+    "low_income_households": 4383
+  },
+  "85113": {
+    "population": 44696,
+    "elderly_count": 6638,
+    "homeless_count": 1174,
+    "low_income_households": 12560
+  },
+  "85114": {
+    "population": 44478,
+    "elderly_count": 4799,
+    "homeless_count": 2143,
+    "low_income_households": 12927
+  },
+  "85115": {
+    "population": 11475,
+    "elderly_count": 2183,
+    "homeless_count": 121,
+    "low_income_households": 3535
+  },
+  "85116": {
+    "population": 25990,
+    "elderly_count": 5435,
+    "homeless_count": 572,
+    "low_income_households": 9798
+  },
+  "85117": {
+    "population": 42355,
+    "elderly_count": 5845,
+    "homeless_count": 1927,
+    "low_income_households": 12286
+  },
+  "85118": {
+    "population": 14394,
+    "elderly_count": 1842,
+    "homeless_count": 291,
+    "low_income_households": 5539
+  },
+  "85119": {
+    "population": 41932,
+    "elderly_count": 5064,
+    "homeless_count": 1137,
+    "low_income_households": 12187
+  },
+  "85120": {
+    "population": 37396,
+    "elderly_count": 8759,
+    "homeless_count": 1570,
+    "low_income_households": 12816
+  },
+  "85121": {
+    "population": 42165,
+    "elderly_count": 5997,
+    "homeless_count": 581,
+    "low_income_households": 10534
+  },
+  "85122": {
+    "population": 27939,
+    "elderly_count": 2971,
+    "homeless_count": 792,
+    "low_income_households": 6164
+  },
+  "85123": {
+    "population": 30463,
+    "elderly_count": 4504,
+    "homeless_count": 870,
+    "low_income_households": 8517
+  },
+  "85124": {
+    "population": 38399,
+    "elderly_count": 5992,
+    "homeless_count": 408,
+    "low_income_households": 8882
+  },
+  "85125": {
+    "population": 38914,
+    "elderly_count": 7961,
+    "homeless_count": 1840,
+    "low_income_households": 10443
+  },
+  "85126": {
+    "population": 17073,
+    "elderly_count": 4059,
+    "homeless_count": 197,
+    "low_income_households": 4276
+  },
+  "85127": {
+    "population": 21996,
+    "elderly_count": 4603,
+    "homeless_count": 881,
+    "low_income_households": 6404
+  },
+  "85128": {
+    "population": 11779,
+    "elderly_count": 1653,
+    "homeless_count": 265,
+    "low_income_households": 3603
+  },
+  "85129": {
+    "population": 12632,
+    "elderly_count": 1305,
+    "homeless_count": 435,
+    "low_income_households": 3839
+  },
+  "85130": {
+    "population": 34014,
+    "elderly_count": 4310,
+    "homeless_count": 1417,
+    "low_income_households": 10536
+  },
+  "85131": {
+    "population": 15532,
+    "elderly_count": 3588,
+    "homeless_count": 509,
+    "low_income_households": 3634
+  },
+  "85132": {
+    "population": 44939,
+    "elderly_count": 6505,
+    "homeless_count": 1201,
+    "low_income_households": 10705
+  },
+  "85133": {
+    "population": 31593,
+    "elderly_count": 4987,
+    "homeless_count": 1154,
+    "low_income_households": 8580
+  },
+  "85134": {
+    "population": 9534,
+    "elderly_count": 1291,
+    "homeless_count": 254,
+    "low_income_households": 3332
+  },
+  "85135": {
+    "population": 25562,
+    "elderly_count": 3970,
+    "homeless_count": 366,
+    "low_income_households": 6228
+  },
+  "85136": {
+    "population": 42563,
+    "elderly_count": 7427,
+    "homeless_count": 1790,
+    "low_income_households": 15482
+  },
+  "85137": {
+    "population": 47998,
+    "elderly_count": 4934,
+    "homeless_count": 1455,
+    "low_income_households": 14159
+  },
+  "85138": {
+    "population": 36988,
+    "elderly_count": 5962,
+    "homeless_count": 1485,
+    "low_income_households": 8492
+  },
+  "85139": {
+    "population": 27288,
+    "elderly_count": 6185,
+    "homeless_count": 292,
+    "low_income_households": 6711
+  },
+  "85140": {
+    "population": 11291,
+    "elderly_count": 2753,
+    "homeless_count": 546,
+    "low_income_households": 3763
+  },
+  "85141": {
+    "population": 20861,
+    "elderly_count": 3538,
+    "homeless_count": 398,
+    "low_income_households": 6825
+  },
+  "85142": {
+    "population": 11109,
+    "elderly_count": 2438,
+    "homeless_count": 138,
+    "low_income_households": 2762
+  },
+  "85143": {
+    "population": 17675,
+    "elderly_count": 3971,
+    "homeless_count": 261,
+    "low_income_households": 6693
+  },
+  "85144": {
+    "population": 27723,
+    "elderly_count": 6650,
+    "homeless_count": 590,
+    "low_income_households": 7919
+  },
+  "85145": {
+    "population": 49540,
+    "elderly_count": 12320,
+    "homeless_count": 2446,
+    "low_income_households": 14101
+  },
+  "85146": {
+    "population": 42995,
+    "elderly_count": 5867,
+    "homeless_count": 1525,
+    "low_income_households": 11519
+  },
+  "85147": {
+    "population": 43694,
+    "elderly_count": 9248,
+    "homeless_count": 1894,
+    "low_income_households": 10279
+  },
+  "85148": {
+    "population": 25333,
+    "elderly_count": 3371,
+    "homeless_count": 355,
+    "low_income_households": 6201
+  },
+  "85149": {
+    "population": 39920,
+    "elderly_count": 7926,
+    "homeless_count": 1671,
+    "low_income_households": 14259
+  },
+  "85150": {
+    "population": 12485,
+    "elderly_count": 1567,
+    "homeless_count": 192,
+    "low_income_households": 3766
+  },
+  "85151": {
+    "population": 41776,
+    "elderly_count": 9793,
+    "homeless_count": 947,
+    "low_income_households": 12193
+  },
+  "85152": {
+    "population": 32607,
+    "elderly_count": 7885,
+    "homeless_count": 811,
+    "low_income_households": 11075
+  },
+  "85153": {
+    "population": 49339,
+    "elderly_count": 7034,
+    "homeless_count": 2226,
+    "low_income_households": 18084
+  },
+  "85154": {
+    "population": 11443,
+    "elderly_count": 1846,
+    "homeless_count": 329,
+    "low_income_households": 3943
+  },
+  "85155": {
+    "population": 49338,
+    "elderly_count": 8516,
+    "homeless_count": 2242,
+    "low_income_households": 13228
+  },
+  "85156": {
+    "population": 11948,
+    "elderly_count": 2784,
+    "homeless_count": 228,
+    "low_income_households": 3977
+  },
+  "85157": {
+    "population": 46721,
+    "elderly_count": 4857,
+    "homeless_count": 885,
+    "low_income_households": 10033
+  },
+  "85158": {
+    "population": 13063,
+    "elderly_count": 1347,
+    "homeless_count": 134,
+    "low_income_households": 5012
+  },
+  "85159": {
+    "population": 40116,
+    "elderly_count": 6370,
+    "homeless_count": 1335,
+    "low_income_households": 11301
+  },
+  "85160": {
+    "population": 40454,
+    "elderly_count": 9366,
+    "homeless_count": 1556,
+    "low_income_households": 13005
+  },
+  "85161": {
+    "population": 39572,
+    "elderly_count": 5364,
+    "homeless_count": 1186,
+    "low_income_households": 12318
+  },
+  "85162": {
+    "population": 14468,
+    "elderly_count": 1546,
+    "homeless_count": 421,
+    "low_income_households": 4980
+  },
+  "85163": {
+    "population": 46303,
+    "elderly_count": 10480,
+    "homeless_count": 2241,
+    "low_income_households": 12590
+  },
+  "85164": {
+    "population": 31385,
+    "elderly_count": 5503,
+    "homeless_count": 1008,
+    "low_income_households": 10069
+  },
+  "85165": {
+    "population": 38391,
+    "elderly_count": 7245,
+    "homeless_count": 1093,
+    "low_income_households": 14071
+  },
+  "85166": {
+    "population": 38758,
+    "elderly_count": 8536,
+    "homeless_count": 1210,
+    "low_income_households": 10445
+  },
+  "85167": {
+    "population": 24212,
+    "elderly_count": 4607,
+    "homeless_count": 959,
+    "low_income_households": 7076
+  },
+  "85168": {
+    "population": 30146,
+    "elderly_count": 5096,
+    "homeless_count": 580,
+    "low_income_households": 12053
+  },
+  "85169": {
+    "population": 37409,
+    "elderly_count": 8161,
+    "homeless_count": 1638,
+    "low_income_households": 14142
+  },
+  "85170": {
+    "population": 32390,
+    "elderly_count": 6796,
+    "homeless_count": 582,
+    "low_income_households": 10413
+  },
+  "85171": {
+    "population": 48208,
+    "elderly_count": 10073,
+    "homeless_count": 1911,
+    "low_income_households": 18473
+  },
+  "85172": {
+    "population": 49987,
+    "elderly_count": 10833,
+    "homeless_count": 1483,
+    "low_income_households": 12731
+  },
+  "85173": {
+    "population": 38465,
+    "elderly_count": 8185,
+    "homeless_count": 596,
+    "low_income_households": 10690
+  },
+  "85174": {
+    "population": 18404,
+    "elderly_count": 1925,
+    "homeless_count": 330,
+    "low_income_households": 4367
+  },
+  "85175": {
+    "population": 41452,
+    "elderly_count": 4918,
+    "homeless_count": 723,
+    "low_income_households": 14494
+  },
+  "85176": {
+    "population": 18223,
+    "elderly_count": 2294,
+    "homeless_count": 441,
+    "low_income_households": 4450
+  },
+  "85177": {
+    "population": 13190,
+    "elderly_count": 3134,
+    "homeless_count": 485,
+    "low_income_households": 4446
+  },
+  "85178": {
+    "population": 11003,
+    "elderly_count": 1505,
+    "homeless_count": 282,
+    "low_income_households": 2487
+  },
+  "85179": {
+    "population": 42409,
+    "elderly_count": 9465,
+    "homeless_count": 1578,
+    "low_income_households": 10391
+  },
+  "85180": {
+    "population": 22482,
+    "elderly_count": 5312,
+    "homeless_count": 1104,
+    "low_income_households": 8212
+  },
+  "85181": {
+    "population": 25653,
+    "elderly_count": 4901,
+    "homeless_count": 1087,
+    "low_income_households": 8713
+  },
+  "85182": {
+    "population": 23279,
+    "elderly_count": 3996,
+    "homeless_count": 1103,
+    "low_income_households": 6439
+  },
+  "85183": {
+    "population": 18354,
+    "elderly_count": 3987,
+    "homeless_count": 193,
+    "low_income_households": 4557
+  },
+  "85184": {
+    "population": 29395,
+    "elderly_count": 4734,
+    "homeless_count": 1004,
+    "low_income_households": 6841
+  },
+  "85185": {
+    "population": 12599,
+    "elderly_count": 2537,
+    "homeless_count": 221,
+    "low_income_households": 4674
+  },
+  "85186": {
+    "population": 13660,
+    "elderly_count": 1845,
+    "homeless_count": 185,
+    "low_income_households": 4459
+  },
+  "85187": {
+    "population": 35057,
+    "elderly_count": 6752,
+    "homeless_count": 1625,
+    "low_income_households": 12254
+  },
+  "85188": {
+    "population": 35254,
+    "elderly_count": 4122,
+    "homeless_count": 1459,
+    "low_income_households": 12389
+  },
+  "85189": {
+    "population": 21780,
+    "elderly_count": 3057,
+    "homeless_count": 389,
+    "low_income_households": 4382
+  },
+  "85190": {
+    "population": 42623,
+    "elderly_count": 5705,
+    "homeless_count": 622,
+    "low_income_households": 16134
+  },
+  "85191": {
+    "population": 22799,
+    "elderly_count": 2424,
+    "homeless_count": 797,
+    "low_income_households": 6172
+  },
+  "85192": {
+    "population": 47009,
+    "elderly_count": 9502,
+    "homeless_count": 523,
+    "low_income_households": 18108
+  },
+  "85193": {
+    "population": 38957,
+    "elderly_count": 9131,
+    "homeless_count": 551,
+    "low_income_households": 11294
+  },
+  "85194": {
+    "population": 37206,
+    "elderly_count": 8489,
+    "homeless_count": 625,
+    "low_income_households": 9158
+  },
+  "85195": {
+    "population": 42004,
+    "elderly_count": 6670,
+    "homeless_count": 482,
+    "low_income_households": 13916
+  },
+  "85196": {
+    "population": 11143,
+    "elderly_count": 1284,
+    "homeless_count": 463,
+    "low_income_households": 3893
+  },
+  "85197": {
+    "population": 48641,
+    "elderly_count": 11451,
+    "homeless_count": 515,
+    "low_income_households": 10587
+  },
+  "85198": {
+    "population": 36526,
+    "elderly_count": 4445,
+    "homeless_count": 1127,
+    "low_income_households": 11482
+  },
+  "85199": {
+    "population": 30436,
+    "elderly_count": 7463,
+    "homeless_count": 1203,
+    "low_income_households": 9108
+  },
+  "85200": {
+    "population": 30068,
+    "elderly_count": 4754,
+    "homeless_count": 1003,
+    "low_income_households": 11725
+  },
+  "85201": {
+    "population": 12979,
+    "elderly_count": 2110,
+    "homeless_count": 514,
+    "low_income_households": 3954
+  },
+  "85202": {
+    "population": 20266,
+    "elderly_count": 2051,
+    "homeless_count": 225,
+    "low_income_households": 5467
+  },
+  "85203": {
+    "population": 43646,
+    "elderly_count": 7567,
+    "homeless_count": 1446,
+    "low_income_households": 8840
+  },
+  "85204": {
+    "population": 38059,
+    "elderly_count": 6176,
+    "homeless_count": 1150,
+    "low_income_households": 9208
+  },
+  "85205": {
+    "population": 49028,
+    "elderly_count": 11958,
+    "homeless_count": 2250,
+    "low_income_households": 19606
+  },
+  "85206": {
+    "population": 15169,
+    "elderly_count": 2317,
+    "homeless_count": 456,
+    "low_income_households": 3391
+  },
+  "85207": {
+    "population": 14486,
+    "elderly_count": 1992,
+    "homeless_count": 293,
+    "low_income_households": 3291
+  },
+  "85208": {
+    "population": 15955,
+    "elderly_count": 3010,
+    "homeless_count": 724,
+    "low_income_households": 4161
+  },
+  "85209": {
+    "population": 22353,
+    "elderly_count": 4941,
+    "homeless_count": 690,
+    "low_income_households": 5156
+  },
+  "85210": {
+    "population": 41934,
+    "elderly_count": 8309,
+    "homeless_count": 1606,
+    "low_income_households": 16591
+  },
+  "85211": {
+    "population": 29010,
+    "elderly_count": 5592,
+    "homeless_count": 889,
+    "low_income_households": 6762
+  },
+  "85212": {
+    "population": 16201,
+    "elderly_count": 3890,
+    "homeless_count": 304,
+    "low_income_households": 5051
+  },
+  "85213": {
+    "population": 32344,
+    "elderly_count": 4526,
+    "homeless_count": 411,
+    "low_income_households": 11805
+  },
+  "85214": {
+    "population": 32572,
+    "elderly_count": 3281,
+    "homeless_count": 817,
+    "low_income_households": 11950
+  },
+  "85215": {
+    "population": 49568,
+    "elderly_count": 11197,
+    "homeless_count": 584,
+    "low_income_households": 10657
+  },
+  "85216": {
+    "population": 39653,
+    "elderly_count": 9702,
+    "homeless_count": 1581,
+    "low_income_households": 10250
+  },
+  "85217": {
+    "population": 21264,
+    "elderly_count": 5213,
+    "homeless_count": 229,
+    "low_income_households": 6693
+  },
+  "85218": {
+    "population": 8050,
+    "elderly_count": 931,
+    "homeless_count": 142,
+    "low_income_households": 3043
+  },
+  "85219": {
+    "population": 19334,
+    "elderly_count": 2364,
+    "homeless_count": 721,
+    "low_income_households": 6083
+  },
+  "85220": {
+    "population": 47336,
+    "elderly_count": 11617,
+    "homeless_count": 1039,
+    "low_income_households": 9546
+  },
+  "85221": {
+    "population": 39323,
+    "elderly_count": 6635,
+    "homeless_count": 1713,
+    "low_income_households": 9248
+  },
+  "85222": {
+    "population": 28301,
+    "elderly_count": 5248,
+    "homeless_count": 1168,
+    "low_income_households": 6529
+  },
+  "85223": {
+    "population": 18688,
+    "elderly_count": 2452,
+    "homeless_count": 804,
+    "low_income_households": 4356
+  },
+  "85224": {
+    "population": 18725,
+    "elderly_count": 3622,
+    "homeless_count": 449,
+    "low_income_households": 4313
+  },
+  "85225": {
+    "population": 27973,
+    "elderly_count": 3050,
+    "homeless_count": 440,
+    "low_income_households": 6370
+  },
+  "85226": {
+    "population": 12714,
+    "elderly_count": 1373,
+    "homeless_count": 303,
+    "low_income_households": 2757
+  },
+  "85227": {
+    "population": 41003,
+    "elderly_count": 5993,
+    "homeless_count": 1868,
+    "low_income_households": 8957
+  },
+  "85228": {
+    "population": 42432,
+    "elderly_count": 7081,
+    "homeless_count": 1383,
+    "low_income_households": 15433
+  },
+  "85229": {
+    "population": 13080,
+    "elderly_count": 2940,
+    "homeless_count": 277,
+    "low_income_households": 5231
+  },
+  "85230": {
+    "population": 23504,
+    "elderly_count": 4223,
+    "homeless_count": 1024,
+    "low_income_households": 8386
+  },
+  "85231": {
+    "population": 40314,
+    "elderly_count": 8567,
+    "homeless_count": 1016,
+    "low_income_households": 14985
+  },
+  "85232": {
+    "population": 22431,
+    "elderly_count": 3455,
+    "homeless_count": 952,
+    "low_income_households": 8477
+  },
+  "85233": {
+    "population": 21044,
+    "elderly_count": 2591,
+    "homeless_count": 413,
+    "low_income_households": 6058
+  },
+  "85234": {
+    "population": 29776,
+    "elderly_count": 3593,
+    "homeless_count": 367,
+    "low_income_households": 6628
+  },
+  "85235": {
+    "population": 32169,
+    "elderly_count": 7064,
+    "homeless_count": 1589,
+    "low_income_households": 7697
+  },
+  "85236": {
+    "population": 18108,
+    "elderly_count": 2825,
+    "homeless_count": 321,
+    "low_income_households": 5887
+  },
+  "85237": {
+    "population": 43208,
+    "elderly_count": 7686,
+    "homeless_count": 2007,
+    "low_income_households": 14682
+  },
+  "85238": {
+    "population": 40972,
+    "elderly_count": 7566,
+    "homeless_count": 1866,
+    "low_income_households": 14826
+  },
+  "85239": {
+    "population": 31268,
+    "elderly_count": 5054,
+    "homeless_count": 1034,
+    "low_income_households": 11095
+  },
+  "85240": {
+    "population": 27126,
+    "elderly_count": 3890,
+    "homeless_count": 706,
+    "low_income_households": 7726
+  },
+  "85241": {
+    "population": 16794,
+    "elderly_count": 3404,
+    "homeless_count": 740,
+    "low_income_households": 4900
+  },
+  "85242": {
+    "population": 23470,
+    "elderly_count": 5674,
+    "homeless_count": 1039,
+    "low_income_households": 8157
+  },
+  "85243": {
+    "population": 37640,
+    "elderly_count": 9361,
+    "homeless_count": 979,
+    "low_income_households": 8868
+  },
+  "85244": {
+    "population": 27602,
+    "elderly_count": 3744,
+    "homeless_count": 1241,
+    "low_income_households": 7205
+  },
+  "85245": {
+    "population": 41293,
+    "elderly_count": 5364,
+    "homeless_count": 894,
+    "low_income_households": 10242
+  },
+  "85246": {
+    "population": 23324,
+    "elderly_count": 4090,
+    "homeless_count": 1135,
+    "low_income_households": 7026
+  },
+  "85247": {
+    "population": 35894,
+    "elderly_count": 7067,
+    "homeless_count": 1013,
+    "low_income_households": 8617
+  },
+  "85248": {
+    "population": 45731,
+    "elderly_count": 8175,
+    "homeless_count": 2029,
+    "low_income_households": 14355
+  },
+  "85249": {
+    "population": 12424,
+    "elderly_count": 2023,
+    "homeless_count": 210,
+    "low_income_households": 3213
+  },
+  "85250": {
+    "population": 40661,
+    "elderly_count": 5521,
+    "homeless_count": 1117,
+    "low_income_households": 13269
+  },
+  "85251": {
+    "population": 10815,
+    "elderly_count": 2323,
+    "homeless_count": 180,
+    "low_income_households": 4258
+  },
+  "85252": {
+    "population": 19127,
+    "elderly_count": 2296,
+    "homeless_count": 881,
+    "low_income_households": 5846
+  },
+  "85253": {
+    "population": 47010,
+    "elderly_count": 7348,
+    "homeless_count": 747,
+    "low_income_households": 15102
+  },
+  "85254": {
+    "population": 8827,
+    "elderly_count": 1219,
+    "homeless_count": 170,
+    "low_income_households": 1860
+  },
+  "85255": {
+    "population": 43402,
+    "elderly_count": 5281,
+    "homeless_count": 1172,
+    "low_income_households": 13898
+  },
+  "85256": {
+    "population": 48921,
+    "elderly_count": 10662,
+    "homeless_count": 978,
+    "low_income_households": 17739
+  },
+  "85257": {
+    "population": 10952,
+    "elderly_count": 1635,
+    "homeless_count": 177,
+    "low_income_households": 3169
+  },
+  "85258": {
+    "population": 22776,
+    "elderly_count": 5026,
+    "homeless_count": 749,
+    "low_income_households": 8903
+  },
+  "85259": {
+    "population": 23847,
+    "elderly_count": 4373,
+    "homeless_count": 1126,
+    "low_income_households": 8755
+  },
+  "85260": {
+    "population": 13990,
+    "elderly_count": 3392,
+    "homeless_count": 507,
+    "low_income_households": 2808
+  },
+  "85261": {
+    "population": 23884,
+    "elderly_count": 5118,
+    "homeless_count": 1080,
+    "low_income_households": 8601
+  },
+  "85262": {
+    "population": 37085,
+    "elderly_count": 5375,
+    "homeless_count": 971,
+    "low_income_households": 13091
+  },
+  "85263": {
+    "population": 20938,
+    "elderly_count": 3033,
+    "homeless_count": 788,
+    "low_income_households": 7101
+  },
+  "85264": {
+    "population": 13339,
+    "elderly_count": 1937,
+    "homeless_count": 292,
+    "low_income_households": 3681
+  },
+  "85265": {
+    "population": 41800,
+    "elderly_count": 10179,
+    "homeless_count": 1261,
+    "low_income_households": 10563
+  },
+  "85266": {
+    "population": 13438,
+    "elderly_count": 3046,
+    "homeless_count": 499,
+    "low_income_households": 5067
+  },
+  "85267": {
+    "population": 27453,
+    "elderly_count": 3517,
+    "homeless_count": 330,
+    "low_income_households": 8322
+  },
+  "85268": {
+    "population": 25888,
+    "elderly_count": 3840,
+    "homeless_count": 1223,
+    "low_income_households": 8793
+  },
+  "85269": {
+    "population": 40568,
+    "elderly_count": 7284,
+    "homeless_count": 869,
+    "low_income_households": 15163
+  },
+  "85270": {
+    "population": 29468,
+    "elderly_count": 6033,
+    "homeless_count": 525,
+    "low_income_households": 7769
+  },
+  "85271": {
+    "population": 28511,
+    "elderly_count": 3773,
+    "homeless_count": 312,
+    "low_income_households": 7257
+  },
+  "85272": {
+    "population": 13258,
+    "elderly_count": 1526,
+    "homeless_count": 583,
+    "low_income_households": 2930
+  },
+  "85273": {
+    "population": 38156,
+    "elderly_count": 4700,
+    "homeless_count": 1359,
+    "low_income_households": 15103
+  },
+  "85274": {
+    "population": 39928,
+    "elderly_count": 6301,
+    "homeless_count": 482,
+    "low_income_households": 13030
+  },
+  "85275": {
+    "population": 35497,
+    "elderly_count": 3878,
+    "homeless_count": 748,
+    "low_income_households": 7776
+  },
+  "85276": {
+    "population": 8266,
+    "elderly_count": 1680,
+    "homeless_count": 183,
+    "low_income_households": 2072
+  },
+  "85277": {
+    "population": 42531,
+    "elderly_count": 5301,
+    "homeless_count": 468,
+    "low_income_households": 8888
+  },
+  "85278": {
+    "population": 34691,
+    "elderly_count": 4184,
+    "homeless_count": 774,
+    "low_income_households": 9658
+  },
+  "85279": {
+    "population": 30023,
+    "elderly_count": 3492,
+    "homeless_count": 1062,
+    "low_income_households": 9473
+  },
+  "85280": {
+    "population": 38005,
+    "elderly_count": 8405,
+    "homeless_count": 1242,
+    "low_income_households": 15154
+  },
+  "85281": {
+    "population": 13402,
+    "elderly_count": 2525,
+    "homeless_count": 482,
+    "low_income_households": 5210
+  },
+  "85282": {
+    "population": 30735,
+    "elderly_count": 6191,
+    "homeless_count": 1487,
+    "low_income_households": 6661
+  },
+  "85283": {
+    "population": 47061,
+    "elderly_count": 8380,
+    "homeless_count": 2335,
+    "low_income_households": 13772
+  },
+  "85284": {
+    "population": 20778,
+    "elderly_count": 4535,
+    "homeless_count": 557,
+    "low_income_households": 6125
+  },
+  "85285": {
+    "population": 47515,
+    "elderly_count": 6914,
+    "homeless_count": 628,
+    "low_income_households": 15713
+  },
+  "85286": {
+    "population": 8792,
+    "elderly_count": 2131,
+    "homeless_count": 297,
+    "low_income_households": 2774
+  },
+  "85287": {
+    "population": 12153,
+    "elderly_count": 1600,
+    "homeless_count": 398,
+    "low_income_households": 3516
+  },
+  "85288": {
+    "population": 33552,
+    "elderly_count": 7077,
+    "homeless_count": 339,
+    "low_income_households": 10899
+  },
+  "85289": {
+    "population": 22559,
+    "elderly_count": 2649,
+    "homeless_count": 1104,
+    "low_income_households": 6140
+  },
+  "85290": {
+    "population": 26564,
+    "elderly_count": 2939,
+    "homeless_count": 820,
+    "low_income_households": 10041
+  },
+  "85291": {
+    "population": 27258,
+    "elderly_count": 5677,
+    "homeless_count": 1152,
+    "low_income_households": 9854
+  },
+  "85292": {
+    "population": 33175,
+    "elderly_count": 4479,
+    "homeless_count": 1001,
+    "low_income_households": 9722
+  },
+  "85293": {
+    "population": 25801,
+    "elderly_count": 4845,
+    "homeless_count": 693,
+    "low_income_households": 9285
+  },
+  "85294": {
+    "population": 29299,
+    "elderly_count": 6991,
+    "homeless_count": 813,
+    "low_income_households": 5884
+  },
+  "85295": {
+    "population": 25239,
+    "elderly_count": 4169,
+    "homeless_count": 704,
+    "low_income_households": 8832
+  },
+  "85296": {
+    "population": 36432,
+    "elderly_count": 8634,
+    "homeless_count": 1049,
+    "low_income_households": 13116
+  },
+  "85297": {
+    "population": 39841,
+    "elderly_count": 5181,
+    "homeless_count": 1112,
+    "low_income_households": 15443
+  },
+  "85298": {
+    "population": 26259,
+    "elderly_count": 4178,
+    "homeless_count": 803,
+    "low_income_households": 10450
+  },
+  "85299": {
+    "population": 25925,
+    "elderly_count": 3791,
+    "homeless_count": 973,
+    "low_income_households": 8080
+  },
+  "85300": {
+    "population": 25329,
+    "elderly_count": 3798,
+    "homeless_count": 425,
+    "low_income_households": 10050
+  },
+  "85301": {
+    "population": 11880,
+    "elderly_count": 2722,
+    "homeless_count": 144,
+    "low_income_households": 2746
+  },
+  "85302": {
+    "population": 38592,
+    "elderly_count": 9429,
+    "homeless_count": 420,
+    "low_income_households": 8269
+  },
+  "85303": {
+    "population": 38074,
+    "elderly_count": 7328,
+    "homeless_count": 1854,
+    "low_income_households": 10719
+  },
+  "85304": {
+    "population": 35425,
+    "elderly_count": 7432,
+    "homeless_count": 885,
+    "low_income_households": 9875
+  },
+  "85305": {
+    "population": 38023,
+    "elderly_count": 8886,
+    "homeless_count": 572,
+    "low_income_households": 12826
+  },
+  "85306": {
+    "population": 48995,
+    "elderly_count": 5154,
+    "homeless_count": 873,
+    "low_income_households": 12987
+  },
+  "85307": {
+    "population": 21718,
+    "elderly_count": 4242,
+    "homeless_count": 460,
+    "low_income_households": 7143
+  },
+  "85308": {
+    "population": 12856,
+    "elderly_count": 2109,
+    "homeless_count": 274,
+    "low_income_households": 5116
+  },
+  "85309": {
+    "population": 46064,
+    "elderly_count": 7396,
+    "homeless_count": 524,
+    "low_income_households": 9461
+  },
+  "85310": {
+    "population": 29428,
+    "elderly_count": 6402,
+    "homeless_count": 840,
+    "low_income_households": 7427
+  },
+  "85311": {
+    "population": 23320,
+    "elderly_count": 3999,
+    "homeless_count": 260,
+    "low_income_households": 8928
+  },
+  "85312": {
+    "population": 13835,
+    "elderly_count": 2410,
+    "homeless_count": 184,
+    "low_income_households": 3451
+  },
+  "85313": {
+    "population": 10581,
+    "elderly_count": 2088,
+    "homeless_count": 136,
+    "low_income_households": 2779
+  },
+  "85314": {
+    "population": 9628,
+    "elderly_count": 2058,
+    "homeless_count": 136,
+    "low_income_households": 2489
+  },
+  "85315": {
+    "population": 42978,
+    "elderly_count": 6167,
+    "homeless_count": 1676,
+    "low_income_households": 12298
+  },
+  "85316": {
+    "population": 12304,
+    "elderly_count": 2304,
+    "homeless_count": 299,
+    "low_income_households": 3116
+  },
+  "85317": {
+    "population": 36416,
+    "elderly_count": 5428,
+    "homeless_count": 724,
+    "low_income_households": 14049
+  },
+  "85318": {
+    "population": 34459,
+    "elderly_count": 4129,
+    "homeless_count": 847,
+    "low_income_households": 12995
+  },
+  "85319": {
+    "population": 23723,
+    "elderly_count": 2600,
+    "homeless_count": 476,
+    "low_income_households": 6483
+  },
+  "85320": {
+    "population": 21009,
+    "elderly_count": 2835,
+    "homeless_count": 966,
+    "low_income_households": 5737
+  },
+  "85321": {
+    "population": 46459,
+    "elderly_count": 4862,
+    "homeless_count": 2000,
+    "low_income_households": 18186
+  },
+  "85322": {
+    "population": 38564,
+    "elderly_count": 6443,
+    "homeless_count": 618,
+    "low_income_households": 13663
+  },
+  "85323": {
+    "population": 46248,
+    "elderly_count": 4802,
+    "homeless_count": 1878,
+    "low_income_households": 16359
+  },
+  "85324": {
+    "population": 30432,
+    "elderly_count": 4978,
+    "homeless_count": 1046,
+    "low_income_households": 9794
+  },
+  "85325": {
+    "population": 36750,
+    "elderly_count": 5721,
+    "homeless_count": 910,
+    "low_income_households": 14500
+  },
+  "85326": {
+    "population": 22388,
+    "elderly_count": 2700,
+    "homeless_count": 452,
+    "low_income_households": 7696
+  },
+  "85327": {
+    "population": 36974,
+    "elderly_count": 3865,
+    "homeless_count": 389,
+    "low_income_households": 10836
+  },
+  "85328": {
+    "population": 15664,
+    "elderly_count": 2717,
+    "homeless_count": 775,
+    "low_income_households": 5666
+  },
+  "85329": {
+    "population": 44775,
+    "elderly_count": 6692,
+    "homeless_count": 2077,
+    "low_income_households": 14817
+  },
+  "85330": {
+    "population": 28973,
+    "elderly_count": 5923,
+    "homeless_count": 899,
+    "low_income_households": 10072
+  },
+  "85331": {
+    "population": 27580,
+    "elderly_count": 3492,
+    "homeless_count": 356,
+    "low_income_households": 6137
+  },
+  "85332": {
+    "population": 25658,
+    "elderly_count": 6227,
+    "homeless_count": 1255,
+    "low_income_households": 6839
+  },
+  "85333": {
+    "population": 37508,
+    "elderly_count": 6043,
+    "homeless_count": 1674,
+    "low_income_households": 14433
+  },
+  "85334": {
+    "population": 40392,
+    "elderly_count": 6614,
+    "homeless_count": 774,
+    "low_income_households": 12345
+  },
+  "85335": {
+    "population": 49700,
+    "elderly_count": 8910,
+    "homeless_count": 1585,
+    "low_income_households": 19492
+  },
+  "85336": {
+    "population": 30095,
+    "elderly_count": 5759,
+    "homeless_count": 1081,
+    "low_income_households": 11685
+  },
+  "85337": {
+    "population": 49817,
+    "elderly_count": 11231,
+    "homeless_count": 1350,
+    "low_income_households": 18826
+  },
+  "85338": {
+    "population": 14528,
+    "elderly_count": 2775,
+    "homeless_count": 449,
+    "low_income_households": 3869
+  },
+  "85339": {
+    "population": 25451,
+    "elderly_count": 4568,
+    "homeless_count": 1094,
+    "low_income_households": 8944
+  },
+  "85340": {
+    "population": 45915,
+    "elderly_count": 8291,
+    "homeless_count": 1381,
+    "low_income_households": 18217
+  },
+  "85341": {
+    "population": 37356,
+    "elderly_count": 8476,
+    "homeless_count": 494,
+    "low_income_households": 7763
+  },
+  "85342": {
+    "population": 44049,
+    "elderly_count": 6438,
+    "homeless_count": 1339,
+    "low_income_households": 10983
+  },
+  "85343": {
+    "population": 17295,
+    "elderly_count": 2610,
+    "homeless_count": 398,
+    "low_income_households": 5719
+  },
+  "85344": {
+    "population": 20666,
+    "elderly_count": 5134,
+    "homeless_count": 737,
+    "low_income_households": 5592
+  },
+  "85345": {
+    "population": 47239,
+    "elderly_count": 8669,
+    "homeless_count": 909,
+    "low_income_households": 16026
+  },
+  "85346": {
+    "population": 15332,
+    "elderly_count": 3430,
+    "homeless_count": 525,
+    "low_income_households": 3991
+  },
+  "85347": {
+    "population": 34287,
+    "elderly_count": 7545,
+    "homeless_count": 737,
+    "low_income_households": 12633
+  },
+  "85348": {
+    "population": 45750,
+    "elderly_count": 7782,
+    "homeless_count": 2195,
+    "low_income_households": 9228
+  },
+  "85349": {
+    "population": 44505,
+    "elderly_count": 9378,
+    "homeless_count": 1459,
+    "low_income_households": 14336
+  },
+  "85350": {
+    "population": 12986,
+    "elderly_count": 2599,
+    "homeless_count": 588,
+    "low_income_households": 3268
+  },
+  "85351": {
+    "population": 16480,
+    "elderly_count": 1949,
+    "homeless_count": 406,
+    "low_income_households": 5772
+  },
+  "85352": {
+    "population": 26409,
+    "elderly_count": 4891,
+    "homeless_count": 666,
+    "low_income_households": 8003
+  },
+  "85353": {
+    "population": 41914,
+    "elderly_count": 9276,
+    "homeless_count": 1565,
+    "low_income_households": 15816
+  },
+  "85354": {
+    "population": 30839,
+    "elderly_count": 6758,
+    "homeless_count": 582,
+    "low_income_households": 11276
+  },
+  "85355": {
+    "population": 42046,
+    "elderly_count": 7556,
+    "homeless_count": 2047,
+    "low_income_households": 16076
+  },
+  "85356": {
+    "population": 17710,
+    "elderly_count": 2552,
+    "homeless_count": 402,
+    "low_income_households": 4122
+  },
+  "85357": {
+    "population": 28292,
+    "elderly_count": 4865,
+    "homeless_count": 1306,
+    "low_income_households": 9166
+  },
+  "85358": {
+    "population": 43105,
+    "elderly_count": 8377,
+    "homeless_count": 1760,
+    "low_income_households": 14263
+  },
+  "85359": {
+    "population": 22657,
+    "elderly_count": 4462,
+    "homeless_count": 441,
+    "low_income_households": 8682
+  },
+  "85360": {
+    "population": 33782,
+    "elderly_count": 5673,
+    "homeless_count": 656,
+    "low_income_households": 10218
+  },
+  "85361": {
+    "population": 42702,
+    "elderly_count": 7972,
+    "homeless_count": 1472,
+    "low_income_households": 14146
+  },
+  "85362": {
+    "population": 38522,
+    "elderly_count": 5752,
+    "homeless_count": 955,
+    "low_income_households": 12155
+  },
+  "85363": {
+    "population": 46976,
+    "elderly_count": 10530,
+    "homeless_count": 1048,
+    "low_income_households": 17571
+  },
+  "85364": {
+    "population": 27392,
+    "elderly_count": 5337,
+    "homeless_count": 660,
+    "low_income_households": 8482
+  },
+  "85365": {
+    "population": 47282,
+    "elderly_count": 8140,
+    "homeless_count": 1741,
+    "low_income_households": 11895
+  },
+  "85366": {
+    "population": 42203,
+    "elderly_count": 9078,
+    "homeless_count": 607,
+    "low_income_households": 15555
+  },
+  "85367": {
+    "population": 15480,
+    "elderly_count": 3669,
+    "homeless_count": 429,
+    "low_income_households": 3270
+  },
+  "85368": {
+    "population": 33328,
+    "elderly_count": 4988,
+    "homeless_count": 370,
+    "low_income_households": 11755
+  },
+  "85369": {
+    "population": 43395,
+    "elderly_count": 4461,
+    "homeless_count": 1802,
+    "low_income_households": 15306
+  },
+  "85370": {
+    "population": 39385,
+    "elderly_count": 5283,
+    "homeless_count": 706,
+    "low_income_households": 8191
+  },
+  "85371": {
+    "population": 27167,
+    "elderly_count": 2957,
+    "homeless_count": 821,
+    "low_income_households": 9120
+  },
+  "85372": {
+    "population": 37726,
+    "elderly_count": 8052,
+    "homeless_count": 494,
+    "low_income_households": 9812
+  },
+  "85373": {
+    "population": 38884,
+    "elderly_count": 6799,
+    "homeless_count": 1930,
+    "low_income_households": 13808
+  },
+  "85374": {
+    "population": 42461,
+    "elderly_count": 6313,
+    "homeless_count": 1210,
+    "low_income_households": 16813
+  },
+  "85375": {
+    "population": 12467,
+    "elderly_count": 1696,
+    "homeless_count": 308,
+    "low_income_households": 3506
+  },
+  "85376": {
+    "population": 14650,
+    "elderly_count": 3028,
+    "homeless_count": 544,
+    "low_income_households": 5826
+  },
+  "85377": {
+    "population": 29514,
+    "elderly_count": 6351,
+    "homeless_count": 500,
+    "low_income_households": 10838
+  },
+  "85378": {
+    "population": 40239,
+    "elderly_count": 8120,
+    "homeless_count": 1676,
+    "low_income_households": 12841
+  },
+  "85379": {
+    "population": 27619,
+    "elderly_count": 6484,
+    "homeless_count": 879,
+    "low_income_households": 6655
+  },
+  "85380": {
+    "population": 10830,
+    "elderly_count": 2206,
+    "homeless_count": 413,
+    "low_income_households": 4027
+  },
+  "85381": {
+    "population": 43037,
+    "elderly_count": 10238,
+    "homeless_count": 1933,
+    "low_income_households": 16182
+  },
+  "85382": {
+    "population": 46071,
+    "elderly_count": 10400,
+    "homeless_count": 1044,
+    "low_income_households": 18305
+  },
+  "85383": {
+    "population": 10394,
+    "elderly_count": 2353,
+    "homeless_count": 322,
+    "low_income_households": 2850
+  },
+  "85384": {
+    "population": 40887,
+    "elderly_count": 7513,
+    "homeless_count": 755,
+    "low_income_households": 10620
+  },
+  "85385": {
+    "population": 28890,
+    "elderly_count": 4623,
+    "homeless_count": 556,
+    "low_income_households": 6829
+  },
+  "85386": {
+    "population": 42301,
+    "elderly_count": 9169,
+    "homeless_count": 1621,
+    "low_income_households": 9017
+  },
+  "85387": {
+    "population": 42503,
+    "elderly_count": 6818,
+    "homeless_count": 1375,
+    "low_income_households": 14812
+  },
+  "85388": {
+    "population": 26023,
+    "elderly_count": 5685,
+    "homeless_count": 981,
+    "low_income_households": 8657
+  },
+  "85389": {
+    "population": 46645,
+    "elderly_count": 9113,
+    "homeless_count": 948,
+    "low_income_households": 17529
+  },
+  "85390": {
+    "population": 30550,
+    "elderly_count": 3583,
+    "homeless_count": 629,
+    "low_income_households": 11838
+  },
+  "85391": {
+    "population": 39427,
+    "elderly_count": 6955,
+    "homeless_count": 569,
+    "low_income_households": 10983
+  },
+  "85392": {
+    "population": 37011,
+    "elderly_count": 8472,
+    "homeless_count": 1284,
+    "low_income_households": 9970
+  },
+  "85393": {
+    "population": 13346,
+    "elderly_count": 2976,
+    "homeless_count": 593,
+    "low_income_households": 5309
+  },
+  "85394": {
+    "population": 42227,
+    "elderly_count": 10513,
+    "homeless_count": 1689,
+    "low_income_households": 13993
+  },
+  "85395": {
+    "population": 41455,
+    "elderly_count": 6675,
+    "homeless_count": 1923,
+    "low_income_households": 14587
+  },
+  "85396": {
+    "population": 47084,
+    "elderly_count": 6287,
+    "homeless_count": 1440,
+    "low_income_households": 14004
+  },
+  "85397": {
+    "population": 8406,
+    "elderly_count": 1584,
+    "homeless_count": 157,
+    "low_income_households": 2534
+  },
+  "85398": {
+    "population": 11992,
+    "elderly_count": 1709,
+    "homeless_count": 582,
+    "low_income_households": 2536
+  },
+  "85399": {
+    "population": 48720,
+    "elderly_count": 11982,
+    "homeless_count": 1463,
+    "low_income_households": 16245
+  },
+  "85400": {
+    "population": 36280,
+    "elderly_count": 4308,
+    "homeless_count": 460,
+    "low_income_households": 13095
+  },
+  "85401": {
+    "population": 37356,
+    "elderly_count": 8527,
+    "homeless_count": 948,
+    "low_income_households": 14511
+  },
+  "85402": {
+    "population": 12964,
+    "elderly_count": 2767,
+    "homeless_count": 391,
+    "low_income_households": 3912
+  },
+  "85403": {
+    "population": 36215,
+    "elderly_count": 6183,
+    "homeless_count": 988,
+    "low_income_households": 10157
+  },
+  "85404": {
+    "population": 15579,
+    "elderly_count": 3372,
+    "homeless_count": 318,
+    "low_income_households": 6164
+  },
+  "85405": {
+    "population": 49690,
+    "elderly_count": 8362,
+    "homeless_count": 1191,
+    "low_income_households": 14762
+  },
+  "85406": {
+    "population": 34333,
+    "elderly_count": 7735,
+    "homeless_count": 1568,
+    "low_income_households": 10224
+  },
+  "85407": {
+    "population": 30407,
+    "elderly_count": 4243,
+    "homeless_count": 915,
+    "low_income_households": 10411
+  },
+  "85408": {
+    "population": 39565,
+    "elderly_count": 7584,
+    "homeless_count": 1948,
+    "low_income_households": 11964
+  },
+  "85409": {
+    "population": 10534,
+    "elderly_count": 2035,
+    "homeless_count": 106,
+    "low_income_households": 2620
+  },
+  "85410": {
+    "population": 37940,
+    "elderly_count": 8164,
+    "homeless_count": 1385,
+    "low_income_households": 11843
+  },
+  "85411": {
+    "population": 36821,
+    "elderly_count": 8033,
+    "homeless_count": 992,
+    "low_income_households": 7870
+  },
+  "85412": {
+    "population": 26854,
+    "elderly_count": 5509,
+    "homeless_count": 582,
+    "low_income_households": 9708
+  },
+  "85413": {
+    "population": 12177,
+    "elderly_count": 1350,
+    "homeless_count": 586,
+    "low_income_households": 3464
+  },
+  "85414": {
+    "population": 19192,
+    "elderly_count": 3196,
+    "homeless_count": 590,
+    "low_income_households": 7578
+  },
+  "85415": {
+    "population": 46150,
+    "elderly_count": 10802,
+    "homeless_count": 2035,
+    "low_income_households": 14535
+  },
+  "85416": {
+    "population": 45252,
+    "elderly_count": 6511,
+    "homeless_count": 1948,
+    "low_income_households": 12410
+  },
+  "85417": {
+    "population": 22335,
+    "elderly_count": 4246,
+    "homeless_count": 693,
+    "low_income_households": 4469
+  },
+  "85418": {
+    "population": 11340,
+    "elderly_count": 2231,
+    "homeless_count": 160,
+    "low_income_households": 3388
+  },
+  "85419": {
+    "population": 13080,
+    "elderly_count": 2443,
+    "homeless_count": 424,
+    "low_income_households": 3672
+  },
+  "85420": {
+    "population": 22280,
+    "elderly_count": 2975,
+    "homeless_count": 276,
+    "low_income_households": 8073
+  },
+  "85421": {
+    "population": 16171,
+    "elderly_count": 3283,
+    "homeless_count": 309,
+    "low_income_households": 4616
+  },
+  "85422": {
+    "population": 24070,
+    "elderly_count": 2784,
+    "homeless_count": 643,
+    "low_income_households": 5302
+  },
+  "85423": {
+    "population": 49145,
+    "elderly_count": 5001,
+    "homeless_count": 2164,
+    "low_income_households": 16701
+  },
+  "85424": {
+    "population": 31763,
+    "elderly_count": 5083,
+    "homeless_count": 967,
+    "low_income_households": 7953
+  },
+  "85425": {
+    "population": 18672,
+    "elderly_count": 4069,
+    "homeless_count": 743,
+    "low_income_households": 4132
+  },
+  "85426": {
+    "population": 43047,
+    "elderly_count": 6852,
+    "homeless_count": 1273,
+    "low_income_households": 12194
+  },
+  "85427": {
+    "population": 16351,
+    "elderly_count": 3841,
+    "homeless_count": 667,
+    "low_income_households": 4894
+  },
+  "85428": {
+    "population": 28894,
+    "elderly_count": 5676,
+    "homeless_count": 689,
+    "low_income_households": 10468
+  },
+  "85429": {
+    "population": 27773,
+    "elderly_count": 6685,
+    "homeless_count": 391,
+    "low_income_households": 6637
+  },
+  "85430": {
+    "population": 20696,
+    "elderly_count": 4436,
+    "homeless_count": 975,
+    "low_income_households": 8163
+  },
+  "85431": {
+    "population": 18974,
+    "elderly_count": 4201,
+    "homeless_count": 441,
+    "low_income_households": 5119
+  },
+  "85432": {
+    "population": 44490,
+    "elderly_count": 9661,
+    "homeless_count": 1145,
+    "low_income_households": 12271
+  },
+  "85433": {
+    "population": 25217,
+    "elderly_count": 4933,
+    "homeless_count": 641,
+    "low_income_households": 5940
+  },
+  "85434": {
+    "population": 36935,
+    "elderly_count": 5034,
+    "homeless_count": 1567,
+    "low_income_households": 11848
+  },
+  "85435": {
+    "population": 35870,
+    "elderly_count": 3625,
+    "homeless_count": 1684,
+    "low_income_households": 13588
+  },
+  "85436": {
+    "population": 27807,
+    "elderly_count": 3699,
+    "homeless_count": 330,
+    "low_income_households": 11034
+  },
+  "85437": {
+    "population": 12261,
+    "elderly_count": 1282,
+    "homeless_count": 211,
+    "low_income_households": 3642
+  },
+  "85438": {
+    "population": 34656,
+    "elderly_count": 6403,
+    "homeless_count": 599,
+    "low_income_households": 12197
+  },
+  "85439": {
+    "population": 43715,
+    "elderly_count": 8094,
+    "homeless_count": 1374,
+    "low_income_households": 17025
+  },
+  "85440": {
+    "population": 11206,
+    "elderly_count": 1957,
+    "homeless_count": 248,
+    "low_income_households": 2319
+  },
+  "85441": {
+    "population": 42926,
+    "elderly_count": 10019,
+    "homeless_count": 838,
+    "low_income_households": 13702
+  },
+  "85442": {
+    "population": 33622,
+    "elderly_count": 4435,
+    "homeless_count": 420,
+    "low_income_households": 7810
+  },
+  "85443": {
+    "population": 49605,
+    "elderly_count": 11805,
+    "homeless_count": 2151,
+    "low_income_households": 16648
+  },
+  "85444": {
+    "population": 41162,
+    "elderly_count": 5106,
+    "homeless_count": 1199,
+    "low_income_households": 15389
+  },
+  "85445": {
+    "population": 45156,
+    "elderly_count": 5953,
+    "homeless_count": 1582,
+    "low_income_households": 9556
+  },
+  "85446": {
+    "population": 14093,
+    "elderly_count": 3201,
+    "homeless_count": 461,
+    "low_income_households": 4059
+  },
+  "85447": {
+    "population": 16703,
+    "elderly_count": 1847,
+    "homeless_count": 662,
+    "low_income_households": 3788
+  },
+  "85448": {
+    "population": 38383,
+    "elderly_count": 9136,
+    "homeless_count": 1142,
+    "low_income_households": 10095
+  },
+  "85449": {
+    "population": 11549,
+    "elderly_count": 1714,
+    "homeless_count": 222,
+    "low_income_households": 2928
+  },
+  "85450": {
+    "population": 9477,
+    "elderly_count": 1049,
+    "homeless_count": 314,
+    "low_income_households": 2485
+  },
+  "85451": {
+    "population": 41066,
+    "elderly_count": 6788,
+    "homeless_count": 1196,
+    "low_income_households": 14468
+  },
+  "85452": {
+    "population": 10836,
+    "elderly_count": 2528,
+    "homeless_count": 180,
+    "low_income_households": 3420
+  },
+  "85453": {
+    "population": 30368,
+    "elderly_count": 3154,
+    "homeless_count": 946,
+    "low_income_households": 9940
+  },
+  "85454": {
+    "population": 48591,
+    "elderly_count": 8226,
+    "homeless_count": 1043,
+    "low_income_households": 15228
+  },
+  "85455": {
+    "population": 22273,
+    "elderly_count": 5433,
+    "homeless_count": 866,
+    "low_income_households": 7770
+  },
+  "85456": {
+    "population": 35333,
+    "elderly_count": 4239,
+    "homeless_count": 685,
+    "low_income_households": 11259
+  },
+  "85457": {
+    "population": 20499,
+    "elderly_count": 2068,
+    "homeless_count": 739,
+    "low_income_households": 4508
+  },
+  "85458": {
+    "population": 18759,
+    "elderly_count": 2780,
+    "homeless_count": 715,
+    "low_income_households": 3858
+  },
+  "85459": {
+    "population": 44845,
+    "elderly_count": 6597,
+    "homeless_count": 1264,
+    "low_income_households": 15816
+  },
+  "85460": {
+    "population": 30266,
+    "elderly_count": 4998,
+    "homeless_count": 1492,
+    "low_income_households": 8245
+  },
+  "85461": {
+    "population": 36028,
+    "elderly_count": 6681,
+    "homeless_count": 624,
+    "low_income_households": 12103
+  },
+  "85462": {
+    "population": 22909,
+    "elderly_count": 4144,
+    "homeless_count": 1012,
+    "low_income_households": 7301
+  },
+  "85463": {
+    "population": 29955,
+    "elderly_count": 4054,
+    "homeless_count": 1050,
+    "low_income_households": 8742
+  },
+  "85464": {
+    "population": 46150,
+    "elderly_count": 5439,
+    "homeless_count": 1640,
+    "low_income_households": 9300
+  },
+  "85465": {
+    "population": 33841,
+    "elderly_count": 8017,
+    "homeless_count": 1094,
+    "low_income_households": 7502
+  },
+  "85466": {
+    "population": 11814,
+    "elderly_count": 2110,
+    "homeless_count": 155,
+    "low_income_households": 3987
+  },
+  "85467": {
+    "population": 11267,
+    "elderly_count": 2455,
+    "homeless_count": 171,
+    "low_income_households": 3719
+  },
+  "85468": {
+    "population": 41196,
+    "elderly_count": 7227,
+    "homeless_count": 1496,
+    "low_income_households": 10467
+  },
+  "85469": {
+    "population": 49783,
+    "elderly_count": 5847,
+    "homeless_count": 979,
+    "low_income_households": 18367
+  },
+  "85470": {
+    "population": 33336,
+    "elderly_count": 7334,
+    "homeless_count": 1502,
+    "low_income_households": 12798
+  },
+  "85471": {
+    "population": 42625,
+    "elderly_count": 5489,
+    "homeless_count": 749,
+    "low_income_households": 13196
+  },
+  "85472": {
+    "population": 16599,
+    "elderly_count": 3602,
+    "homeless_count": 408,
+    "low_income_households": 5425
+  },
+  "85473": {
+    "population": 17766,
+    "elderly_count": 4176,
+    "homeless_count": 851,
+    "low_income_households": 6789
+  },
+  "85474": {
+    "population": 8712,
+    "elderly_count": 957,
+    "homeless_count": 417,
+    "low_income_households": 2073
+  },
+  "85475": {
+    "population": 20760,
+    "elderly_count": 2960,
+    "homeless_count": 960,
+    "low_income_households": 4453
+  },
+  "85476": {
+    "population": 24321,
+    "elderly_count": 3470,
+    "homeless_count": 1095,
+    "low_income_households": 8750
+  },
+  "85477": {
+    "population": 19129,
+    "elderly_count": 3090,
+    "homeless_count": 847,
+    "low_income_households": 6429
+  },
+  "85478": {
+    "population": 15229,
+    "elderly_count": 3549,
+    "homeless_count": 520,
+    "low_income_households": 5754
+  },
+  "85479": {
+    "population": 46453,
+    "elderly_count": 9314,
+    "homeless_count": 2138,
+    "low_income_households": 11707
+  },
+  "85480": {
+    "population": 49039,
+    "elderly_count": 7977,
+    "homeless_count": 497,
+    "low_income_households": 14033
+  },
+  "85481": {
+    "population": 48641,
+    "elderly_count": 10333,
+    "homeless_count": 648,
+    "low_income_households": 18868
+  },
+  "85482": {
+    "population": 19445,
+    "elderly_count": 2078,
+    "homeless_count": 271,
+    "low_income_households": 6389
+  },
+  "85483": {
+    "population": 49580,
+    "elderly_count": 11219,
+    "homeless_count": 1709,
+    "low_income_households": 17381
+  },
+  "85484": {
+    "population": 38398,
+    "elderly_count": 7439,
+    "homeless_count": 1350,
+    "low_income_households": 8479
+  },
+  "85485": {
+    "population": 41005,
+    "elderly_count": 4477,
+    "homeless_count": 1943,
+    "low_income_households": 8640
+  },
+  "85486": {
+    "population": 47129,
+    "elderly_count": 11068,
+    "homeless_count": 520,
+    "low_income_households": 11677
+  },
+  "85487": {
+    "population": 17647,
+    "elderly_count": 2096,
+    "homeless_count": 769,
+    "low_income_households": 6550
+  },
+  "85488": {
+    "population": 21085,
+    "elderly_count": 4818,
+    "homeless_count": 638,
+    "low_income_households": 8385
+  },
+  "85489": {
+    "population": 28003,
+    "elderly_count": 3724,
+    "homeless_count": 1100,
+    "low_income_households": 10898
+  },
+  "85490": {
+    "population": 24331,
+    "elderly_count": 2603,
+    "homeless_count": 308,
+    "low_income_households": 6475
+  },
+  "85491": {
+    "population": 16987,
+    "elderly_count": 2890,
+    "homeless_count": 771,
+    "low_income_households": 6544
+  },
+  "85492": {
+    "population": 9941,
+    "elderly_count": 2361,
+    "homeless_count": 442,
+    "low_income_households": 3104
+  },
+  "85493": {
+    "population": 25207,
+    "elderly_count": 4477,
+    "homeless_count": 1012,
+    "low_income_households": 5784
+  },
+  "85494": {
+    "population": 26141,
+    "elderly_count": 2877,
+    "homeless_count": 1134,
+    "low_income_households": 6054
+  },
+  "85495": {
+    "population": 37291,
+    "elderly_count": 4591,
+    "homeless_count": 550,
+    "low_income_households": 13186
+  },
+  "85496": {
+    "population": 13656,
+    "elderly_count": 2835,
+    "homeless_count": 567,
+    "low_income_households": 4928
+  },
+  "85497": {
+    "population": 23406,
+    "elderly_count": 3356,
+    "homeless_count": 892,
+    "low_income_households": 6324
+  },
+  "85498": {
+    "population": 41150,
+    "elderly_count": 8512,
+    "homeless_count": 1657,
+    "low_income_households": 13393
+  },
+  "85499": {
+    "population": 19328,
+    "elderly_count": 2128,
+    "homeless_count": 631,
+    "low_income_households": 4423
+  },
+  "85500": {
+    "population": 18791,
+    "elderly_count": 2986,
+    "homeless_count": 537,
+    "low_income_households": 6677
+  },
+  "85501": {
+    "population": 44338,
+    "elderly_count": 5880,
+    "homeless_count": 1800,
+    "low_income_households": 16034
+  },
+  "85502": {
+    "population": 41821,
+    "elderly_count": 4330,
+    "homeless_count": 542,
+    "low_income_households": 16240
+  },
+  "85503": {
+    "population": 41124,
+    "elderly_count": 10066,
+    "homeless_count": 995,
+    "low_income_households": 14673
+  },
+  "85504": {
+    "population": 43226,
+    "elderly_count": 9468,
+    "homeless_count": 2040,
+    "low_income_households": 13700
+  },
+  "85505": {
+    "population": 35858,
+    "elderly_count": 5834,
+    "homeless_count": 1239,
+    "low_income_households": 9164
+  },
+  "85506": {
+    "population": 33613,
+    "elderly_count": 3578,
+    "homeless_count": 1298,
+    "low_income_households": 8222
+  },
+  "85507": {
+    "population": 49851,
+    "elderly_count": 10974,
+    "homeless_count": 1955,
+    "low_income_households": 10840
+  },
+  "85508": {
+    "population": 44213,
+    "elderly_count": 5841,
+    "homeless_count": 1367,
+    "low_income_households": 17162
+  },
+  "85509": {
+    "population": 45367,
+    "elderly_count": 7182,
+    "homeless_count": 1208,
+    "low_income_households": 12138
+  },
+  "85510": {
+    "population": 44489,
+    "elderly_count": 5356,
+    "homeless_count": 1971,
+    "low_income_households": 15693
+  },
+  "85511": {
+    "population": 22550,
+    "elderly_count": 2784,
+    "homeless_count": 854,
+    "low_income_households": 8175
+  },
+  "85512": {
+    "population": 38470,
+    "elderly_count": 8595,
+    "homeless_count": 1681,
+    "low_income_households": 14626
+  },
+  "85513": {
+    "population": 8582,
+    "elderly_count": 1197,
+    "homeless_count": 299,
+    "low_income_households": 2135
+  },
+  "85514": {
+    "population": 13099,
+    "elderly_count": 3203,
+    "homeless_count": 388,
+    "low_income_households": 4290
+  },
+  "85515": {
+    "population": 21192,
+    "elderly_count": 3814,
+    "homeless_count": 403,
+    "low_income_households": 4986
+  },
+  "85516": {
+    "population": 44123,
+    "elderly_count": 9086,
+    "homeless_count": 1128,
+    "low_income_households": 15682
+  },
+  "85517": {
+    "population": 22575,
+    "elderly_count": 3486,
+    "homeless_count": 1017,
+    "low_income_households": 4573
+  },
+  "85518": {
+    "population": 32818,
+    "elderly_count": 8165,
+    "homeless_count": 640,
+    "low_income_households": 11018
+  },
+  "85519": {
+    "population": 44282,
+    "elderly_count": 8708,
+    "homeless_count": 1704,
+    "low_income_households": 9825
+  },
+  "85520": {
+    "population": 11340,
+    "elderly_count": 2097,
+    "homeless_count": 501,
+    "low_income_households": 2754
+  },
+  "85521": {
+    "population": 19131,
+    "elderly_count": 2818,
+    "homeless_count": 903,
+    "low_income_households": 4448
+  },
+  "85522": {
+    "population": 39020,
+    "elderly_count": 6296,
+    "homeless_count": 811,
+    "low_income_households": 15585
+  },
+  "85523": {
+    "population": 20358,
+    "elderly_count": 4665,
+    "homeless_count": 927,
+    "low_income_households": 4131
+  },
+  "85524": {
+    "population": 38387,
+    "elderly_count": 8341,
+    "homeless_count": 1642,
+    "low_income_households": 11337
+  },
+  "85525": {
+    "population": 14212,
+    "elderly_count": 3239,
+    "homeless_count": 263,
+    "low_income_households": 3357
+  },
+  "85526": {
+    "population": 46311,
+    "elderly_count": 5651,
+    "homeless_count": 1996,
+    "low_income_households": 10466
+  },
+  "85527": {
+    "population": 8693,
+    "elderly_count": 1135,
+    "homeless_count": 202,
+    "low_income_households": 2755
+  },
+  "85528": {
+    "population": 19397,
+    "elderly_count": 3834,
+    "homeless_count": 322,
+    "low_income_households": 4930
+  },
+  "85529": {
+    "population": 27009,
+    "elderly_count": 5652,
+    "homeless_count": 558,
+    "low_income_households": 9105
+  },
+  "85530": {
+    "population": 40223,
+    "elderly_count": 9574,
+    "homeless_count": 1098,
+    "low_income_households": 10507
+  },
+  "85531": {
+    "population": 15412,
+    "elderly_count": 2378,
+    "homeless_count": 618,
+    "low_income_households": 3668
+  },
+  "85532": {
+    "population": 13372,
+    "elderly_count": 1891,
+    "homeless_count": 460,
+    "low_income_households": 5160
+  },
+  "85533": {
+    "population": 15354,
+    "elderly_count": 1760,
+    "homeless_count": 578,
+    "low_income_households": 5651
+  },
+  "85534": {
+    "population": 10997,
+    "elderly_count": 1148,
+    "homeless_count": 546,
+    "low_income_households": 2435
+  },
+  "85535": {
+    "population": 18755,
+    "elderly_count": 2264,
+    "homeless_count": 595,
+    "low_income_households": 6708
+  },
+  "85536": {
+    "population": 14788,
+    "elderly_count": 2611,
+    "homeless_count": 531,
+    "low_income_households": 3086
+  },
+  "85537": {
+    "population": 49355,
+    "elderly_count": 7229,
+    "homeless_count": 1396,
+    "low_income_households": 13008
+  },
+  "85538": {
+    "population": 30628,
+    "elderly_count": 6026,
+    "homeless_count": 544,
+    "low_income_households": 10201
+  },
+  "85539": {
+    "population": 44511,
+    "elderly_count": 9483,
+    "homeless_count": 824,
+    "low_income_households": 10691
+  },
+  "85540": {
+    "population": 36019,
+    "elderly_count": 5395,
+    "homeless_count": 480,
+    "low_income_households": 12097
+  },
+  "85541": {
+    "population": 43345,
+    "elderly_count": 6916,
+    "homeless_count": 1330,
+    "low_income_households": 11684
+  },
+  "85542": {
+    "population": 11450,
+    "elderly_count": 1464,
+    "homeless_count": 542,
+    "low_income_households": 3300
+  },
+  "85543": {
+    "population": 26664,
+    "elderly_count": 3480,
+    "homeless_count": 911,
+    "low_income_households": 9531
+  },
+  "85544": {
+    "population": 10939,
+    "elderly_count": 1953,
+    "homeless_count": 299,
+    "low_income_households": 2525
+  },
+  "85545": {
+    "population": 32958,
+    "elderly_count": 7402,
+    "homeless_count": 449,
+    "low_income_households": 8835
+  },
+  "85546": {
+    "population": 24826,
+    "elderly_count": 3177,
+    "homeless_count": 528,
+    "low_income_households": 5152
+  },
+  "85547": {
+    "population": 45210,
+    "elderly_count": 5975,
+    "homeless_count": 1238,
+    "low_income_households": 15729
+  },
+  "85548": {
+    "population": 22954,
+    "elderly_count": 2836,
+    "homeless_count": 842,
+    "low_income_households": 6514
+  },
+  "85549": {
+    "population": 9420,
+    "elderly_count": 1707,
+    "homeless_count": 108,
+    "low_income_households": 3740
+  },
+  "85550": {
+    "population": 25388,
+    "elderly_count": 5678,
+    "homeless_count": 1015,
+    "low_income_households": 6997
+  },
+  "85551": {
+    "population": 35265,
+    "elderly_count": 3593,
+    "homeless_count": 1040,
+    "low_income_households": 13766
+  },
+  "85552": {
+    "population": 37712,
+    "elderly_count": 8214,
+    "homeless_count": 506,
+    "low_income_households": 11411
+  },
+  "85553": {
+    "population": 21940,
+    "elderly_count": 3004,
+    "homeless_count": 588,
+    "low_income_households": 6025
+  },
+  "85554": {
+    "population": 26110,
+    "elderly_count": 6157,
+    "homeless_count": 723,
+    "low_income_households": 8022
+  },
+  "85555": {
+    "population": 46664,
+    "elderly_count": 6285,
+    "homeless_count": 1445,
+    "low_income_households": 9364
+  },
+  "85556": {
+    "population": 40470,
+    "elderly_count": 5781,
+    "homeless_count": 602,
+    "low_income_households": 8862
+  },
+  "85557": {
+    "population": 38428,
+    "elderly_count": 8681,
+    "homeless_count": 519,
+    "low_income_households": 12650
+  },
+  "85558": {
+    "population": 47021,
+    "elderly_count": 6531,
+    "homeless_count": 1474,
+    "low_income_households": 14073
+  },
+  "85559": {
+    "population": 28659,
+    "elderly_count": 6749,
+    "homeless_count": 478,
+    "low_income_households": 9434
+  },
+  "85560": {
+    "population": 12788,
+    "elderly_count": 2902,
+    "homeless_count": 376,
+    "low_income_households": 4541
+  },
+  "85561": {
+    "population": 24233,
+    "elderly_count": 2786,
+    "homeless_count": 1067,
+    "low_income_households": 7939
+  },
+  "85562": {
+    "population": 11130,
+    "elderly_count": 1366,
+    "homeless_count": 522,
+    "low_income_households": 2668
+  },
+  "85563": {
+    "population": 39675,
+    "elderly_count": 4232,
+    "homeless_count": 728,
+    "low_income_households": 15447
+  },
+  "85564": {
+    "population": 36183,
+    "elderly_count": 4338,
+    "homeless_count": 1252,
+    "low_income_households": 13447
+  },
+  "85565": {
+    "population": 9765,
+    "elderly_count": 1417,
+    "homeless_count": 319,
+    "low_income_households": 2362
+  },
+  "85566": {
+    "population": 37888,
+    "elderly_count": 7908,
+    "homeless_count": 573,
+    "low_income_households": 12861
+  },
+  "85567": {
+    "population": 39945,
+    "elderly_count": 7623,
+    "homeless_count": 1825,
+    "low_income_households": 12743
+  },
+  "85568": {
+    "population": 24737,
+    "elderly_count": 4901,
+    "homeless_count": 1195,
+    "low_income_households": 6431
+  },
+  "85569": {
+    "population": 42206,
+    "elderly_count": 9731,
+    "homeless_count": 1466,
+    "low_income_households": 9569
+  },
+  "85570": {
+    "population": 37607,
+    "elderly_count": 5613,
+    "homeless_count": 891,
+    "low_income_households": 10975
+  },
+  "85571": {
+    "population": 14592,
+    "elderly_count": 1460,
+    "homeless_count": 239,
+    "low_income_households": 5217
+  },
+  "85572": {
+    "population": 49181,
+    "elderly_count": 6699,
+    "homeless_count": 1811,
+    "low_income_households": 16133
+  },
+  "85573": {
+    "population": 33075,
+    "elderly_count": 3362,
+    "homeless_count": 759,
+    "low_income_households": 9578
+  },
+  "85574": {
+    "population": 14212,
+    "elderly_count": 2574,
+    "homeless_count": 651,
+    "low_income_households": 4931
+  },
+  "85575": {
+    "population": 44441,
+    "elderly_count": 10342,
+    "homeless_count": 1248,
+    "low_income_households": 9724
+  },
+  "85576": {
+    "population": 19533,
+    "elderly_count": 2053,
+    "homeless_count": 209,
+    "low_income_households": 4839
+  },
+  "85577": {
+    "population": 22592,
+    "elderly_count": 4948,
+    "homeless_count": 337,
+    "low_income_households": 6953
+  },
+  "85578": {
+    "population": 45946,
+    "elderly_count": 4845,
+    "homeless_count": 1647,
+    "low_income_households": 10971
+  },
+  "85579": {
+    "population": 16725,
+    "elderly_count": 2751,
+    "homeless_count": 254,
+    "low_income_households": 4888
+  },
+  "85580": {
+    "population": 33331,
+    "elderly_count": 6307,
+    "homeless_count": 1140,
+    "low_income_households": 11840
+  },
+  "85581": {
+    "population": 30304,
+    "elderly_count": 5624,
+    "homeless_count": 1110,
+    "low_income_households": 9505
+  },
+  "85582": {
+    "population": 8304,
+    "elderly_count": 1338,
+    "homeless_count": 90,
+    "low_income_households": 2089
+  },
+  "85583": {
+    "population": 40405,
+    "elderly_count": 7518,
+    "homeless_count": 1898,
+    "low_income_households": 15094
+  },
+  "85584": {
+    "population": 37147,
+    "elderly_count": 7633,
+    "homeless_count": 669,
+    "low_income_households": 7461
+  },
+  "85585": {
+    "population": 31506,
+    "elderly_count": 4781,
+    "homeless_count": 930,
+    "low_income_households": 11539
+  },
+  "85586": {
+    "population": 48930,
+    "elderly_count": 10520,
+    "homeless_count": 1324,
+    "low_income_households": 12506
+  },
+  "85587": {
+    "population": 43914,
+    "elderly_count": 6295,
+    "homeless_count": 1517,
+    "low_income_households": 9136
+  },
+  "85588": {
+    "population": 25693,
+    "elderly_count": 4330,
+    "homeless_count": 550,
+    "low_income_households": 6667
+  },
+  "85589": {
+    "population": 29077,
+    "elderly_count": 5826,
+    "homeless_count": 292,
+    "low_income_households": 7232
+  },
+  "85590": {
+    "population": 10320,
+    "elderly_count": 1730,
+    "homeless_count": 424,
+    "low_income_households": 3064
+  },
+  "85591": {
+    "population": 25765,
+    "elderly_count": 4188,
+    "homeless_count": 452,
+    "low_income_households": 7252
+  },
+  "85592": {
+    "population": 15696,
+    "elderly_count": 3826,
+    "homeless_count": 428,
+    "low_income_households": 5061
+  },
+  "85593": {
+    "population": 32213,
+    "elderly_count": 5197,
+    "homeless_count": 557,
+    "low_income_households": 7329
+  },
+  "85594": {
+    "population": 43741,
+    "elderly_count": 6654,
+    "homeless_count": 1729,
+    "low_income_households": 9690
+  },
+  "85595": {
+    "population": 13587,
+    "elderly_count": 2362,
+    "homeless_count": 481,
+    "low_income_households": 2982
+  },
+  "85596": {
+    "population": 16800,
+    "elderly_count": 3316,
+    "homeless_count": 606,
+    "low_income_households": 5772
+  },
+  "85597": {
+    "population": 32041,
+    "elderly_count": 5112,
+    "homeless_count": 1600,
+    "low_income_households": 8014
+  },
+  "85598": {
+    "population": 46018,
+    "elderly_count": 4875,
+    "homeless_count": 1323,
+    "low_income_households": 11320
+  },
+  "85599": {
+    "population": 47534,
+    "elderly_count": 4939,
+    "homeless_count": 490,
+    "low_income_households": 13058
+  },
+  "85600": {
+    "population": 17205,
+    "elderly_count": 2995,
+    "homeless_count": 849,
+    "low_income_households": 6245
+  },
+  "85601": {
+    "population": 39511,
+    "elderly_count": 9611,
+    "homeless_count": 1867,
+    "low_income_households": 14154
+  },
+  "85602": {
+    "population": 45177,
+    "elderly_count": 10878,
+    "homeless_count": 1374,
+    "low_income_households": 11255
+  },
+  "85603": {
+    "population": 17296,
+    "elderly_count": 3952,
+    "homeless_count": 414,
+    "low_income_households": 5441
+  },
+  "85604": {
+    "population": 28565,
+    "elderly_count": 5755,
+    "homeless_count": 1399,
+    "low_income_households": 6330
+  },
+  "85605": {
+    "population": 38018,
+    "elderly_count": 8932,
+    "homeless_count": 1578,
+    "low_income_households": 8976
+  },
+  "85606": {
+    "population": 19382,
+    "elderly_count": 2565,
+    "homeless_count": 846,
+    "low_income_households": 6640
+  },
+  "85607": {
+    "population": 42748,
+    "elderly_count": 10164,
+    "homeless_count": 838,
+    "low_income_households": 12558
+  },
+  "85608": {
+    "population": 30402,
+    "elderly_count": 6581,
+    "homeless_count": 1405,
+    "low_income_households": 9181
+  },
+  "85609": {
+    "population": 8028,
+    "elderly_count": 1672,
+    "homeless_count": 151,
+    "low_income_households": 2660
+  },
+  "85610": {
+    "population": 46373,
+    "elderly_count": 7012,
+    "homeless_count": 753,
+    "low_income_households": 12523
+  },
+  "85611": {
+    "population": 27489,
+    "elderly_count": 6512,
+    "homeless_count": 997,
+    "low_income_households": 9310
+  },
+  "85612": {
+    "population": 26349,
+    "elderly_count": 6302,
+    "homeless_count": 397,
+    "low_income_households": 6037
+  },
+  "85613": {
+    "population": 26581,
+    "elderly_count": 4009,
+    "homeless_count": 1021,
+    "low_income_households": 9492
+  },
+  "85614": {
+    "population": 45096,
+    "elderly_count": 6642,
+    "homeless_count": 1243,
+    "low_income_households": 13479
+  },
+  "85615": {
+    "population": 22780,
+    "elderly_count": 2332,
+    "homeless_count": 320,
+    "low_income_households": 4999
+  },
+  "85616": {
+    "population": 11312,
+    "elderly_count": 1976,
+    "homeless_count": 565,
+    "low_income_households": 3145
+  },
+  "85617": {
+    "population": 8068,
+    "elderly_count": 1648,
+    "homeless_count": 347,
+    "low_income_households": 2141
+  },
+  "85618": {
+    "population": 42074,
+    "elderly_count": 6020,
+    "homeless_count": 1711,
+    "low_income_households": 13121
+  },
+  "85619": {
+    "population": 35862,
+    "elderly_count": 4463,
+    "homeless_count": 1317,
+    "low_income_households": 13919
+  },
+  "85620": {
+    "population": 15804,
+    "elderly_count": 1723,
+    "homeless_count": 498,
+    "low_income_households": 5585
+  },
+  "85621": {
+    "population": 47116,
+    "elderly_count": 10245,
+    "homeless_count": 1561,
+    "low_income_households": 10920
+  },
+  "85622": {
+    "population": 35657,
+    "elderly_count": 6300,
+    "homeless_count": 1627,
+    "low_income_households": 11672
+  },
+  "85623": {
+    "population": 11420,
+    "elderly_count": 1327,
+    "homeless_count": 177,
+    "low_income_households": 3596
+  },
+  "85624": {
+    "population": 34291,
+    "elderly_count": 3490,
+    "homeless_count": 1587,
+    "low_income_households": 10629
+  },
+  "85625": {
+    "population": 47951,
+    "elderly_count": 6676,
+    "homeless_count": 2330,
+    "low_income_households": 18445
+  },
+  "85626": {
+    "population": 48315,
+    "elderly_count": 12071,
+    "homeless_count": 1433,
+    "low_income_households": 12855
+  },
+  "85627": {
+    "population": 18211,
+    "elderly_count": 4426,
+    "homeless_count": 457,
+    "low_income_households": 4101
+  },
+  "85628": {
+    "population": 25553,
+    "elderly_count": 4095,
+    "homeless_count": 1230,
+    "low_income_households": 7800
+  },
+  "85629": {
+    "population": 15023,
+    "elderly_count": 2191,
+    "homeless_count": 688,
+    "low_income_households": 3362
+  },
+  "85630": {
+    "population": 17403,
+    "elderly_count": 3327,
+    "homeless_count": 383,
+    "low_income_households": 5513
+  },
+  "85631": {
+    "population": 11692,
+    "elderly_count": 1659,
+    "homeless_count": 376,
+    "low_income_households": 3519
+  },
+  "85632": {
+    "population": 16504,
+    "elderly_count": 4018,
+    "homeless_count": 710,
+    "low_income_households": 6056
+  },
+  "85633": {
+    "population": 24829,
+    "elderly_count": 2592,
+    "homeless_count": 937,
+    "low_income_households": 6368
+  },
+  "85634": {
+    "population": 19507,
+    "elderly_count": 3132,
+    "homeless_count": 348,
+    "low_income_households": 6994
+  },
+  "85635": {
+    "population": 19619,
+    "elderly_count": 2923,
+    "homeless_count": 745,
+    "low_income_households": 5919
+  },
+  "85636": {
+    "population": 49676,
+    "elderly_count": 9082,
+    "homeless_count": 1386,
+    "low_income_households": 12838
+  },
+  "85637": {
+    "population": 47006,
+    "elderly_count": 9945,
+    "homeless_count": 823,
+    "low_income_households": 16863
+  },
+  "85638": {
+    "population": 15828,
+    "elderly_count": 2631,
+    "homeless_count": 588,
+    "low_income_households": 4540
+  },
+  "85639": {
+    "population": 12146,
+    "elderly_count": 2676,
+    "homeless_count": 422,
+    "low_income_households": 3998
+  },
+  "85640": {
+    "population": 34964,
+    "elderly_count": 4931,
+    "homeless_count": 1597,
+    "low_income_households": 13299
+  },
+  "85641": {
+    "population": 10072,
+    "elderly_count": 1755,
+    "homeless_count": 257,
+    "low_income_households": 2946
+  },
+  "85642": {
+    "population": 44156,
+    "elderly_count": 9953,
+    "homeless_count": 2132,
+    "low_income_households": 14747
+  },
+  "85643": {
+    "population": 39567,
+    "elderly_count": 6737,
+    "homeless_count": 819,
+    "low_income_households": 8343
+  },
+  "85644": {
+    "population": 26887,
+    "elderly_count": 4047,
+    "homeless_count": 1033,
+    "low_income_households": 6184
+  },
+  "85645": {
+    "population": 17298,
+    "elderly_count": 3798,
+    "homeless_count": 558,
+    "low_income_households": 6481
+  },
+  "85646": {
+    "population": 13846,
+    "elderly_count": 2035,
+    "homeless_count": 340,
+    "low_income_households": 4378
+  },
+  "85647": {
+    "population": 25160,
+    "elderly_count": 2753,
+    "homeless_count": 1244,
+    "low_income_households": 9797
+  },
+  "85648": {
+    "population": 40765,
+    "elderly_count": 4999,
+    "homeless_count": 1664,
+    "low_income_households": 8978
+  },
+  "85649": {
+    "population": 31184,
+    "elderly_count": 7180,
+    "homeless_count": 1035,
+    "low_income_households": 10808
+  },
+  "85650": {
+    "population": 42009,
+    "elderly_count": 8368,
+    "homeless_count": 725,
+    "low_income_households": 13498
+  },
+  "85651": {
+    "population": 27024,
+    "elderly_count": 5347,
+    "homeless_count": 463,
+    "low_income_households": 10361
+  },
+  "85652": {
+    "population": 12260,
+    "elderly_count": 2273,
+    "homeless_count": 266,
+    "low_income_households": 3744
+  },
+  "85653": {
+    "population": 43519,
+    "elderly_count": 6764,
+    "homeless_count": 2114,
+    "low_income_households": 11427
+  },
+  "85654": {
+    "population": 23725,
+    "elderly_count": 5639,
+    "homeless_count": 610,
+    "low_income_households": 8086
+  },
+  "85655": {
+    "population": 11794,
+    "elderly_count": 1818,
+    "homeless_count": 555,
+    "low_income_households": 3658
+  },
+  "85656": {
+    "population": 15747,
+    "elderly_count": 3003,
+    "homeless_count": 252,
+    "low_income_households": 5015
+  },
+  "85657": {
+    "population": 44723,
+    "elderly_count": 5607,
+    "homeless_count": 984,
+    "low_income_households": 16623
+  },
+  "85658": {
+    "population": 42650,
+    "elderly_count": 8979,
+    "homeless_count": 1249,
+    "low_income_households": 14849
+  },
+  "85659": {
+    "population": 48640,
+    "elderly_count": 5235,
+    "homeless_count": 1413,
+    "low_income_households": 16336
+  },
+  "85660": {
+    "population": 36688,
+    "elderly_count": 8732,
+    "homeless_count": 730,
+    "low_income_households": 13941
+  },
+  "85661": {
+    "population": 17353,
+    "elderly_count": 2548,
+    "homeless_count": 689,
+    "low_income_households": 3586
+  },
+  "85662": {
+    "population": 22050,
+    "elderly_count": 4030,
+    "homeless_count": 827,
+    "low_income_households": 6185
+  },
+  "85663": {
+    "population": 41020,
+    "elderly_count": 5667,
+    "homeless_count": 1697,
+    "low_income_households": 10183
+  },
+  "85664": {
+    "population": 24681,
+    "elderly_count": 2903,
+    "homeless_count": 404,
+    "low_income_households": 8027
+  },
+  "85665": {
+    "population": 43525,
+    "elderly_count": 5845,
+    "homeless_count": 681,
+    "low_income_households": 11870
+  },
+  "85666": {
+    "population": 49751,
+    "elderly_count": 10233,
+    "homeless_count": 1160,
+    "low_income_households": 17173
+  },
+  "85667": {
+    "population": 16907,
+    "elderly_count": 2173,
+    "homeless_count": 353,
+    "low_income_households": 5594
+  },
+  "85668": {
+    "population": 26948,
+    "elderly_count": 5761,
+    "homeless_count": 616,
+    "low_income_households": 7923
+  },
+  "85669": {
+    "population": 11812,
+    "elderly_count": 1282,
+    "homeless_count": 563,
+    "low_income_households": 3836
+  },
+  "85670": {
+    "population": 37197,
+    "elderly_count": 8547,
+    "homeless_count": 733,
+    "low_income_households": 10436
+  },
+  "85671": {
+    "population": 27207,
+    "elderly_count": 4103,
+    "homeless_count": 331,
+    "low_income_households": 8514
+  },
+  "85672": {
+    "population": 47912,
+    "elderly_count": 9182,
+    "homeless_count": 1345,
+    "low_income_households": 13244
+  },
+  "85673": {
+    "population": 12212,
+    "elderly_count": 2618,
+    "homeless_count": 486,
+    "low_income_households": 2938
+  },
+  "85674": {
+    "population": 10843,
+    "elderly_count": 2075,
+    "homeless_count": 307,
+    "low_income_households": 3558
+  },
+  "85675": {
+    "population": 24531,
+    "elderly_count": 4517,
+    "homeless_count": 773,
+    "low_income_households": 7661
+  },
+  "85676": {
+    "population": 43677,
+    "elderly_count": 4999,
+    "homeless_count": 1382,
+    "low_income_households": 14968
+  },
+  "85677": {
+    "population": 25102,
+    "elderly_count": 5457,
+    "homeless_count": 739,
+    "low_income_households": 6375
+  },
+  "85678": {
+    "population": 29716,
+    "elderly_count": 7163,
+    "homeless_count": 933,
+    "low_income_households": 8748
+  },
+  "85679": {
+    "population": 36496,
+    "elderly_count": 7517,
+    "homeless_count": 708,
+    "low_income_households": 8065
+  },
+  "85680": {
+    "population": 19687,
+    "elderly_count": 2611,
+    "homeless_count": 848,
+    "low_income_households": 7102
+  },
+  "85681": {
+    "population": 21051,
+    "elderly_count": 3498,
+    "homeless_count": 333,
+    "low_income_households": 7677
+  },
+  "85682": {
+    "population": 23066,
+    "elderly_count": 4130,
+    "homeless_count": 1113,
+    "low_income_households": 5960
+  },
+  "85683": {
+    "population": 36509,
+    "elderly_count": 8366,
+    "homeless_count": 1014,
+    "low_income_households": 7375
+  },
+  "85684": {
+    "population": 48211,
+    "elderly_count": 9640,
+    "homeless_count": 645,
+    "low_income_households": 9835
+  },
+  "85685": {
+    "population": 17698,
+    "elderly_count": 2756,
+    "homeless_count": 695,
+    "low_income_households": 5485
+  },
+  "85686": {
+    "population": 24520,
+    "elderly_count": 4618,
+    "homeless_count": 1140,
+    "low_income_households": 7496
+  },
+  "85687": {
+    "population": 29941,
+    "elderly_count": 4254,
+    "homeless_count": 699,
+    "low_income_households": 8608
+  },
+  "85688": {
+    "population": 26795,
+    "elderly_count": 2801,
+    "homeless_count": 359,
+    "low_income_households": 10129
+  },
+  "85689": {
+    "population": 20870,
+    "elderly_count": 4261,
+    "homeless_count": 384,
+    "low_income_households": 5770
+  },
+  "85690": {
+    "population": 13223,
+    "elderly_count": 1838,
+    "homeless_count": 480,
+    "low_income_households": 3447
+  },
+  "85691": {
+    "population": 31674,
+    "elderly_count": 5278,
+    "homeless_count": 883,
+    "low_income_households": 8977
+  },
+  "85692": {
+    "population": 39189,
+    "elderly_count": 9608,
+    "homeless_count": 1103,
+    "low_income_households": 13915
+  },
+  "85693": {
+    "population": 34828,
+    "elderly_count": 4023,
+    "homeless_count": 1508,
+    "low_income_households": 10971
+  },
+  "85694": {
+    "population": 38825,
+    "elderly_count": 6266,
+    "homeless_count": 735,
+    "low_income_households": 13883
+  },
+  "85695": {
+    "population": 26713,
+    "elderly_count": 3110,
+    "homeless_count": 1216,
+    "low_income_households": 6686
+  },
+  "85696": {
+    "population": 39703,
+    "elderly_count": 4869,
+    "homeless_count": 1153,
+    "low_income_households": 11410
+  },
+  "85697": {
+    "population": 39462,
+    "elderly_count": 5066,
+    "homeless_count": 630,
+    "low_income_households": 10048
+  },
+  "85698": {
+    "population": 23793,
+    "elderly_count": 5248,
+    "homeless_count": 1068,
+    "low_income_households": 6064
+  },
+  "85699": {
+    "population": 43006,
+    "elderly_count": 8130,
+    "homeless_count": 1890,
+    "low_income_households": 10461
+  },
+  "85700": {
+    "population": 15349,
+    "elderly_count": 3499,
+    "homeless_count": 755,
+    "low_income_households": 3555
+  },
+  "85701": {
+    "population": 16810,
+    "elderly_count": 3294,
+    "homeless_count": 349,
+    "low_income_households": 4899
+  },
+  "85702": {
+    "population": 17380,
+    "elderly_count": 2629,
+    "homeless_count": 488,
+    "low_income_households": 5858
+  },
+  "85703": {
+    "population": 48939,
+    "elderly_count": 10599,
+    "homeless_count": 690,
+    "low_income_households": 16541
+  },
+  "85704": {
+    "population": 49031,
+    "elderly_count": 9503,
+    "homeless_count": 985,
+    "low_income_households": 19240
+  },
+  "85705": {
+    "population": 49464,
+    "elderly_count": 6982,
+    "homeless_count": 695,
+    "low_income_households": 13886
+  },
+  "85706": {
+    "population": 18988,
+    "elderly_count": 3980,
+    "homeless_count": 681,
+    "low_income_households": 6413
+  },
+  "85707": {
+    "population": 22760,
+    "elderly_count": 3233,
+    "homeless_count": 881,
+    "low_income_households": 6748
+  },
+  "85708": {
+    "population": 40429,
+    "elderly_count": 9448,
+    "homeless_count": 1160,
+    "low_income_households": 8106
+  },
+  "85709": {
+    "population": 9183,
+    "elderly_count": 1710,
+    "homeless_count": 272,
+    "low_income_households": 2019
+  },
+  "85710": {
+    "population": 34600,
+    "elderly_count": 6775,
+    "homeless_count": 1453,
+    "low_income_households": 8871
+  },
+  "85711": {
+    "population": 18032,
+    "elderly_count": 2495,
+    "homeless_count": 244,
+    "low_income_households": 6221
+  },
+  "85712": {
+    "population": 36420,
+    "elderly_count": 7882,
+    "homeless_count": 1450,
+    "low_income_households": 11901
+  },
+  "85713": {
+    "population": 42788,
+    "elderly_count": 9317,
+    "homeless_count": 1170,
+    "low_income_households": 15090
+  },
+  "85714": {
+    "population": 39478,
+    "elderly_count": 8390,
+    "homeless_count": 1784,
+    "low_income_households": 12745
+  },
+  "85715": {
+    "population": 30589,
+    "elderly_count": 4474,
+    "homeless_count": 651,
+    "low_income_households": 8279
+  },
+  "85716": {
+    "population": 37199,
+    "elderly_count": 7136,
+    "homeless_count": 638,
+    "low_income_households": 13241
+  },
+  "85717": {
+    "population": 43588,
+    "elderly_count": 10646,
+    "homeless_count": 1658,
+    "low_income_households": 10639
+  },
+  "85718": {
+    "population": 45897,
+    "elderly_count": 9602,
+    "homeless_count": 1500,
+    "low_income_households": 16648
+  },
+  "85719": {
+    "population": 8957,
+    "elderly_count": 2164,
+    "homeless_count": 330,
+    "low_income_households": 2508
+  },
+  "85720": {
+    "population": 20904,
+    "elderly_count": 4393,
+    "homeless_count": 460,
+    "low_income_households": 5029
+  },
+  "85721": {
+    "population": 30970,
+    "elderly_count": 6138,
+    "homeless_count": 921,
+    "low_income_households": 11443
+  },
+  "85722": {
+    "population": 18372,
+    "elderly_count": 3826,
+    "homeless_count": 571,
+    "low_income_households": 4027
+  },
+  "85723": {
+    "population": 26387,
+    "elderly_count": 3409,
+    "homeless_count": 839,
+    "low_income_households": 8802
+  },
+  "85724": {
+    "population": 35997,
+    "elderly_count": 5710,
+    "homeless_count": 825,
+    "low_income_households": 11476
+  },
+  "85725": {
+    "population": 37327,
+    "elderly_count": 9185,
+    "homeless_count": 1783,
+    "low_income_households": 13713
+  },
+  "85726": {
+    "population": 19242,
+    "elderly_count": 4538,
+    "homeless_count": 441,
+    "low_income_households": 5714
+  },
+  "85727": {
+    "population": 38430,
+    "elderly_count": 9013,
+    "homeless_count": 1489,
+    "low_income_households": 9266
+  },
+  "85728": {
+    "population": 32326,
+    "elderly_count": 7411,
+    "homeless_count": 939,
+    "low_income_households": 6976
+  },
+  "85729": {
+    "population": 26316,
+    "elderly_count": 4678,
+    "homeless_count": 588,
+    "low_income_households": 5797
+  },
+  "85730": {
+    "population": 33427,
+    "elderly_count": 5762,
+    "homeless_count": 1455,
+    "low_income_households": 8644
+  },
+  "85731": {
+    "population": 43353,
+    "elderly_count": 10439,
+    "homeless_count": 1088,
+    "low_income_households": 9902
+  },
+  "85732": {
+    "population": 30975,
+    "elderly_count": 6411,
+    "homeless_count": 1044,
+    "low_income_households": 9985
+  },
+  "85733": {
+    "population": 42868,
+    "elderly_count": 8909,
+    "homeless_count": 1866,
+    "low_income_households": 9568
+  },
+  "85734": {
+    "population": 29882,
+    "elderly_count": 6991,
+    "homeless_count": 411,
+    "low_income_households": 9479
+  },
+  "85735": {
+    "population": 18335,
+    "elderly_count": 2428,
+    "homeless_count": 378,
+    "low_income_households": 7321
+  },
+  "85736": {
+    "population": 37802,
+    "elderly_count": 8206,
+    "homeless_count": 897,
+    "low_income_households": 8515
+  },
+  "85737": {
+    "population": 38277,
+    "elderly_count": 4468,
+    "homeless_count": 1773,
+    "low_income_households": 12341
+  },
+  "85738": {
+    "population": 22465,
+    "elderly_count": 4594,
+    "homeless_count": 1036,
+    "low_income_households": 6801
+  },
+  "85739": {
+    "population": 29224,
+    "elderly_count": 5807,
+    "homeless_count": 1184,
+    "low_income_households": 5946
+  },
+  "85740": {
+    "population": 42919,
+    "elderly_count": 8698,
+    "homeless_count": 790,
+    "low_income_households": 9891
+  },
+  "85741": {
+    "population": 26808,
+    "elderly_count": 6442,
+    "homeless_count": 694,
+    "low_income_households": 7741
+  },
+  "85742": {
+    "population": 36368,
+    "elderly_count": 4256,
+    "homeless_count": 1300,
+    "low_income_households": 7735
+  },
+  "85743": {
+    "population": 19541,
+    "elderly_count": 3113,
+    "homeless_count": 684,
+    "low_income_households": 7010
+  },
+  "85744": {
+    "population": 29840,
+    "elderly_count": 6071,
+    "homeless_count": 903,
+    "low_income_households": 10242
+  },
+  "85745": {
+    "population": 39745,
+    "elderly_count": 4619,
+    "homeless_count": 1834,
+    "low_income_households": 12365
+  },
+  "85746": {
+    "population": 35995,
+    "elderly_count": 7789,
+    "homeless_count": 1723,
+    "low_income_households": 11648
+  },
+  "85747": {
+    "population": 42077,
+    "elderly_count": 9959,
+    "homeless_count": 1365,
+    "low_income_households": 8616
+  },
+  "85748": {
+    "population": 36700,
+    "elderly_count": 4805,
+    "homeless_count": 1289,
+    "low_income_households": 13674
+  },
+  "85749": {
+    "population": 40629,
+    "elderly_count": 10052,
+    "homeless_count": 1581,
+    "low_income_households": 11300
+  },
+  "85750": {
+    "population": 17865,
+    "elderly_count": 3248,
+    "homeless_count": 788,
+    "low_income_households": 3699
+  },
+  "85751": {
+    "population": 14748,
+    "elderly_count": 3138,
+    "homeless_count": 319,
+    "low_income_households": 3972
+  },
+  "85752": {
+    "population": 23586,
+    "elderly_count": 3156,
+    "homeless_count": 1108,
+    "low_income_households": 7545
+  },
+  "85753": {
+    "population": 15602,
+    "elderly_count": 3121,
+    "homeless_count": 605,
+    "low_income_households": 4371
+  },
+  "85754": {
+    "population": 45912,
+    "elderly_count": 10124,
+    "homeless_count": 1100,
+    "low_income_households": 16523
+  },
+  "85755": {
+    "population": 30294,
+    "elderly_count": 6148,
+    "homeless_count": 857,
+    "low_income_households": 9022
+  },
+  "85756": {
+    "population": 22132,
+    "elderly_count": 2945,
+    "homeless_count": 928,
+    "low_income_households": 6102
+  },
+  "85757": {
+    "population": 38831,
+    "elderly_count": 6326,
+    "homeless_count": 877,
+    "low_income_households": 9486
+  },
+  "85758": {
+    "population": 30856,
+    "elderly_count": 6247,
+    "homeless_count": 608,
+    "low_income_households": 10739
+  },
+  "85759": {
+    "population": 34887,
+    "elderly_count": 4737,
+    "homeless_count": 1650,
+    "low_income_households": 13954
+  },
+  "85760": {
+    "population": 41968,
+    "elderly_count": 8374,
+    "homeless_count": 610,
+    "low_income_households": 13895
+  },
+  "85761": {
+    "population": 34032,
+    "elderly_count": 7817,
+    "homeless_count": 1402,
+    "low_income_households": 12174
+  },
+  "85762": {
+    "population": 36331,
+    "elderly_count": 5698,
+    "homeless_count": 1340,
+    "low_income_households": 14366
+  },
+  "85763": {
+    "population": 29723,
+    "elderly_count": 4411,
+    "homeless_count": 496,
+    "low_income_households": 7077
+  },
+  "85764": {
+    "population": 32094,
+    "elderly_count": 4516,
+    "homeless_count": 380,
+    "low_income_households": 7526
+  },
+  "85765": {
+    "population": 11081,
+    "elderly_count": 1409,
+    "homeless_count": 296,
+    "low_income_households": 3324
+  },
+  "85766": {
+    "population": 45411,
+    "elderly_count": 7146,
+    "homeless_count": 988,
+    "low_income_households": 10999
+  },
+  "85767": {
+    "population": 27315,
+    "elderly_count": 4751,
+    "homeless_count": 861,
+    "low_income_households": 7590
+  },
+  "85768": {
+    "population": 49972,
+    "elderly_count": 10443,
+    "homeless_count": 846,
+    "low_income_households": 19466
+  },
+  "85769": {
+    "population": 43123,
+    "elderly_count": 5593,
+    "homeless_count": 1180,
+    "low_income_households": 14386
+  },
+  "85770": {
+    "population": 23414,
+    "elderly_count": 3520,
+    "homeless_count": 885,
+    "low_income_households": 6810
+  },
+  "85771": {
+    "population": 40503,
+    "elderly_count": 7086,
+    "homeless_count": 1768,
+    "low_income_households": 12822
+  },
+  "85772": {
+    "population": 41531,
+    "elderly_count": 9006,
+    "homeless_count": 833,
+    "low_income_households": 11826
+  },
+  "85773": {
+    "population": 39027,
+    "elderly_count": 5947,
+    "homeless_count": 1779,
+    "low_income_households": 11422
+  },
+  "85774": {
+    "population": 9053,
+    "elderly_count": 1962,
+    "homeless_count": 95,
+    "low_income_households": 3196
+  },
+  "85775": {
+    "population": 16120,
+    "elderly_count": 2848,
+    "homeless_count": 670,
+    "low_income_households": 3249
+  },
+  "85776": {
+    "population": 14639,
+    "elderly_count": 2012,
+    "homeless_count": 467,
+    "low_income_households": 3069
+  },
+  "85777": {
+    "population": 29233,
+    "elderly_count": 4975,
+    "homeless_count": 1273,
+    "low_income_households": 7896
+  },
+  "85778": {
+    "population": 43509,
+    "elderly_count": 6082,
+    "homeless_count": 2063,
+    "low_income_households": 11142
+  },
+  "85779": {
+    "population": 43536,
+    "elderly_count": 5821,
+    "homeless_count": 1238,
+    "low_income_households": 11528
+  },
+  "85780": {
+    "population": 12849,
+    "elderly_count": 2715,
+    "homeless_count": 588,
+    "low_income_households": 2795
+  },
+  "85781": {
+    "population": 31860,
+    "elderly_count": 6692,
+    "homeless_count": 1232,
+    "low_income_households": 8295
+  },
+  "85782": {
+    "population": 21699,
+    "elderly_count": 3464,
+    "homeless_count": 561,
+    "low_income_households": 7228
+  },
+  "85783": {
+    "population": 24182,
+    "elderly_count": 4061,
+    "homeless_count": 653,
+    "low_income_households": 6212
+  },
+  "85784": {
+    "population": 32834,
+    "elderly_count": 5603,
+    "homeless_count": 1638,
+    "low_income_households": 12155
+  },
+  "85785": {
+    "population": 45291,
+    "elderly_count": 10191,
+    "homeless_count": 1524,
+    "low_income_households": 9424
+  },
+  "85786": {
+    "population": 37814,
+    "elderly_count": 6294,
+    "homeless_count": 1339,
+    "low_income_households": 14400
+  },
+  "85787": {
+    "population": 36435,
+    "elderly_count": 6742,
+    "homeless_count": 495,
+    "low_income_households": 14174
+  },
+  "85788": {
+    "population": 25689,
+    "elderly_count": 4943,
+    "homeless_count": 774,
+    "low_income_households": 5263
+  },
+  "85789": {
+    "population": 31505,
+    "elderly_count": 4033,
+    "homeless_count": 1347,
+    "low_income_households": 10305
+  },
+  "85790": {
+    "population": 21083,
+    "elderly_count": 3457,
+    "homeless_count": 782,
+    "low_income_households": 5121
+  },
+  "85791": {
+    "population": 30088,
+    "elderly_count": 6800,
+    "homeless_count": 442,
+    "low_income_households": 7738
+  },
+  "85792": {
+    "population": 16228,
+    "elderly_count": 3710,
+    "homeless_count": 565,
+    "low_income_households": 5825
+  },
+  "85793": {
+    "population": 40757,
+    "elderly_count": 5873,
+    "homeless_count": 831,
+    "low_income_households": 16107
+  },
+  "85794": {
+    "population": 17248,
+    "elderly_count": 3172,
+    "homeless_count": 716,
+    "low_income_households": 3839
+  },
+  "85795": {
+    "population": 24849,
+    "elderly_count": 5504,
+    "homeless_count": 501,
+    "low_income_households": 9065
+  },
+  "85796": {
+    "population": 11720,
+    "elderly_count": 2655,
+    "homeless_count": 170,
+    "low_income_households": 3741
+  },
+  "85797": {
+    "population": 35570,
+    "elderly_count": 6469,
+    "homeless_count": 881,
+    "low_income_households": 12793
+  },
+  "85798": {
+    "population": 28568,
+    "elderly_count": 6874,
+    "homeless_count": 1285,
+    "low_income_households": 9010
+  },
+  "85799": {
+    "population": 42690,
+    "elderly_count": 10258,
+    "homeless_count": 891,
+    "low_income_households": 16614
+  },
+  "85800": {
+    "population": 43828,
+    "elderly_count": 6901,
+    "homeless_count": 959,
+    "low_income_households": 15632
+  },
+  "85801": {
+    "population": 44145,
+    "elderly_count": 4838,
+    "homeless_count": 1362,
+    "low_income_households": 16220
+  },
+  "85802": {
+    "population": 45314,
+    "elderly_count": 7925,
+    "homeless_count": 1760,
+    "low_income_households": 17366
+  },
+  "85803": {
+    "population": 32014,
+    "elderly_count": 6076,
+    "homeless_count": 415,
+    "low_income_households": 7578
+  },
+  "85804": {
+    "population": 18525,
+    "elderly_count": 3049,
+    "homeless_count": 524,
+    "low_income_households": 4311
+  },
+  "85805": {
+    "population": 39127,
+    "elderly_count": 4623,
+    "homeless_count": 907,
+    "low_income_households": 12624
+  },
+  "85806": {
+    "population": 31113,
+    "elderly_count": 4706,
+    "homeless_count": 383,
+    "low_income_households": 10765
+  },
+  "85807": {
+    "population": 32741,
+    "elderly_count": 3630,
+    "homeless_count": 867,
+    "low_income_households": 13085
+  },
+  "85808": {
+    "population": 12340,
+    "elderly_count": 1251,
+    "homeless_count": 462,
+    "low_income_households": 3875
+  },
+  "85809": {
+    "population": 24578,
+    "elderly_count": 3317,
+    "homeless_count": 954,
+    "low_income_households": 4968
+  },
+  "85810": {
+    "population": 9062,
+    "elderly_count": 1717,
+    "homeless_count": 452,
+    "low_income_households": 2071
+  },
+  "85811": {
+    "population": 14074,
+    "elderly_count": 1833,
+    "homeless_count": 657,
+    "low_income_households": 5147
+  },
+  "85812": {
+    "population": 32074,
+    "elderly_count": 6927,
+    "homeless_count": 1434,
+    "low_income_households": 8509
+  },
+  "85813": {
+    "population": 31899,
+    "elderly_count": 4574,
+    "homeless_count": 1357,
+    "low_income_households": 10601
+  },
+  "85814": {
+    "population": 19898,
+    "elderly_count": 2307,
+    "homeless_count": 403,
+    "low_income_households": 4722
+  },
+  "85815": {
+    "population": 13401,
+    "elderly_count": 3012,
+    "homeless_count": 610,
+    "low_income_households": 3944
+  },
+  "85816": {
+    "population": 34453,
+    "elderly_count": 6845,
+    "homeless_count": 723,
+    "low_income_households": 11693
+  },
+  "85817": {
+    "population": 23220,
+    "elderly_count": 5383,
+    "homeless_count": 572,
+    "low_income_households": 8574
+  },
+  "85818": {
+    "population": 37541,
+    "elderly_count": 4335,
+    "homeless_count": 1576,
+    "low_income_households": 8750
+  },
+  "85819": {
+    "population": 10247,
+    "elderly_count": 1683,
+    "homeless_count": 483,
+    "low_income_households": 4047
+  },
+  "85820": {
+    "population": 45969,
+    "elderly_count": 7972,
+    "homeless_count": 492,
+    "low_income_households": 9373
+  },
+  "85821": {
+    "population": 32816,
+    "elderly_count": 6169,
+    "homeless_count": 453,
+    "low_income_households": 6812
+  },
+  "85822": {
+    "population": 33150,
+    "elderly_count": 5505,
+    "homeless_count": 962,
+    "low_income_households": 8321
+  },
+  "85823": {
+    "population": 34283,
+    "elderly_count": 7959,
+    "homeless_count": 942,
+    "low_income_households": 11273
+  },
+  "85824": {
+    "population": 22724,
+    "elderly_count": 3126,
+    "homeless_count": 688,
+    "low_income_households": 8230
+  },
+  "85825": {
+    "population": 42782,
+    "elderly_count": 6668,
+    "homeless_count": 1374,
+    "low_income_households": 12422
+  },
+  "85826": {
+    "population": 20405,
+    "elderly_count": 3716,
+    "homeless_count": 389,
+    "low_income_households": 4555
+  },
+  "85827": {
+    "population": 48931,
+    "elderly_count": 5800,
+    "homeless_count": 1111,
+    "low_income_households": 13681
+  },
+  "85828": {
+    "population": 18804,
+    "elderly_count": 3393,
+    "homeless_count": 447,
+    "low_income_households": 7004
+  },
+  "85829": {
+    "population": 37644,
+    "elderly_count": 4548,
+    "homeless_count": 1197,
+    "low_income_households": 13684
+  },
+  "85830": {
+    "population": 35070,
+    "elderly_count": 7608,
+    "homeless_count": 1332,
+    "low_income_households": 9953
+  },
+  "85831": {
+    "population": 17154,
+    "elderly_count": 3779,
+    "homeless_count": 544,
+    "low_income_households": 5878
+  },
+  "85832": {
+    "population": 46113,
+    "elderly_count": 9299,
+    "homeless_count": 2278,
+    "low_income_households": 9700
+  },
+  "85833": {
+    "population": 46119,
+    "elderly_count": 6247,
+    "homeless_count": 1345,
+    "low_income_households": 11419
+  },
+  "85834": {
+    "population": 28876,
+    "elderly_count": 4677,
+    "homeless_count": 1330,
+    "low_income_households": 6432
+  },
+  "85835": {
+    "population": 40224,
+    "elderly_count": 6913,
+    "homeless_count": 1804,
+    "low_income_households": 13371
+  },
+  "85836": {
+    "population": 20148,
+    "elderly_count": 2454,
+    "homeless_count": 426,
+    "low_income_households": 4398
+  },
+  "85837": {
+    "population": 33696,
+    "elderly_count": 5135,
+    "homeless_count": 502,
+    "low_income_households": 8290
+  },
+  "85838": {
+    "population": 44956,
+    "elderly_count": 4545,
+    "homeless_count": 1054,
+    "low_income_households": 11392
+  },
+  "85839": {
+    "population": 42929,
+    "elderly_count": 9458,
+    "homeless_count": 931,
+    "low_income_households": 15732
+  },
+  "85840": {
+    "population": 19727,
+    "elderly_count": 2018,
+    "homeless_count": 753,
+    "low_income_households": 5120
+  },
+  "85841": {
+    "population": 18232,
+    "elderly_count": 4019,
+    "homeless_count": 707,
+    "low_income_households": 4057
+  },
+  "85842": {
+    "population": 10675,
+    "elderly_count": 1374,
+    "homeless_count": 213,
+    "low_income_households": 2318
+  },
+  "85843": {
+    "population": 39961,
+    "elderly_count": 4619,
+    "homeless_count": 1880,
+    "low_income_households": 13277
+  },
+  "85844": {
+    "population": 38193,
+    "elderly_count": 9436,
+    "homeless_count": 661,
+    "low_income_households": 7999
+  },
+  "85845": {
+    "population": 46690,
+    "elderly_count": 7839,
+    "homeless_count": 548,
+    "low_income_households": 18509
+  },
+  "85846": {
+    "population": 30707,
+    "elderly_count": 4802,
+    "homeless_count": 348,
+    "low_income_households": 8838
+  },
+  "85847": {
+    "population": 24346,
+    "elderly_count": 3591,
+    "homeless_count": 488,
+    "low_income_households": 9152
+  },
+  "85848": {
+    "population": 11794,
+    "elderly_count": 2730,
+    "homeless_count": 472,
+    "low_income_households": 2914
+  },
+  "85849": {
+    "population": 25709,
+    "elderly_count": 5136,
+    "homeless_count": 642,
+    "low_income_households": 8548
+  },
+  "85850": {
+    "population": 48876,
+    "elderly_count": 8366,
+    "homeless_count": 2065,
+    "low_income_households": 17008
+  },
+  "85851": {
+    "population": 22462,
+    "elderly_count": 2486,
+    "homeless_count": 1068,
+    "low_income_households": 8424
+  },
+  "85852": {
+    "population": 34388,
+    "elderly_count": 6797,
+    "homeless_count": 998,
+    "low_income_households": 11107
+  },
+  "85853": {
+    "population": 29308,
+    "elderly_count": 4585,
+    "homeless_count": 688,
+    "low_income_households": 8895
+  },
+  "85854": {
+    "population": 10897,
+    "elderly_count": 1416,
+    "homeless_count": 122,
+    "low_income_households": 2184
+  },
+  "85855": {
+    "population": 38911,
+    "elderly_count": 8306,
+    "homeless_count": 940,
+    "low_income_households": 8766
+  },
+  "85856": {
+    "population": 18633,
+    "elderly_count": 2904,
+    "homeless_count": 505,
+    "low_income_households": 5186
+  },
+  "85857": {
+    "population": 24622,
+    "elderly_count": 5486,
+    "homeless_count": 520,
+    "low_income_households": 9546
+  },
+  "85858": {
+    "population": 19509,
+    "elderly_count": 4487,
+    "homeless_count": 293,
+    "low_income_households": 6997
+  },
+  "85859": {
+    "population": 27758,
+    "elderly_count": 6856,
+    "homeless_count": 664,
+    "low_income_households": 8591
+  },
+  "85860": {
+    "population": 38826,
+    "elderly_count": 8370,
+    "homeless_count": 1710,
+    "low_income_households": 9002
+  },
+  "85861": {
+    "population": 43567,
+    "elderly_count": 8532,
+    "homeless_count": 1320,
+    "low_income_households": 15699
+  },
+  "85862": {
+    "population": 13915,
+    "elderly_count": 3363,
+    "homeless_count": 423,
+    "low_income_households": 2822
+  },
+  "85863": {
+    "population": 46558,
+    "elderly_count": 11439,
+    "homeless_count": 1474,
+    "low_income_households": 13110
+  },
+  "85864": {
+    "population": 29101,
+    "elderly_count": 6552,
+    "homeless_count": 955,
+    "low_income_households": 6463
+  },
+  "85865": {
+    "population": 21011,
+    "elderly_count": 3698,
+    "homeless_count": 657,
+    "low_income_households": 5290
+  },
+  "85866": {
+    "population": 14972,
+    "elderly_count": 2298,
+    "homeless_count": 378,
+    "low_income_households": 5040
+  },
+  "85867": {
+    "population": 35773,
+    "elderly_count": 3896,
+    "homeless_count": 1249,
+    "low_income_households": 13726
+  },
+  "85868": {
+    "population": 27996,
+    "elderly_count": 2851,
+    "homeless_count": 1114,
+    "low_income_households": 8578
+  },
+  "85869": {
+    "population": 38655,
+    "elderly_count": 5569,
+    "homeless_count": 1208,
+    "low_income_households": 13296
+  },
+  "85870": {
+    "population": 20069,
+    "elderly_count": 2041,
+    "homeless_count": 493,
+    "low_income_households": 5153
+  },
+  "85871": {
+    "population": 32319,
+    "elderly_count": 3376,
+    "homeless_count": 758,
+    "low_income_households": 10522
+  },
+  "85872": {
+    "population": 37138,
+    "elderly_count": 4835,
+    "homeless_count": 414,
+    "low_income_households": 8253
+  },
+  "85873": {
+    "population": 36052,
+    "elderly_count": 7847,
+    "homeless_count": 773,
+    "low_income_households": 12739
+  },
+  "85874": {
+    "population": 28337,
+    "elderly_count": 3972,
+    "homeless_count": 1351,
+    "low_income_households": 10063
+  },
+  "85875": {
+    "population": 13129,
+    "elderly_count": 1422,
+    "homeless_count": 611,
+    "low_income_households": 2912
+  },
+  "85876": {
+    "population": 29712,
+    "elderly_count": 5674,
+    "homeless_count": 1226,
+    "low_income_households": 7662
+  },
+  "85877": {
+    "population": 18565,
+    "elderly_count": 4417,
+    "homeless_count": 668,
+    "low_income_households": 5471
+  },
+  "85878": {
+    "population": 37392,
+    "elderly_count": 8019,
+    "homeless_count": 412,
+    "low_income_households": 12127
+  },
+  "85879": {
+    "population": 16735,
+    "elderly_count": 2903,
+    "homeless_count": 455,
+    "low_income_households": 4368
+  },
+  "85880": {
+    "population": 46563,
+    "elderly_count": 10343,
+    "homeless_count": 2188,
+    "low_income_households": 17546
+  },
+  "85881": {
+    "population": 48693,
+    "elderly_count": 11533,
+    "homeless_count": 1257,
+    "low_income_households": 16162
+  },
+  "85882": {
+    "population": 25469,
+    "elderly_count": 4465,
+    "homeless_count": 1072,
+    "low_income_households": 7406
+  },
+  "85883": {
+    "population": 17994,
+    "elderly_count": 4235,
+    "homeless_count": 316,
+    "low_income_households": 4881
+  },
+  "85884": {
+    "population": 37004,
+    "elderly_count": 6741,
+    "homeless_count": 980,
+    "low_income_households": 8622
+  },
+  "85885": {
+    "population": 17639,
+    "elderly_count": 4204,
+    "homeless_count": 854,
+    "low_income_households": 3749
+  },
+  "85886": {
+    "population": 15394,
+    "elderly_count": 1687,
+    "homeless_count": 471,
+    "low_income_households": 4339
+  },
+  "85887": {
+    "population": 44671,
+    "elderly_count": 10710,
+    "homeless_count": 654,
+    "low_income_households": 12582
+  },
+  "85888": {
+    "population": 47280,
+    "elderly_count": 7308,
+    "homeless_count": 1645,
+    "low_income_households": 17471
+  },
+  "85889": {
+    "population": 19672,
+    "elderly_count": 4435,
+    "homeless_count": 522,
+    "low_income_households": 4355
+  },
+  "85890": {
+    "population": 17615,
+    "elderly_count": 4002,
+    "homeless_count": 385,
+    "low_income_households": 3985
+  },
+  "85891": {
+    "population": 44907,
+    "elderly_count": 6777,
+    "homeless_count": 710,
+    "low_income_households": 13376
+  },
+  "85892": {
+    "population": 21330,
+    "elderly_count": 2274,
+    "homeless_count": 1047,
+    "low_income_households": 5262
+  },
+  "85893": {
+    "population": 13982,
+    "elderly_count": 1714,
+    "homeless_count": 624,
+    "low_income_households": 4325
+  },
+  "85894": {
+    "population": 43841,
+    "elderly_count": 5845,
+    "homeless_count": 1026,
+    "low_income_households": 16889
+  },
+  "85895": {
+    "population": 17243,
+    "elderly_count": 3286,
+    "homeless_count": 297,
+    "low_income_households": 4195
+  },
+  "85896": {
+    "population": 35809,
+    "elderly_count": 4257,
+    "homeless_count": 1764,
+    "low_income_households": 9474
+  },
+  "85897": {
+    "population": 37729,
+    "elderly_count": 5128,
+    "homeless_count": 1060,
+    "low_income_households": 13542
+  },
+  "85898": {
+    "population": 17400,
+    "elderly_count": 3631,
+    "homeless_count": 443,
+    "low_income_households": 6123
+  },
+  "85899": {
+    "population": 11630,
+    "elderly_count": 1457,
+    "homeless_count": 460,
+    "low_income_households": 4484
+  },
+  "85900": {
+    "population": 9354,
+    "elderly_count": 1204,
+    "homeless_count": 243,
+    "low_income_households": 3501
+  },
+  "85901": {
+    "population": 14727,
+    "elderly_count": 3506,
+    "homeless_count": 384,
+    "low_income_households": 3025
+  },
+  "85902": {
+    "population": 13138,
+    "elderly_count": 1466,
+    "homeless_count": 468,
+    "low_income_households": 4940
+  },
+  "85903": {
+    "population": 45562,
+    "elderly_count": 8106,
+    "homeless_count": 1582,
+    "low_income_households": 14841
+  },
+  "85904": {
+    "population": 24563,
+    "elderly_count": 4095,
+    "homeless_count": 797,
+    "low_income_households": 6418
+  },
+  "85905": {
+    "population": 17856,
+    "elderly_count": 3903,
+    "homeless_count": 739,
+    "low_income_households": 7034
+  },
+  "85906": {
+    "population": 30878,
+    "elderly_count": 3880,
+    "homeless_count": 919,
+    "low_income_households": 9173
+  },
+  "85907": {
+    "population": 36776,
+    "elderly_count": 5984,
+    "homeless_count": 1656,
+    "low_income_households": 11994
+  },
+  "85908": {
+    "population": 23079,
+    "elderly_count": 5256,
+    "homeless_count": 857,
+    "low_income_households": 5832
+  },
+  "85909": {
+    "population": 13850,
+    "elderly_count": 2050,
+    "homeless_count": 283,
+    "low_income_households": 4409
+  },
+  "85910": {
+    "population": 33454,
+    "elderly_count": 6231,
+    "homeless_count": 340,
+    "low_income_households": 7183
+  },
+  "85911": {
+    "population": 36705,
+    "elderly_count": 4067,
+    "homeless_count": 1063,
+    "low_income_households": 11913
+  },
+  "85912": {
+    "population": 29932,
+    "elderly_count": 3304,
+    "homeless_count": 1470,
+    "low_income_households": 6910
+  },
+  "85913": {
+    "population": 18560,
+    "elderly_count": 3761,
+    "homeless_count": 247,
+    "low_income_households": 3754
+  },
+  "85914": {
+    "population": 28233,
+    "elderly_count": 6957,
+    "homeless_count": 284,
+    "low_income_households": 8027
+  },
+  "85915": {
+    "population": 18292,
+    "elderly_count": 1948,
+    "homeless_count": 663,
+    "low_income_households": 6179
+  },
+  "85916": {
+    "population": 46197,
+    "elderly_count": 5228,
+    "homeless_count": 1379,
+    "low_income_households": 16139
+  },
+  "85917": {
+    "population": 11604,
+    "elderly_count": 1738,
+    "homeless_count": 475,
+    "low_income_households": 2856
+  },
+  "85918": {
+    "population": 19153,
+    "elderly_count": 3106,
+    "homeless_count": 632,
+    "low_income_households": 4713
+  },
+  "85919": {
+    "population": 37199,
+    "elderly_count": 7025,
+    "homeless_count": 1609,
+    "low_income_households": 10762
+  },
+  "85920": {
+    "population": 11664,
+    "elderly_count": 2325,
+    "homeless_count": 497,
+    "low_income_households": 2508
+  },
+  "85921": {
+    "population": 22811,
+    "elderly_count": 3725,
+    "homeless_count": 300,
+    "low_income_households": 8629
+  },
+  "85922": {
+    "population": 34518,
+    "elderly_count": 4213,
+    "homeless_count": 747,
+    "low_income_households": 10867
+  },
+  "85923": {
+    "population": 35428,
+    "elderly_count": 3933,
+    "homeless_count": 658,
+    "low_income_households": 11389
+  },
+  "85924": {
+    "population": 26146,
+    "elderly_count": 4035,
+    "homeless_count": 276,
+    "low_income_households": 5516
+  },
+  "85925": {
+    "population": 36395,
+    "elderly_count": 7901,
+    "homeless_count": 1482,
+    "low_income_households": 10511
+  },
+  "85926": {
+    "population": 42399,
+    "elderly_count": 6431,
+    "homeless_count": 1486,
+    "low_income_households": 9652
+  },
+  "85927": {
+    "population": 37598,
+    "elderly_count": 7062,
+    "homeless_count": 1488,
+    "low_income_households": 12574
+  },
+  "85928": {
+    "population": 41463,
+    "elderly_count": 5027,
+    "homeless_count": 1038,
+    "low_income_households": 14783
+  },
+  "85929": {
+    "population": 18573,
+    "elderly_count": 4523,
+    "homeless_count": 632,
+    "low_income_households": 5880
+  },
+  "85930": {
+    "population": 47849,
+    "elderly_count": 5711,
+    "homeless_count": 2237,
+    "low_income_households": 14406
+  },
+  "85931": {
+    "population": 10040,
+    "elderly_count": 1389,
+    "homeless_count": 339,
+    "low_income_households": 2401
+  },
+  "85932": {
+    "population": 20377,
+    "elderly_count": 2361,
+    "homeless_count": 990,
+    "low_income_households": 6686
+  },
+  "85933": {
+    "population": 34815,
+    "elderly_count": 6937,
+    "homeless_count": 615,
+    "low_income_households": 7874
+  },
+  "85934": {
+    "population": 10124,
+    "elderly_count": 1616,
+    "homeless_count": 407,
+    "low_income_households": 2771
+  },
+  "85935": {
+    "population": 12948,
+    "elderly_count": 1948,
+    "homeless_count": 520,
+    "low_income_households": 2785
+  },
+  "85936": {
+    "population": 44145,
+    "elderly_count": 11001,
+    "homeless_count": 735,
+    "low_income_households": 13306
+  },
+  "85937": {
+    "population": 19780,
+    "elderly_count": 2797,
+    "homeless_count": 287,
+    "low_income_households": 6193
+  },
+  "85938": {
+    "population": 37424,
+    "elderly_count": 5270,
+    "homeless_count": 1046,
+    "low_income_households": 9910
+  },
+  "85939": {
+    "population": 40378,
+    "elderly_count": 8503,
+    "homeless_count": 823,
+    "low_income_households": 10788
+  },
+  "85940": {
+    "population": 14773,
+    "elderly_count": 1606,
+    "homeless_count": 619,
+    "low_income_households": 5544
+  },
+  "85941": {
+    "population": 12781,
+    "elderly_count": 1496,
+    "homeless_count": 293,
+    "low_income_households": 4281
+  },
+  "85942": {
+    "population": 44232,
+    "elderly_count": 6478,
+    "homeless_count": 1331,
+    "low_income_households": 14041
+  },
+  "85943": {
+    "population": 18872,
+    "elderly_count": 4058,
+    "homeless_count": 309,
+    "low_income_households": 5374
+  },
+  "85944": {
+    "population": 38831,
+    "elderly_count": 5311,
+    "homeless_count": 1629,
+    "low_income_households": 9099
+  },
+  "85945": {
+    "population": 23413,
+    "elderly_count": 5693,
+    "homeless_count": 363,
+    "low_income_households": 5073
+  },
+  "85946": {
+    "population": 47988,
+    "elderly_count": 8977,
+    "homeless_count": 1195,
+    "low_income_households": 11202
+  },
+  "85947": {
+    "population": 28652,
+    "elderly_count": 4773,
+    "homeless_count": 866,
+    "low_income_households": 6225
+  },
+  "85948": {
+    "population": 35087,
+    "elderly_count": 5775,
+    "homeless_count": 551,
+    "low_income_households": 12754
+  },
+  "85949": {
+    "population": 21896,
+    "elderly_count": 2695,
+    "homeless_count": 634,
+    "low_income_households": 5932
+  },
+  "85950": {
+    "population": 28469,
+    "elderly_count": 4045,
+    "homeless_count": 572,
+    "low_income_households": 7215
+  },
+  "85951": {
+    "population": 12537,
+    "elderly_count": 1911,
+    "homeless_count": 462,
+    "low_income_households": 4841
+  },
+  "85952": {
+    "population": 39368,
+    "elderly_count": 8850,
+    "homeless_count": 987,
+    "low_income_households": 10246
+  },
+  "85953": {
+    "population": 40204,
+    "elderly_count": 7776,
+    "homeless_count": 941,
+    "low_income_households": 14146
+  },
+  "85954": {
+    "population": 41900,
+    "elderly_count": 5325,
+    "homeless_count": 917,
+    "low_income_households": 13458
+  },
+  "85955": {
+    "population": 34006,
+    "elderly_count": 6425,
+    "homeless_count": 662,
+    "low_income_households": 8414
+  },
+  "85956": {
+    "population": 45572,
+    "elderly_count": 6206,
+    "homeless_count": 1614,
+    "low_income_households": 13481
+  },
+  "85957": {
+    "population": 11281,
+    "elderly_count": 2267,
+    "homeless_count": 525,
+    "low_income_households": 2753
+  },
+  "85958": {
+    "population": 32292,
+    "elderly_count": 7856,
+    "homeless_count": 1400,
+    "low_income_households": 7687
+  },
+  "85959": {
+    "population": 29759,
+    "elderly_count": 5984,
+    "homeless_count": 1235,
+    "low_income_households": 6283
+  },
+  "85960": {
+    "population": 42563,
+    "elderly_count": 7552,
+    "homeless_count": 541,
+    "low_income_households": 11694
+  },
+  "85961": {
+    "population": 40870,
+    "elderly_count": 7944,
+    "homeless_count": 1293,
+    "low_income_households": 14732
+  },
+  "85962": {
+    "population": 25590,
+    "elderly_count": 4456,
+    "homeless_count": 852,
+    "low_income_households": 8240
+  },
+  "85963": {
+    "population": 18559,
+    "elderly_count": 2305,
+    "homeless_count": 664,
+    "low_income_households": 4724
+  },
+  "85964": {
+    "population": 32903,
+    "elderly_count": 7215,
+    "homeless_count": 1266,
+    "low_income_households": 8507
+  },
+  "85965": {
+    "population": 22566,
+    "elderly_count": 3567,
+    "homeless_count": 240,
+    "low_income_households": 5057
+  },
+  "85966": {
+    "population": 44433,
+    "elderly_count": 5615,
+    "homeless_count": 969,
+    "low_income_households": 9018
+  },
+  "85967": {
+    "population": 14129,
+    "elderly_count": 2700,
+    "homeless_count": 467,
+    "low_income_households": 4615
+  },
+  "85968": {
+    "population": 49586,
+    "elderly_count": 11853,
+    "homeless_count": 2154,
+    "low_income_households": 16730
+  },
+  "85969": {
+    "population": 26503,
+    "elderly_count": 4166,
+    "homeless_count": 710,
+    "low_income_households": 6736
+  },
+  "85970": {
+    "population": 46153,
+    "elderly_count": 7307,
+    "homeless_count": 1930,
+    "low_income_households": 13532
+  },
+  "85971": {
+    "population": 41123,
+    "elderly_count": 4886,
+    "homeless_count": 1986,
+    "low_income_households": 11378
+  },
+  "85972": {
+    "population": 37852,
+    "elderly_count": 8646,
+    "homeless_count": 465,
+    "low_income_households": 11556
+  },
+  "85973": {
+    "population": 44095,
+    "elderly_count": 6971,
+    "homeless_count": 1599,
+    "low_income_households": 14224
+  },
+  "85974": {
+    "population": 37929,
+    "elderly_count": 6620,
+    "homeless_count": 1527,
+    "low_income_households": 8991
+  },
+  "85975": {
+    "population": 45437,
+    "elderly_count": 5089,
+    "homeless_count": 475,
+    "low_income_households": 14515
+  },
+  "85976": {
+    "population": 23383,
+    "elderly_count": 5425,
+    "homeless_count": 502,
+    "low_income_households": 5429
+  },
+  "85977": {
+    "population": 42079,
+    "elderly_count": 6552,
+    "homeless_count": 1668,
+    "low_income_households": 9327
+  },
+  "85978": {
+    "population": 10373,
+    "elderly_count": 2552,
+    "homeless_count": 370,
+    "low_income_households": 2079
+  },
+  "85979": {
+    "population": 46819,
+    "elderly_count": 5421,
+    "homeless_count": 2050,
+    "low_income_households": 11029
+  },
+  "85980": {
+    "population": 25304,
+    "elderly_count": 3400,
+    "homeless_count": 1096,
+    "low_income_households": 5723
+  },
+  "85981": {
+    "population": 38200,
+    "elderly_count": 7318,
+    "homeless_count": 419,
+    "low_income_households": 13738
+  },
+  "85982": {
+    "population": 17506,
+    "elderly_count": 2811,
+    "homeless_count": 533,
+    "low_income_households": 3821
+  },
+  "85983": {
+    "population": 21731,
+    "elderly_count": 5149,
+    "homeless_count": 783,
+    "low_income_households": 6778
+  },
+  "85984": {
+    "population": 9761,
+    "elderly_count": 2307,
+    "homeless_count": 316,
+    "low_income_households": 3880
+  },
+  "85985": {
+    "population": 23589,
+    "elderly_count": 2424,
+    "homeless_count": 323,
+    "low_income_households": 5373
+  },
+  "85986": {
+    "population": 23264,
+    "elderly_count": 3097,
+    "homeless_count": 703,
+    "low_income_households": 8071
+  },
+  "85987": {
+    "population": 48206,
+    "elderly_count": 11215,
+    "homeless_count": 1817,
+    "low_income_households": 12607
+  },
+  "85988": {
+    "population": 28826,
+    "elderly_count": 7027,
+    "homeless_count": 781,
+    "low_income_households": 6940
+  },
+  "85989": {
+    "population": 27757,
+    "elderly_count": 5865,
+    "homeless_count": 823,
+    "low_income_households": 5667
+  },
+  "85990": {
+    "population": 14518,
+    "elderly_count": 2705,
+    "homeless_count": 479,
+    "low_income_households": 3795
+  },
+  "85991": {
+    "population": 21175,
+    "elderly_count": 2554,
+    "homeless_count": 233,
+    "low_income_households": 8158
+  },
+  "85992": {
+    "population": 23179,
+    "elderly_count": 2631,
+    "homeless_count": 756,
+    "low_income_households": 5492
+  },
+  "85993": {
+    "population": 47430,
+    "elderly_count": 6370,
+    "homeless_count": 1706,
+    "low_income_households": 15239
+  },
+  "85994": {
+    "population": 46194,
+    "elderly_count": 7576,
+    "homeless_count": 653,
+    "low_income_households": 18221
+  },
+  "85995": {
+    "population": 42618,
+    "elderly_count": 5302,
+    "homeless_count": 1555,
+    "low_income_households": 10644
+  },
+  "85996": {
+    "population": 8558,
+    "elderly_count": 1359,
+    "homeless_count": 313,
+    "low_income_households": 2455
+  },
+  "85997": {
+    "population": 42350,
+    "elderly_count": 6692,
+    "homeless_count": 1680,
+    "low_income_households": 9622
+  },
+  "85998": {
+    "population": 37708,
+    "elderly_count": 5636,
+    "homeless_count": 784,
+    "low_income_households": 9681
+  },
+  "85999": {
+    "population": 14771,
+    "elderly_count": 1667,
+    "homeless_count": 629,
+    "low_income_households": 3889
+  }
+}
